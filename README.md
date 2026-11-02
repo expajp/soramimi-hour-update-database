@@ -2,6 +2,8 @@
 
 [空耳アワーアップデート](https://www7a.biglobe.ne.jp/~soramimiupdate/) に掲載された全作品（1992年4月〜2023年3月）を収集したデータベースです。
 
+検索サイト: https://expajp.github.io/soramimi-hour-update-database/
+
 ## 生成物（`data/`）
 
 | ファイル | 内容 |
@@ -56,6 +58,15 @@
 
 別名と略称は同じ `artist_key` にまとめます（The Artist Formerly Known As Prince → プリンス、Rhapsody → Rhapsody of Fire など）。
 feat. やコラボ名義はまとめず、別の `artist_key` にします。
+
+## 検索サイト
+
+`docs/` が GitHub Pages で公開する静的サイトです。ビルド工程はありません。
+`python3 scripts/build_site.py` が `data/` から `docs/data.json` を生成します。
+
+- アーティスト名は `artist_key` と同じグループの全表記を検索するので、どの表記で入力しても同じ作品が見つかります。
+- 評価数は放送日の期間で集計し、ほかの検索条件にも一致する作品の数を併記します。
+- 賞品が複数ある作品は高い方の評価で 1 件と数えます。賞品の総数を数える `build_report.txt` とは手ぬぐいなどの数が異なります。
 
 ## 再生成
 
