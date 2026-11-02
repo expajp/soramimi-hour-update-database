@@ -1,0 +1,77 @@
+[
+ {
+  "key": "en:thirdworld",
+  "artist_key": "サード・ワールド",
+  "note": "Apple の検索結果のページ名が Various Artists になるため手動指定"
+ },
+ {
+  "key": "en:timedrillers",
+  "artist_key": "タイムドリラーズ",
+  "note": "Apple の Time Killers は別アーティスト"
+ },
+ {
+  "key": "en:fallenangels",
+  "artist_key": "「天使の涙」",
+  "note": "映画サントラ。Apple の Fallen Angels は別アーティスト"
+ },
+ {
+  "key": "en:mnk",
+  "artist_key": "ミンク",
+  "note": "Apple の M!nk は別アーティストと判断"
+ },
+ {
+  "key": "ja:―",
+  "artist_key": "",
+  "note": "アーティスト表記なし（賛美歌）"
+ },
+ {
+  "key": "ja:ジミヘンドリックスエクスペリエンス",
+  "artist_key": "ジミ・ヘンドリックス",
+  "note": "サイト内でも両表記が混在しているため統合"
+ },
+ {
+  "key": "en:bluesbrothers2000",
+  "artist_key": "「ブルース・ブラザーズ2000」オリジナルサウンドトラック",
+  "note": "映画サントラ"
+ },
+ {
+  "key": "en:bluesbrothers2000ost",
+  "artist_key": "「ブルース・ブラザーズ2000」オリジナルサウンドトラック",
+  "note": "映画サントラ"
+ },
+ {
+  "key": "en:junglebook",
+  "artist_key": "「ジャングル・ブック」オリジナルサウンドトラック",
+  "note": "映画サントラ"
+ },
+ {
+  "key": "en:junglebookost",
+  "artist_key": "「ジャングル・ブック」オリジナルサウンドトラック",
+  "note": "映画サントラ"
+ },
+ {
+  "key": "en:ellafitzgeraldlouisarmstrong",
+  "artist_key": "エラ・フィッツジェラルド＆ルイ・アームストロング",
+  "note": "同じ共演名義の表記揺れ"
+ },
+ {
+  "key": "en:ellafitzgeraldandlouisarmstrong",
+  "artist_key": "エラ・フィッツジェラルド＆ルイ・アームストロング",
+  "note": "同じ共演名義の表記揺れ"
+ },
+ {
+  "key": "en:beyoncefeatjayz",
+  "artist_key": "ビヨンセ feat. ジェイ・Z",
+  "note": "feat. は別扱い"
+ },
+ {
+  "key": "en:tantometro",
+  "artist_key": "タント・メトロ＆デヴォンテ",
+  "note": "コラボは別扱い"
+ },
+ {
+  "key": "en:momoney",
+  "artist_key": "「モ・マネー」オリジナルサウンドトラック",
+  "note": "映画サントラ。Apple の Duce は別アーティスト"
+ }
+]

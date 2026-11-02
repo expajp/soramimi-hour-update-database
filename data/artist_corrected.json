@@ -1,0 +1,350 @@
+{
+ "en:gypsykings": {
+  "apple_id": 553517,
+  "apple_name": "ジプシー・キングス",
+  "apple_latin": "Gipsy Kings",
+  "term": "Gipsy Kings"
+ },
+ "en:crash": {
+  "apple_id": 522000,
+  "apple_name": "ザ・クラッシュ",
+  "apple_latin": "The Clash",
+  "term": "The Clash"
+ },
+ "en:ironmeiden": {
+  "apple_id": 546381,
+  "apple_name": "アイアン・メイデン",
+  "apple_latin": "Iron Maiden",
+  "term": "Iron Maiden"
+ },
+ "en:slipnot": {
+  "apple_id": 6907568,
+  "apple_name": "スリップノット",
+  "apple_latin": "Slipknot",
+  "term": "Slipknot"
+ },
+ "ja:スリップノット(slipknot)": {
+  "apple_id": 6907568,
+  "apple_name": "スリップノット",
+  "apple_latin": "Slipknot",
+  "term": "Slipknot"
+ },
+ "en:motleycrew": {
+  "apple_id": 284113,
+  "apple_name": "モトリー・クルー",
+  "apple_latin": "Mötley Crüe",
+  "term": "Motley Crue"
+ },
+ "en:halloween": {
+  "apple_id": 2320560,
+  "apple_name": "ハロウィン",
+  "apple_latin": "Helloween",
+  "term": "Helloween"
+ },
+ "en:extream": {
+  "apple_id": 106804,
+  "apple_name": "EXTREME",
+  "apple_latin": "EXTREME",
+  "term": "Extreme"
+ },
+ "en:misfit": {
+  "apple_id": 116250,
+  "apple_name": "The Misfits",
+  "apple_latin": "The Misfits",
+  "term": "The Misfits"
+ },
+ "en:europa": {
+  "apple_id": 461932,
+  "apple_name": "ヨーロッパ",
+  "apple_latin": "Europe",
+  "term": "Europe"
+ },
+ "en:pangea": {
+  "apple_id": 1542680817,
+  "apple_name": "パンゲア",
+  "apple_latin": "Pangaea",
+  "term": "Pangaea"
+ },
+ "en:ludicrous": {
+  "apple_id": 352073,
+  "apple_name": "リュダクリス",
+  "apple_latin": "Ludacris",
+  "term": "Ludacris"
+ },
+ "en:lostprophet": {
+  "apple_id": 473514,
+  "apple_name": "Lostprophets",
+  "apple_latin": "Lostprophets",
+  "term": "Lostprophets"
+ },
+ "en:selector": {
+  "apple_id": 541984,
+  "apple_name": "ザ・セレクター",
+  "apple_latin": "The Selecter",
+  "term": "The Selecter"
+ },
+ "en:chumbawumba": {
+  "apple_id": 99910,
+  "apple_name": "チャンバワンバ",
+  "apple_latin": "Chumbawamba",
+  "term": "Chumbawamba"
+ },
+ "en:monkeys": {
+  "apple_id": 4512388,
+  "apple_name": "ザ・モンキーズ",
+  "apple_latin": "The Monkees",
+  "term": "The Monkees"
+ },
+ "ja:kiss": {
+  "apple_id": 118108,
+  "apple_name": "キッス",
+  "apple_latin": "Kiss",
+  "term": "Kiss"
+ },
+ "en:jets": {
+  "apple_id": 26721,
+  "apple_name": "ジェッツ",
+  "apple_latin": "The Jets",
+  "term": "The Jets"
+ },
+ "en:rhapsody": {
+  "apple_id": 188144698,
+  "apple_name": "Rhapsody of Fire",
+  "apple_latin": "Rhapsody of Fire",
+  "term": "Rhapsody of Fire"
+ },
+ "en:snoopdoggydogg": {
+  "apple_id": 21769,
+  "apple_name": "スヌープ・ドッグ",
+  "apple_latin": "Snoop Dogg",
+  "term": "Snoop Dogg"
+ },
+ "en:pierrevallet": {
+  "apple_id": 3509402,
+  "apple_name": "ピエール・バルー",
+  "apple_latin": "Pierre Barouh",
+  "term": "Pierre Barouh"
+ },
+ "en:porice": {
+  "apple_id": 93818,
+  "apple_name": "ポリス",
+  "apple_latin": "The Police",
+  "term": "The Police"
+ },
+ "en:hallandoates": {
+  "apple_id": 180586,
+  "apple_name": "ダリル・ホール&ジョン・オーツ",
+  "apple_latin": "Daryl Hall & John Oates",
+  "term": "Daryl Hall & John Oates"
+ },
+ "ja:ccr": {
+  "apple_id": 2083606,
+  "apple_name": "クリーデンス・クリアウォーター・リヴァイヴァル",
+  "apple_latin": "Creedence Clearwater Revival",
+  "term": "Creedence Clearwater Revival"
+ },
+ "ja:elo": {
+  "apple_id": 471528,
+  "apple_name": "エレクトリック・ライト・オーケストラ",
+  "apple_latin": "Electric Light Orchestra",
+  "term": "Electric Light Orchestra"
+ },
+ "ja:elopart2": {
+  "apple_id": 1811422814,
+  "apple_name": "ELO Part II",
+  "apple_latin": "ELO Part II",
+  "term": "ELO Part II"
+ },
+ "ja:udo": {
+  "apple_id": 530051897,
+  "apple_name": "U.D.O.",
+  "apple_latin": "U.D.O.",
+  "term": "U.D.O."
+ },
+ "ja:abc": {
+  "apple_id": 391195,
+  "apple_name": "ABC",
+  "apple_latin": "ABC",
+  "term": "ABC"
+ },
+ "ja:jbs": {
+  "apple_id": 250518,
+  "apple_name": "ザ ジェイビーズ",
+  "apple_latin": "The J.B.'s",
+  "term": "The J.B.'s"
+ },
+ "ja:fun": {
+  "apple_id": 138226712,
+  "apple_name": "FUN.",
+  "apple_latin": "Fun.",
+  "term": "fun."
+ },
+ "en:grandfunk": {
+  "apple_id": 550253,
+  "apple_name": "グランド・ファンク・レイルロード",
+  "apple_latin": "Grand Funk Railroad",
+  "term": "Grand Funk Railroad"
+ },
+ "en:terencetrentdarby": {
+  "apple_id": 14708444,
+  "apple_name": "サナンダ・マイトレイヤ",
+  "apple_latin": "Sananda Maitreya",
+  "term": "Sananda Maitreya"
+ },
+ "en:common": {
+  "apple_id": 64490,
+  "apple_name": "コモン",
+  "apple_latin": "Common",
+  "term": "Common"
+ },
+ "en:obrahaza": {
+  "apple_id": 1445761290,
+  "apple_name": "オフラ・ハザ",
+  "apple_latin": "Ofra Haza",
+  "term": "Ofra Haza"
+ },
+ "en:ministries": {
+  "apple_id": 609022,
+  "apple_name": "ミニストリー",
+  "apple_latin": "Ministry",
+  "term": "Ministry"
+ },
+ "en:johnzohn": {
+  "apple_id": 995599,
+  "apple_name": "ジョン・ゾーン",
+  "apple_latin": "John Zorn",
+  "term": "John Zorn"
+ },
+ "en:anajohnson": {
+  "apple_id": 15063236,
+  "apple_name": "Ana Johnsson",
+  "apple_latin": "Ana Johnsson",
+  "term": "Ana Johnsson"
+ },
+ "en:einstzendeneubauten": {
+  "apple_id": 3716338,
+  "apple_name": "アインシュテュルツェンデ・ノイバウテン",
+  "apple_latin": "Einstürzende Neubauten",
+  "term": "Einsturzende Neubauten"
+ },
+ "en:jorgeben": {
+  "apple_id": 117436,
+  "apple_name": "Jorge Ben Jor",
+  "apple_latin": "Jorge Ben Jor",
+  "term": "Jorge Ben Jor"
+ },
+ "en:unitedsupportofartistsforafrica": {
+  "apple_id": 41737861,
+  "apple_name": "U.S.A. for Africa",
+  "apple_latin": "U.S.A. for Africa",
+  "term": "USA for Africa"
+ },
+ "en:geniusgza": {
+  "apple_id": 64434,
+  "apple_name": "GZA",
+  "apple_latin": "GZA",
+  "term": "GZA"
+ },
+ "en:yngwiejohannmalmsten": {
+  "apple_id": 41769,
+  "apple_name": "イングヴェイ・マルムスティーン",
+  "apple_latin": "Yngwie Malmsteen",
+  "term": "Yngwie Malmsteen"
+ },
+ "ja:reoスピドワゴン": {
+  "apple_id": 575609,
+  "apple_name": "REO Speedwagon",
+  "apple_latin": "REO Speedwagon",
+  "term": "REO Speedwagon"
+ },
+ "ja:マニックストリトプリチャズ": {
+  "apple_id": 659158,
+  "apple_name": "MANIC STREET PREACHERS",
+  "apple_latin": "Manic Street Preachers",
+  "term": "Manic Street Preachers"
+ },
+ "ja:キャロル": {
+  "apple_id": 1669346235,
+  "apple_name": "CAROL",
+  "apple_latin": "CAROL",
+  "term": "CAROL"
+ },
+ "ja:デングフィヴァ": {
+  "apple_id": 2952250,
+  "apple_name": "Dengue Fever",
+  "apple_latin": "Dengue Fever",
+  "term": "Dengue Fever"
+ },
+ "ja:小林靖宏": {
+  "apple_id": 219804735,
+  "apple_name": "coba",
+  "apple_latin": "coba",
+  "term": "coba"
+ },
+ "ja:スナップ(snap)※放送ではビンドゥ": {
+  "apple_id": 41892336,
+  "apple_name": "スナップ!",
+  "apple_latin": "Snap!",
+  "term": "Snap!"
+ },
+ "ja:ゴダイゴ※日本のアティストです": {
+  "apple_id": 155832177,
+  "apple_name": "ゴダイゴ",
+  "apple_latin": "Godiego",
+  "term": "Godiego"
+ },
+ "ja:クレモンティヌ(clementine)": {
+  "apple_id": 77399407,
+  "apple_name": "クレモンティーヌ",
+  "apple_latin": "Clementine",
+  "term": "Clementine"
+ },
+ "ja:ドゥビブラザズ(doobiebrotherss": {
+  "apple_id": 117992093,
+  "apple_name": "ドゥービー・ブラザーズ",
+  "apple_latin": "The Doobie Brothers",
+  "term": "The Doobie Brothers"
+ },
+ "ja:ジョンフルシアンテ(johnfrusciante)※レッチリのギタリスト": {
+  "apple_id": 876741,
+  "apple_name": "ジョン・フルシアンテ",
+  "apple_latin": "John Frusciante",
+  "term": "John Frusciante"
+ },
+ "ja:アガペ(agepê)※放送ではラスカマゥン": {
+  "apple_id": 3735789,
+  "apple_name": "Agepê",
+  "apple_latin": "Agepê",
+  "term": "Agepê"
+ },
+ "ja:arラフマン(allahrakkharahman)※ムトゥ踊るマハラジャost": {
+  "apple_id": 3249567,
+  "apple_name": "A. R. ラフマーン",
+  "apple_latin": "A. R. Rahman",
+  "term": "A.R. Rahman"
+ },
+ "ja:arラフマン(alrakkharahman)※ムトゥ踊るマハラジャオリジナルサウンドドラック": {
+  "apple_id": 3249567,
+  "apple_name": "A. R. ラフマーン",
+  "apple_latin": "A. R. Rahman",
+  "term": "A.R. Rahman"
+ },
+ "en:artistformerlyknownasprince": {
+  "apple_id": 155814,
+  "apple_name": "プリンス",
+  "apple_latin": "Prince",
+  "term": "Prince"
+ },
+ "en:artistformallyknownasprince": {
+  "apple_id": 155814,
+  "apple_name": "プリンス",
+  "apple_latin": "Prince",
+  "term": "Prince"
+ },
+ "en:deutschamerikanischefreundschaft": {
+  "apple_id": 155797907,
+  "apple_name": "DAF",
+  "apple_latin": "DAF",
+  "term": "DAF"
+ }
+}

@@ -1,0 +1,15393 @@
+[
+ {
+  "key": "en:queen",
+  "n": 53,
+  "ja": {
+   "クイーン": 53
+  },
+  "en": {
+   "Queen": 53
+  }
+ },
+ {
+  "key": "en:metallica",
+  "n": 41,
+  "ja": {
+   "メタリカ": 41
+  },
+  "en": {
+   "Metallica": 40,
+   "Metaｌlica": 1
+  }
+ },
+ {
+  "key": "en:beatles",
+  "n": 36,
+  "ja": {
+   "ザ・ビートルズ": 27,
+   "ビートルズ": 9
+  },
+  "en": {
+   "The Beatles": 36
+  }
+ },
+ {
+  "key": "en:gipsykings",
+  "n": 31,
+  "ja": {
+   "ジプシー・キングス": 23,
+   "ジプシーキングス": 8
+  },
+  "en": {
+   "Gipsy Kings": 31
+  }
+ },
+ {
+  "key": "en:prince",
+  "n": 29,
+  "ja": {
+   "プリンス": 29
+  },
+  "en": {
+   "Prince": 29
+  }
+ },
+ {
+  "key": "en:michaeljackson",
+  "n": 29,
+  "ja": {
+   "マイケル・ジャクソン": 28,
+   "マイケル・ ジャクソン": 1
+  },
+  "en": {
+   "Michael Jackson": 29
+  }
+ },
+ {
+  "key": "en:ledzeppelin",
+  "n": 27,
+  "ja": {
+   "レッド・ツェッペリン": 27
+  },
+  "en": {
+   "Led Zeppelin": 27
+  }
+ },
+ {
+  "key": "en:sepultura",
+  "n": 26,
+  "ja": {
+   "セパルトゥラ": 24,
+   "セパルトゥーラ": 2
+  },
+  "en": {
+   "Sepultura": 26
+  }
+ },
+ {
+  "key": "en:systemofadown",
+  "n": 25,
+  "ja": {
+   "システム・オブ・ ア・ダウン": 22,
+   "システム・オブ・ア・ダウン": 2,
+   "システム・オブ・ア・ ダウン": 1
+  },
+  "en": {
+   "System Of A Down": 24,
+   "System Ｏｆ A Down": 1
+  }
+ },
+ {
+  "key": "en:redhotchilipeppers",
+  "n": 23,
+  "ja": {
+   "レッド・ホット・ チリ・ペッパーズ": 10,
+   "レッド・ホット・チリ・ ペッパーズ": 8,
+   "レッド・ホット・チリ・ペッパーズ": 5
+  },
+  "en": {
+   "Red Hot Chili Peppers": 23
+  }
+ },
+ {
+  "key": "en:jamesbrown",
+  "n": 22,
+  "ja": {
+   "ジェームス・ブラウン": 17,
+   "ジェームス・ ブラウン": 3,
+   "ジェイムス・ブラウン": 2
+  },
+  "en": {
+   "James Brown": 22
+  }
+ },
+ {
+  "key": "en:rainbow",
+  "n": 22,
+  "ja": {
+   "レインボー": 22
+  },
+  "en": {
+   "Rainbow": 22
+  }
+ },
+ {
+  "key": "en:earthwindandfire",
+  "n": 21,
+  "ja": {
+   "アース・ウィンド＆ ファイアー": 7,
+   "アース・ウインド＆ ファイアー": 5,
+   "アース・ウインド＆ ファイヤー": 2,
+   "アース・ウインド＆ファイヤー": 2,
+   "アース・ウィンド＆ ファイヤー": 2,
+   "アース・ウィンド・ アンド・ファイヤー": 1,
+   "アース・ウィンド＆ファイアー": 1,
+   "アース・ウィンド ＆ファイアー": 1
+  },
+  "en": {
+   "Earth Wind & Fire": 14,
+   "Earth, Wind & Fire": 6,
+   "Earth Wind And Fire": 1
+  }
+ },
+ {
+  "key": "en:slayer",
+  "n": 21,
+  "ja": {
+   "スレイヤー": 21
+  },
+  "en": {
+   "Slayer": 21
+  }
+ },
+ {
+  "key": "en:sergegainsbourg",
+  "n": 20,
+  "ja": {
+   "セルジュ・ ゲンズブール": 11,
+   "セルジュ・ ゲーンズブール": 6,
+   "セルジュ・ゲンズブール": 2,
+   "セルジュ・ ゲンスブール": 1
+  },
+  "en": {
+   "Serge Gainsbourg": 20
+  }
+ },
+ {
+  "key": "en:rageagainstthemachine",
+  "n": 20,
+  "ja": {
+   "レイジ・アゲインスト・ザ・マシーン": 11,
+   "レイジ・アゲインスト・ ザ・マシーン": 6,
+   "レイジ・ アゲインスト・ ザ・マシーン": 3
+  },
+  "en": {
+   "Rage Against The Machine": 19,
+   "Rage Against the Machine": 1
+  }
+ },
+ {
+  "key": "en:aerosmith",
+  "n": 19,
+  "ja": {
+   "エアロスミス": 19
+  },
+  "en": {
+   "Aerosmith": 19
+  }
+ },
+ {
+  "key": "en:abba",
+  "n": 18,
+  "ja": {
+   "アバ": 18
+  },
+  "en": {
+   "Abba": 18
+  }
+ },
+ {
+  "key": "en:megadeth",
+  "n": 18,
+  "ja": {
+   "メガデス": 18
+  },
+  "en": {
+   "Megadeth": 18
+  }
+ },
+ {
+  "key": "en:judaspriest",
+  "n": 18,
+  "ja": {
+   "ジューダス・ プリースト": 17,
+   "ジューダス・プリースト": 1
+  },
+  "en": {
+   "Judas Priest": 18
+  }
+ },
+ {
+  "key": "en:beastieboys",
+  "n": 18,
+  "ja": {
+   "ビースティ・ボーイズ": 14,
+   "ビースティ・ ボーイズ": 3,
+   "ビースティー・ ボーイズ": 1
+  },
+  "en": {
+   "Beastie Boys": 18
+  }
+ },
+ {
+  "key": "ja:ac/dc",
+  "n": 18,
+  "ja": {
+   "AC/DC": 18
+  },
+  "en": {}
+ },
+ {
+  "key": "en:vanhalen",
+  "n": 17,
+  "ja": {
+   "ヴァン・ヘイレン": 17
+  },
+  "en": {
+   "Van Halen": 17
+  }
+ },
+ {
+  "key": "en:billyjoel",
+  "n": 16,
+  "ja": {
+   "ビリー・ジョエル": 16
+  },
+  "en": {
+   "Billy Joel": 16
+  }
+ },
+ {
+  "key": "en:joaogilberto",
+  "n": 16,
+  "ja": {
+   "ジョアン・ジルベルト": 16
+  },
+  "en": {
+   "João Gilberto": 10,
+   "Joao Gilberto": 6
+  }
+ },
+ {
+  "key": "en:rollingstones",
+  "n": 15,
+  "ja": {
+   "ザ・ローリング・ ストーンズ": 11,
+   "ローリング・ストーンズ": 2,
+   "ローリング・ ストーンズ": 2
+  },
+  "en": {
+   "The Rolling Stones": 15
+  }
+ },
+ {
+  "key": "en:bonjovi",
+  "n": 15,
+  "ja": {
+   "ボン・ジョヴィ": 15
+  },
+  "en": {
+   "Bon Jovi": 14,
+   "Bon Joｖi": 1
+  }
+ },
+ {
+  "key": "en:rammstein",
+  "n": 15,
+  "ja": {
+   "ラムシュタイン": 13,
+   "ラムステイン": 1,
+   "ラムスタイン": 1
+  },
+  "en": {
+   "Rammstein": 15
+  }
+ },
+ {
+  "key": "en:bjork",
+  "n": 14,
+  "ja": {
+   "ビョーク": 13,
+   "ビヨーク": 1
+  },
+  "en": {
+   "Bjork": 13,
+   "Björk": 1
+  }
+ },
+ {
+  "key": "en:pantera",
+  "n": 14,
+  "ja": {
+   "パンテラ": 14
+  },
+  "en": {
+   "Pantera": 14
+  }
+ },
+ {
+  "key": "en:who",
+  "n": 14,
+  "ja": {
+   "ザ・フー": 14
+  },
+  "en": {
+   "The Who": 14
+  }
+ },
+ {
+  "key": "en:eminem",
+  "n": 13,
+  "ja": {
+   "エミネム": 13
+  },
+  "en": {
+   "Eminem": 13
+  }
+ },
+ {
+  "key": "en:clash",
+  "n": 12,
+  "ja": {
+   "ザ・クラッシュ": 11,
+   "クラッシュ": 1
+  },
+  "en": {
+   "The Clash": 12
+  }
+ },
+ {
+  "key": "en:louisarmstrong",
+  "n": 12,
+  "ja": {
+   "ルイ・ アームストロング": 12
+  },
+  "en": {
+   "Louis Armstrong": 12
+  }
+ },
+ {
+  "key": "en:rancid",
+  "n": 12,
+  "ja": {
+   "ランシド": 12
+  },
+  "en": {
+   "Rancid": 12
+  }
+ },
+ {
+  "key": "en:simonandgarfunkel",
+  "n": 12,
+  "ja": {
+   "サイモン＆ ガーファンクル": 11,
+   "サイモン・アンド・ガーファンクル": 1
+  },
+  "en": {
+   "Simon & Garfunkel": 8,
+   "Simon And Garfunkel": 3,
+   "Simon＆Garfunkel": 1
+  }
+ },
+ {
+  "key": "en:wutangclan",
+  "n": 12,
+  "ja": {
+   "ウータン・クラン": 11,
+   "ウー・タン・クラン": 1
+  },
+  "en": {
+   "Wu-Tang Clan": 10,
+   "Wu‐Tang Clan": 2
+  }
+ },
+ {
+  "key": "en:janisjoplin",
+  "n": 11,
+  "ja": {
+   "ジャニス・ジョプリン": 9,
+   "ジャニス・ ジョップリン": 1,
+   "ジャニス・ジョップリン": 1
+  },
+  "en": {
+   "Janis Joplin": 11
+  }
+ },
+ {
+  "key": "en:kiss",
+  "n": 11,
+  "ja": {
+   "キッス": 11
+  },
+  "en": {
+   "Kiss": 11
+  }
+ },
+ {
+  "key": "en:scorpions",
+  "n": 11,
+  "ja": {
+   "スコーピオンズ": 11
+  },
+  "en": {
+   "Scorpions": 10,
+   "The Scorpions": 1
+  }
+ },
+ {
+  "key": "en:ironmaiden",
+  "n": 11,
+  "ja": {
+   "アイアン・メイデン": 11
+  },
+  "en": {
+   "Iron Maiden": 11
+  }
+ },
+ {
+  "key": "en:offspring",
+  "n": 11,
+  "ja": {
+   "オフスプリング": 11
+  },
+  "en": {
+   "Offspring": 9,
+   "The Offspring": 2
+  }
+ },
+ {
+  "key": "en:limpbizkit",
+  "n": 11,
+  "ja": {
+   "リンプ・ビズキット": 8,
+   "リンプ・ビスキット": 3
+  },
+  "en": {
+   "Limp Bizkit": 11
+  }
+ },
+ {
+  "key": "en:steviewonder",
+  "n": 10,
+  "ja": {
+   "スティーヴィー・ ワンダー": 5,
+   "スティービー・ ワンダー": 4,
+   "スティービー・ワンダー": 1
+  },
+  "en": {
+   "Stevie Wonder": 10
+  }
+ },
+ {
+  "key": "en:gunsnroses",
+  "n": 10,
+  "ja": {
+   "ガンズ・アンド・ ローゼズ": 9,
+   "ガンズ・アンド・ ローゼス": 1
+  },
+  "en": {
+   "Guns N' Roses": 10
+  }
+ },
+ {
+  "key": "en:anthrax",
+  "n": 10,
+  "ja": {
+   "アンスラックス": 10
+  },
+  "en": {
+   "Anthrax": 10
+  }
+ },
+ {
+  "key": "en:celinedion",
+  "n": 10,
+  "ja": {
+   "セリーヌ・ディオン": 10
+  },
+  "en": {
+   "Celine Dion": 9,
+   "Céline Dion": 1
+  }
+ },
+ {
+  "key": "en:elvispresley",
+  "n": 10,
+  "ja": {
+   "エルヴィス・ プレスリー": 6,
+   "エルビス・プレスリー": 3,
+   "エルビス・ プレスリー": 1
+  },
+  "en": {
+   "Elvis Presley": 10
+  }
+ },
+ {
+  "key": "en:deepforest",
+  "n": 10,
+  "ja": {
+   "ディープ・フォレスト": 10
+  },
+  "en": {
+   "Deep Forest": 10
+  }
+ },
+ {
+  "key": "en:mariahcarey",
+  "n": 10,
+  "ja": {
+   "マライア・キャリー": 6,
+   "マライヤ・キャリー": 3,
+   "マライア・ キャリー": 1
+  },
+  "en": {
+   "Mariah Carey": 10
+  }
+ },
+ {
+  "key": "en:atthedrivein",
+  "n": 10,
+  "ja": {
+   "アット・ザ・ ドライヴイン": 5,
+   "アット・ザ・ ドライブイン": 4,
+   "アット・ザ・ドライブイン": 1
+  },
+  "en": {
+   "At The Drive-In": 6,
+   "At The Drive In": 3,
+   "At the Drive-In": 1
+  }
+ },
+ {
+  "key": "en:slipknot",
+  "n": 10,
+  "ja": {
+   "スリップノット": 9,
+   "スリップ・ノット": 1
+  },
+  "en": {
+   "Slipknot": 9,
+   "SlipKnoT": 1
+  }
+ },
+ {
+  "key": "en:blackeyedpeas",
+  "n": 10,
+  "ja": {
+   "ブラック・アイド・ ピーズ": 5,
+   "ブラック・アイド・ ピース": 5
+  },
+  "en": {
+   "Black Eyed Peas": 9,
+   "The Black Eyed Peas": 1
+  }
+ },
+ {
+  "key": "en:jimihendrix",
+  "n": 9,
+  "ja": {
+   "ジミ・ヘンドリックス": 8,
+   "ジミ・ヘンドリックス・エクスペリエンス": 1
+  },
+  "en": {
+   "Jimi Hendrix": 8,
+   "Jimi Hendrix,": 1
+  }
+ },
+ {
+  "key": "en:bobdylan",
+  "n": 9,
+  "ja": {
+   "ボブ・ディラン": 8,
+   "ボブディラン": 1
+  },
+  "en": {
+   "Bob Dylan": 9
+  }
+ },
+ {
+  "key": "en:motleycrue",
+  "n": 9,
+  "ja": {
+   "モトリー・クルー": 9
+  },
+  "en": {
+   "Motley Crue": 8,
+   "Mötley Crüe": 1
+  }
+ },
+ {
+  "key": "ja:u2",
+  "n": 9,
+  "ja": {
+   "U2": 8,
+   "U-2": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:deeppurple",
+  "n": 9,
+  "ja": {
+   "ディープ・パープル": 8,
+   "ディープ・ パープル": 1
+  },
+  "en": {
+   "Deep Purple": 9
+  }
+ },
+ {
+  "key": "ja:toto",
+  "n": 9,
+  "ja": {
+   "TOTO": 9
+  },
+  "en": {}
+ },
+ {
+  "key": "en:napalmdeath",
+  "n": 9,
+  "ja": {
+   "ナパーム・デス": 9
+  },
+  "en": {
+   "Napalm Death": 9
+  }
+ },
+ {
+  "key": "en:death",
+  "n": 9,
+  "ja": {
+   "デス": 9
+  },
+  "en": {
+   "Death": 9
+  }
+ },
+ {
+  "key": "en:helloween",
+  "n": 9,
+  "ja": {
+   "ハロウィン": 9
+  },
+  "en": {
+   "Helloween": 9
+  }
+ },
+ {
+  "key": "en:beachboys",
+  "n": 9,
+  "ja": {
+   "ビーチ・ボーイズ": 7,
+   "ビーチボーイズ": 1,
+   "ザ・ビーチボーイズ": 1
+  },
+  "en": {
+   "Beach Boys": 7,
+   "The Beach Boys": 2
+  }
+ },
+ {
+  "key": "en:soulfly",
+  "n": 9,
+  "ja": {
+   "ソウルフライ": 9
+  },
+  "en": {
+   "Soulfly": 9
+  }
+ },
+ {
+  "key": "en:zebrahead",
+  "n": 9,
+  "ja": {
+   "ゼブラヘッド": 9
+  },
+  "en": {
+   "Zebrahead": 9
+  }
+ },
+ {
+  "key": "en:sonataarctica",
+  "n": 9,
+  "ja": {
+   "ソナタ・アークティカ": 9
+  },
+  "en": {
+   "Sonata Arctica": 9
+  }
+ },
+ {
+  "key": "en:darylhallandjohnoates",
+  "n": 8,
+  "ja": {
+   "ダリル・ホール＆ ジョン・オーツ": 5,
+   "ホール＆オーツ": 2,
+   "ダリル・ホールと ジョン・オーツ": 1
+  },
+  "en": {
+   "Daryl Hall & John Oates": 5,
+   "Daryl Hall And John Oates": 3
+  }
+ },
+ {
+  "key": "en:talkingheads",
+  "n": 8,
+  "ja": {
+   "トーキング・ヘッズ": 8
+  },
+  "en": {
+   "Talking Heads": 8
+  }
+ },
+ {
+  "key": "en:toydolls",
+  "n": 8,
+  "ja": {
+   "トイ・ドールズ": 7,
+   "ザ・トイ・ドールズ": 1
+  },
+  "en": {
+   "Toy Dolls": 7,
+   "The Toy Dolls": 1
+  }
+ },
+ {
+  "key": "en:rodstewart",
+  "n": 8,
+  "ja": {
+   "ロッド・スチュワート": 8
+  },
+  "en": {
+   "Rod Stewart": 8
+  }
+ },
+ {
+  "key": "en:lennykravitz",
+  "n": 8,
+  "ja": {
+   "レニー・クラヴィッツ": 8
+  },
+  "en": {
+   "Lenny Kravitz": 8
+  }
+ },
+ {
+  "key": "en:cyndilauper",
+  "n": 8,
+  "ja": {
+   "シンディー・ローパー": 6,
+   "シンディ・ローパー": 2
+  },
+  "en": {
+   "Cyndi Lauper": 8
+  }
+ },
+ {
+  "key": "en:blur",
+  "n": 8,
+  "ja": {
+   "ブラー": 8
+  },
+  "en": {
+   "Blur": 8
+  }
+ },
+ {
+  "key": "en:elisregina",
+  "n": 8,
+  "ja": {
+   "エリス・レジーナ": 8
+  },
+  "en": {
+   "Elis Regina": 8
+  }
+ },
+ {
+  "key": "ja:松任谷由実",
+  "n": 8,
+  "ja": {
+   "松任谷由実": 8
+  },
+  "en": {}
+ },
+ {
+  "key": "en:beegees",
+  "n": 7,
+  "ja": {
+   "ビー・ジーズ": 4,
+   "ビージーズ": 3
+  },
+  "en": {
+   "Bee Gees": 6,
+   "The Bee Gees": 1
+  }
+ },
+ {
+  "key": "en:davidleeroth",
+  "n": 7,
+  "ja": {
+   "デイヴィッド・ リー・ロス": 3,
+   "デヴィッド・リー・ロス": 2,
+   "デイヴィット・ リー・ロス": 1,
+   "ディヴィッド・ リー・ロス": 1
+  },
+  "en": {
+   "David Lee Roth": 7
+  }
+ },
+ {
+  "key": "en:clementine",
+  "n": 7,
+  "ja": {
+   "クレモンティーヌ": 7
+  },
+  "en": {
+   "Clementine": 6,
+   "Clémentine": 1
+  }
+ },
+ {
+  "key": "en:davidbowie",
+  "n": 7,
+  "ja": {
+   "デヴィッド・ボウイ": 5,
+   "デビッド・ボウイ": 2
+  },
+  "en": {
+   "David Bowie": 7
+  }
+ },
+ {
+  "key": "en:extreme",
+  "n": 7,
+  "ja": {
+   "エクストリーム": 7
+  },
+  "en": {
+   "Extreme": 7
+  }
+ },
+ {
+  "key": "en:ericclapton",
+  "n": 7,
+  "ja": {
+   "エリック・クラプトン": 7
+  },
+  "en": {
+   "Eric Clapton": 7
+  }
+ },
+ {
+  "key": "en:carcass",
+  "n": 7,
+  "ja": {
+   "カーカス": 7
+  },
+  "en": {
+   "Carcass": 7
+  }
+ },
+ {
+  "key": "en:asia",
+  "n": 7,
+  "ja": {
+   "エイジア": 7
+  },
+  "en": {
+   "Asia": 7
+  }
+ },
+ {
+  "key": "en:carpenters",
+  "n": 7,
+  "ja": {
+   "カーペンターズ": 7
+  },
+  "en": {
+   "Carpenters": 5,
+   "The Carpenters": 2
+  }
+ },
+ {
+  "key": "en:frankzappa",
+  "n": 7,
+  "ja": {
+   "フランク・ザッパ": 7
+  },
+  "en": {
+   "Frank Zappa": 7
+  }
+ },
+ {
+  "key": "en:blindguardian",
+  "n": 7,
+  "ja": {
+   "ブラインド・ ガーディアン": 4,
+   "ブラインド・ガーディアン": 2,
+   "ブラインド・ガーデン": 1
+  },
+  "en": {
+   "Blind Guardian": 7
+  }
+ },
+ {
+  "key": "en:archenemy",
+  "n": 7,
+  "ja": {
+   "アーク・エネミー": 7
+  },
+  "en": {
+   "Arch Enemy": 7
+  }
+ },
+ {
+  "key": "en:eltonjohn",
+  "n": 7,
+  "ja": {
+   "エルトン・ジョン": 7
+  },
+  "en": {
+   "Elton John": 7
+  }
+ },
+ {
+  "key": "en:nelly",
+  "n": 7,
+  "ja": {
+   "ネリー": 7
+  },
+  "en": {
+   "Nelly": 7
+  }
+ },
+ {
+  "key": "en:aliciakeys",
+  "n": 7,
+  "ja": {
+   "アリシア・キーズ": 7
+  },
+  "en": {
+   "Alicia Keys": 7
+  }
+ },
+ {
+  "key": "en:edithpiaf",
+  "n": 7,
+  "ja": {
+   "エディット・ピアフ": 7
+  },
+  "en": {
+   "Edith Piaf": 5,
+   "Édith Piaf": 2
+  }
+ },
+ {
+  "key": "en:specials",
+  "n": 6,
+  "ja": {
+   "スペシャルズ": 3,
+   "ザ・スペシャルズ": 3
+  },
+  "en": {
+   "The Specials": 4,
+   "Specials": 1,
+   "the specials": 1
+  }
+ },
+ {
+  "key": "en:kingcrimson",
+  "n": 6,
+  "ja": {
+   "キング・クリムゾン": 6
+  },
+  "en": {
+   "King Crimson": 6
+  }
+ },
+ {
+  "key": "en:ozzyosbourne",
+  "n": 6,
+  "ja": {
+   "オジー・オズボーン": 6
+  },
+  "en": {
+   "Ozzy Osbourne": 6
+  }
+ },
+ {
+  "key": "en:mrbig",
+  "n": 6,
+  "ja": {
+   "ミスター・ビッグ": 6
+  },
+  "en": {
+   "Mr. Big": 3,
+   "Mr.Big": 3
+  }
+ },
+ {
+  "key": "en:johnlennon",
+  "n": 6,
+  "ja": {
+   "ジョン・レノン": 6
+  },
+  "en": {
+   "John Lennon": 6
+  }
+ },
+ {
+  "key": "en:doors",
+  "n": 6,
+  "ja": {
+   "ドアーズ": 5,
+   "ザ・ドアーズ": 1
+  },
+  "en": {
+   "The Doors": 6
+  }
+ },
+ {
+  "key": "en:fishbone",
+  "n": 6,
+  "ja": {
+   "フィッシュ・ボーン": 5,
+   "フィッシュボーン": 1
+  },
+  "en": {
+   "Fish Bone": 5,
+   "Fishbone": 1
+  }
+ },
+ {
+  "key": "en:madonna",
+  "n": 6,
+  "ja": {
+   "マドンナ": 6
+  },
+  "en": {
+   "Madonna": 6
+  }
+ },
+ {
+  "key": "en:delasoul",
+  "n": 6,
+  "ja": {
+   "デ・ラ・ソウル": 6
+  },
+  "en": {
+   "De La Soul": 6
+  }
+ },
+ {
+  "key": "en:brujeria",
+  "n": 6,
+  "ja": {
+   "ブルヘリア": 4,
+   "ブルジェリア": 1,
+   "プルヘリア": 1
+  },
+  "en": {
+   "Brujeria": 6
+  }
+ },
+ {
+  "key": "en:gammaray",
+  "n": 6,
+  "ja": {
+   "ガンマ・レイ": 5,
+   "ガンマレイ": 1
+  },
+  "en": {
+   "Gamma Ray": 6
+  }
+ },
+ {
+  "key": "en:whitneyhouston",
+  "n": 6,
+  "ja": {
+   "ホイットニー・ ヒューストン": 6
+  },
+  "en": {
+   "Whitney Houston": 6
+  }
+ },
+ {
+  "key": "en:slyandthefamilystone",
+  "n": 6,
+  "ja": {
+   "スライ＆ザ・ ファミリー・ストーン": 4,
+   "スライ＆ザ・ファミリー・ストーン": 1,
+   "スライ＆ザ・ファミリー・ ストーン": 1
+  },
+  "en": {
+   "Sly & The Family Stone": 5,
+   "Sly & the family stone": 1
+  }
+ },
+ {
+  "key": "ja:nofx",
+  "n": 6,
+  "ja": {
+   "NOFX": 4,
+   "ＮＯＦＸ": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:dianaking",
+  "n": 6,
+  "ja": {
+   "ダイアナ・キング": 6
+  },
+  "en": {
+   "Diana King": 6
+  }
+ },
+ {
+  "key": "en:oasis",
+  "n": 6,
+  "ja": {
+   "オアシス": 6
+  },
+  "en": {
+   "Oasis": 6
+  }
+ },
+ {
+  "key": "en:cannibalcorpse",
+  "n": 6,
+  "ja": {
+   "カンニバル・ コープス": 4,
+   "カンニバル・コープス": 2
+  },
+  "en": {
+   "Cannibal Corpse": 6
+  }
+ },
+ {
+  "key": "en:losdelrio",
+  "n": 6,
+  "ja": {
+   "ロス・デル・リオ": 6
+  },
+  "en": {
+   "Los Del Rio": 3,
+   "Los del Rio": 3
+  }
+ },
+ {
+  "key": "en:radiohead",
+  "n": 6,
+  "ja": {
+   "レディオ・ヘッド": 4,
+   "レディオヘッド": 2
+  },
+  "en": {
+   "Radiohead": 5,
+   "Radio Head": 1
+  }
+ },
+ {
+  "key": "en:2pac",
+  "n": 6,
+  "ja": {
+   "2パック": 4,
+   "２パック": 2
+  },
+  "en": {
+   "2Pac": 5,
+   "2 Pac": 1
+  }
+ },
+ {
+  "key": "en:jackson5",
+  "n": 6,
+  "ja": {
+   "ジャクソン・ファイブ": 4,
+   "ジャクソン５": 2
+  },
+  "en": {
+   "Jackson 5": 3,
+   "The Jackson 5": 3
+  }
+ },
+ {
+  "key": "en:blacksabbath",
+  "n": 6,
+  "ja": {
+   "ブラック・サバス": 5,
+   "ブラック・ザバス": 1
+  },
+  "en": {
+   "Black Sabbath": 6
+  }
+ },
+ {
+  "key": "en:journey",
+  "n": 6,
+  "ja": {
+   "ジャーニー": 6
+  },
+  "en": {
+   "Journey": 6
+  }
+ },
+ {
+  "key": "en:trex",
+  "n": 6,
+  "ja": {
+   "T.レックス": 3,
+   "T-レックス": 1,
+   "Tレックス": 1,
+   "T・レックス": 1
+  },
+  "en": {
+   "T-Rex": 5,
+   "T.Rex": 1
+  }
+ },
+ {
+  "key": "en:sherylcrow",
+  "n": 6,
+  "ja": {
+   "シェリル・クロウ": 6
+  },
+  "en": {
+   "Sheryl Crow": 6
+  }
+ },
+ {
+  "key": "en:francegall",
+  "n": 6,
+  "ja": {
+   "フランス・ギャル": 6
+  },
+  "en": {
+   "France Gall": 6
+  }
+ },
+ {
+  "key": "en:sylvievartan",
+  "n": 6,
+  "ja": {
+   "シルヴィ・バルタン": 6
+  },
+  "en": {
+   "Sylvie Vartan": 6
+  }
+ },
+ {
+  "key": "en:dschinghiskhan",
+  "n": 6,
+  "ja": {
+   "ジンギスカン": 6
+  },
+  "en": {
+   "Dschinghis Khan": 6
+  }
+ },
+ {
+  "key": "en:kinks",
+  "n": 6,
+  "ja": {
+   "ザ・キンクス": 4,
+   "キンクス": 2
+  },
+  "en": {
+   "The Kinks": 6
+  }
+ },
+ {
+  "key": "en:50cent",
+  "n": 6,
+  "ja": {
+   "50セント": 6
+  },
+  "en": {
+   "50 Cent": 6
+  }
+ },
+ {
+  "key": "en:sarahbrightman",
+  "n": 6,
+  "ja": {
+   "サラ・ブライトマン": 6
+  },
+  "en": {
+   "Sarah Brightman": 6
+  }
+ },
+ {
+  "key": "en:weezer",
+  "n": 6,
+  "ja": {
+   "ウィーザー": 6
+  },
+  "en": {
+   "Weezer": 6
+  }
+ },
+ {
+  "key": "en:tearsforfears",
+  "n": 5,
+  "ja": {
+   "ティアーズ・フォー・ フィアーズ": 4,
+   "ティアーズ・フォー・フィアーズ": 1
+  },
+  "en": {
+   "Tears For Fears": 4,
+   "Tears for Fears": 1
+  }
+ },
+ {
+  "key": "en:sexpistols",
+  "n": 5,
+  "ja": {
+   "セックス・ピストルズ": 5
+  },
+  "en": {
+   "Sex Pistols": 5
+  }
+ },
+ {
+  "key": "en:velvetunderground",
+  "n": 5,
+  "ja": {
+   "ヴェルヴェット・ アンダーグラウンド": 4,
+   "ヴェルヴェット・アンダーグラウンド": 1
+  },
+  "en": {
+   "Velvet Underground": 3,
+   "The Velvet Underground": 2
+  }
+ },
+ {
+  "key": "en:izzystradlinandthejujuhounds",
+  "n": 5,
+  "ja": {
+   "イジー・ストラドリン・アンド・ザ・ ジュジュハウンズ": 3,
+   "イジー・ストラドリン・アンド・ザ・ジュ・ ジュ・ハウンズ": 1,
+   "イジー・ストラドリン・アンドザ・ジュ・ジュ・ハウンズ": 1
+  },
+  "en": {
+   "Izzy Stradlin And The Ju Ju Hounds": 5
+  }
+ },
+ {
+  "key": "en:santana",
+  "n": 5,
+  "ja": {
+   "サンタナ": 5
+  },
+  "en": {
+   "Santana": 5
+  }
+ },
+ {
+  "key": "en:accept",
+  "n": 5,
+  "ja": {
+   "アクセプト": 5
+  },
+  "en": {
+   "Accept": 5
+  }
+ },
+ {
+  "key": "en:damnyankees",
+  "n": 5,
+  "ja": {
+   "ダム・ヤンキース": 4,
+   "ダム・ヤンキーズ": 1
+  },
+  "en": {
+   "Damn Yankees": 5
+  }
+ },
+ {
+  "key": "en:sting",
+  "n": 5,
+  "ja": {
+   "スティング": 5
+  },
+  "en": {
+   "Sting": 5
+  }
+ },
+ {
+  "key": "en:hanoirocks",
+  "n": 5,
+  "ja": {
+   "ハノイ・ロックス": 5
+  },
+  "en": {
+   "Hanoi Rocks": 5
+  }
+ },
+ {
+  "key": "en:vladimirvissotski",
+  "n": 5,
+  "ja": {
+   "ウラジミール・ ヴィソーツキイ": 2,
+   "ウラジーミル・ ヴィソーツキイ": 1,
+   "ウラジミール・ ヴイソーツキイ": 1,
+   "ウラジミール・ ヴイソーツキィ": 1
+  },
+  "en": {
+   "Vladimir Vissotski": 5
+  }
+ },
+ {
+  "key": "en:candcmusicfactory",
+  "n": 5,
+  "ja": {
+   "Ｃ&Ｃミュージック・ ファクトリー": 1,
+   "Ｃ+Ｃミュージック・ ファクトリー": 1,
+   "Ｃ＋Ｃミュージック・ファクトリー": 1,
+   "C&C・ミュージック・ ファクトリー": 1,
+   "C＆Cミュージック・ ファクトリー": 1
+  },
+  "en": {
+   "C&C Music Factory": 3,
+   "C+C Music Factory": 2
+  }
+ },
+ {
+  "key": "en:dreamtheater",
+  "n": 5,
+  "ja": {
+   "ドリーム・シアター": 5
+  },
+  "en": {
+   "Dream Theater": 5
+  }
+ },
+ {
+  "key": "en:emersonlakeandpalmer",
+  "n": 5,
+  "ja": {
+   "EL&P": 2,
+   "エマーソン・ レイク＆パーマー": 1,
+   "エマーソン、レイク ＆パーマー": 1,
+   "エマーソン、レイク＆パーマー": 1
+  },
+  "en": {
+   "Emerson, Lake & Palmer": 5
+  }
+ },
+ {
+  "key": "en:jamiroquai",
+  "n": 5,
+  "ja": {
+   "ジャミロクワイ": 5
+  },
+  "en": {
+   "Jamiroquai": 5
+  }
+ },
+ {
+  "key": "en:artistformerlyknownasprince",
+  "n": 5,
+  "ja": {
+   "ジ・アーティスト・ フォーマリー・ ノウン・アズ・プリンス": 3,
+   "ジ・アーティスト・ フォーマリー・ノウン・アズ・プリンス": 2
+  },
+  "en": {
+   "The Artist Formerly Known As Prince": 5
+  }
+ },
+ {
+  "key": "en:beck",
+  "n": 5,
+  "ja": {
+   "ベック": 5
+  },
+  "en": {
+   "Beck": 5
+  }
+ },
+ {
+  "key": "en:georgebenson",
+  "n": 5,
+  "ja": {
+   "ジョージ・ベンソン": 5
+  },
+  "en": {
+   "George Benson": 5
+  }
+ },
+ {
+  "key": "en:bluesbrothers2000ost",
+  "n": 5,
+  "ja": {
+   "「ブルース・ブラザーズ2000」オリジナルサウンドトラック": 3,
+   "「ブルース・ ブラザーズ2000」 オリジナル サウンドトラック": 1,
+   "ブルース・ブラザーズ2000 O.S.T": 1
+  },
+  "en": {
+   "The Blues Brothers 2000 OST": 3,
+   "Blues Brothers2000 OST": 1,
+   "Blues Brothers 2000 OST": 1
+  }
+ },
+ {
+  "key": "en:rickymartin",
+  "n": 5,
+  "ja": {
+   "リッキー・マーティン": 5
+  },
+  "en": {
+   "Ricky Martin": 5
+  }
+ },
+ {
+  "key": "en:cradleoffilth",
+  "n": 5,
+  "ja": {
+   "クレイドル・ オブ・フィルス": 2,
+   "クレイドル・オヴ・ フィルス": 2,
+   "クレイドル・オブ・ フィルス": 1
+  },
+  "en": {
+   "Cradle Of Filth": 5
+  }
+ },
+ {
+  "key": "en:rhapsody",
+  "n": 5,
+  "ja": {
+   "ラプソディー": 3,
+   "ラプソディ": 2
+  },
+  "en": {
+   "Rhapsody": 5
+  }
+ },
+ {
+  "key": "ja:sum41",
+  "n": 5,
+  "ja": {
+   "SUM41": 5
+  },
+  "en": {}
+ },
+ {
+  "key": "en:kanyewest",
+  "n": 5,
+  "ja": {
+   "カニエ・ウエスト": 3,
+   "カニエ・ウェスト": 2
+  },
+  "en": {
+   "Kanye West": 5
+  }
+ },
+ {
+  "key": "en:korn",
+  "n": 5,
+  "ja": {
+   "コーン": 5
+  },
+  "en": {
+   "Korn": 5
+  }
+ },
+ {
+  "key": "en:daddyyankee",
+  "n": 5,
+  "ja": {
+   "ダディー・ヤンキー": 3,
+   "ダディ・ヤンキー": 2
+  },
+  "en": {
+   "Daddy Yankee": 5
+  }
+ },
+ {
+  "key": "en:starship",
+  "n": 5,
+  "ja": {
+   "スターシップ": 5
+  },
+  "en": {
+   "Starship": 5
+  }
+ },
+ {
+  "key": "en:seanpaul",
+  "n": 5,
+  "ja": {
+   "ショーン・ポール": 5
+  },
+  "en": {
+   "Sean Paul": 5
+  }
+ },
+ {
+  "key": "en:gogolbordello",
+  "n": 5,
+  "ja": {
+   "ゴーゴル・ボルデロ": 3,
+   "ゴーゴル・ ボルデロウ": 2
+  },
+  "en": {
+   "Gogol Bordello": 4,
+   "'Gogol Bordello": 1
+  }
+ },
+ {
+  "key": "en:ramones",
+  "n": 4,
+  "ja": {
+   "ラモーンズ": 4
+  },
+  "en": {
+   "Ramones": 4
+  }
+ },
+ {
+  "key": "en:skidrow",
+  "n": 4,
+  "ja": {
+   "スキッド・ロウ": 4
+  },
+  "en": {
+   "Skid Row": 4
+  }
+ },
+ {
+  "key": "en:mickjagger",
+  "n": 4,
+  "ja": {
+   "ミック・ジャガー": 4
+  },
+  "en": {
+   "Mick Jagger": 4
+  }
+ },
+ {
+  "key": "en:whitesnake",
+  "n": 4,
+  "ja": {
+   "ホワイトスネイク": 2,
+   "ホワイトスネーク": 1,
+   "ホワイト・スネイク": 1
+  },
+  "en": {
+   "Whitesnake": 4
+  }
+ },
+ {
+  "key": "en:deadkennedys",
+  "n": 4,
+  "ja": {
+   "デッド・ケネディーズ": 4
+  },
+  "en": {
+   "Dead Kennedys": 4
+  }
+ },
+ {
+  "key": "en:prodigy",
+  "n": 4,
+  "ja": {
+   "ザ・プロディジー": 2,
+   "プロディジー": 2
+  },
+  "en": {
+   "The Prodigy": 4
+  }
+ },
+ {
+  "key": "en:nirvana",
+  "n": 4,
+  "ja": {
+   "ニルヴァーナ": 4
+  },
+  "en": {
+   "Nirvana": 4
+  }
+ },
+ {
+  "key": "en:manonegra",
+  "n": 4,
+  "ja": {
+   "マノ・ネグラ": 4
+  },
+  "en": {
+   "Mano Negra": 4
+  }
+ },
+ {
+  "key": "en:koolandthegang",
+  "n": 4,
+  "ja": {
+   "クール＆ザ・ ギャング": 2,
+   "クール・アンド・ザ・ ギャング": 1,
+   "クール＆ ザ・ギャング": 1
+  },
+  "en": {
+   "Kool & The Gang": 3,
+   "Kool & the Gang": 1
+  }
+ },
+ {
+  "key": "en:icet",
+  "n": 4,
+  "ja": {
+   "アイス－Ｔ": 3,
+   "アイスT": 1
+  },
+  "en": {
+   "Ice T": 4
+  }
+ },
+ {
+  "key": "en:obituary",
+  "n": 4,
+  "ja": {
+   "オビチュアリー": 4
+  },
+  "en": {
+   "Obituary": 4
+  }
+ },
+ {
+  "key": "en:manudibango",
+  "n": 4,
+  "ja": {
+   "マヌ・ディバンゴ": 4
+  },
+  "en": {
+   "Manu Dibango": 4
+  }
+ },
+ {
+  "key": "en:harrybelafonte",
+  "n": 4,
+  "ja": {
+   "ハリー・ベラフォンテ": 2,
+   "ハリー・ ベラフォンテ": 2
+  },
+  "en": {
+   "Harry Belafonte": 4
+  }
+ },
+ {
+  "key": "en:tomjones",
+  "n": 4,
+  "ja": {
+   "トム・ジョーンズ": 3,
+   "トム・ジョーン": 1
+  },
+  "en": {
+   "Tom Jones": 4
+  }
+ },
+ {
+  "key": "en:sheenaeaston",
+  "n": 4,
+  "ja": {
+   "シーナ・イーストン": 4
+  },
+  "en": {
+   "Sheena Easton": 4
+  }
+ },
+ {
+  "key": "en:fayewong",
+  "n": 4,
+  "ja": {
+   "フェイ・ウォン": 4
+  },
+  "en": {
+   "Faye Wong": 2,
+   "Faye Wong：王菲": 2
+  }
+ },
+ {
+  "key": "en:enigma",
+  "n": 4,
+  "ja": {
+   "エニグマ": 4
+  },
+  "en": {
+   "Enigma": 4
+  }
+ },
+ {
+  "key": "en:brutaltruth",
+  "n": 4,
+  "ja": {
+   "ブルータル・ トゥルース": 2,
+   "ブルータル・トゥルース": 1,
+   "ブルータス・ トゥールス": 1
+  },
+  "en": {
+   "Brutal Truth": 4
+  }
+ },
+ {
+  "key": "en:steppenwolf",
+  "n": 4,
+  "ja": {
+   "ステッペン・ウルフ": 3,
+   "ステッペンウルフ": 1
+  },
+  "en": {
+   "Steppenwolf": 4
+  }
+ },
+ {
+  "key": "en:robertjohnson",
+  "n": 4,
+  "ja": {
+   "ロバート・ジョンソン": 4
+  },
+  "en": {
+   "Robert Johnson": 4
+  }
+ },
+ {
+  "key": "en:bluesbrothers",
+  "n": 4,
+  "ja": {
+   "ブルース・ブラザーズ": 2,
+   "ブルース・ ブラザーズ": 1,
+   "「ブルース・ブラザーズ2000」オリジナルサウンドトラック": 1
+  },
+  "en": {
+   "Blues Brothers": 2,
+   "The Blues Brothers": 2
+  }
+ },
+ {
+  "key": "en:paulmccartney",
+  "n": 4,
+  "ja": {
+   "ポール・ マッカートニー": 3,
+   "ポール・マッカートニー": 1
+  },
+  "en": {
+   "Paul McCartney": 4
+  }
+ },
+ {
+  "key": "en:jonspencerbluesexplosion",
+  "n": 4,
+  "ja": {
+   "ジョン・スペンサー・ブルース・ エクスプロージョン": 3,
+   "ザ・ジョン・ スペンサー・ ブルース・ エクスプロージョン": 1
+  },
+  "en": {
+   "Jon Spencer Blues Expｌosion": 3,
+   "Jon Spencer Blues Explosion": 1
+  }
+ },
+ {
+  "key": "en:spicegirls",
+  "n": 4,
+  "ja": {
+   "スパイス・ガールズ": 4
+  },
+  "en": {
+   "Spice Girls": 4
+  }
+ },
+ {
+  "key": "en:henrisalvador",
+  "n": 4,
+  "ja": {
+   "アンリ・ サルヴァドール": 2,
+   "アンリ・サルバドール": 2
+  },
+  "en": {
+   "Henri Salvador": 4
+  }
+ },
+ {
+  "key": "en:arresteddevelopment",
+  "n": 4,
+  "ja": {
+   "アレステッド・ ディベロップメント": 1,
+   "アレステッド・ ディヴェロップメント": 1,
+   "アレステッド・ デベロップメント": 1,
+   "アレステッド・ ディベロップメンド": 1
+  },
+  "en": {
+   "Arrested Development": 4
+  }
+ },
+ {
+  "key": "en:procolharum",
+  "n": 4,
+  "ja": {
+   "プロコル・ハルム": 4
+  },
+  "en": {
+   "Procol Harum": 4
+  }
+ },
+ {
+  "key": "en:britneyspears",
+  "n": 4,
+  "ja": {
+   "ブリトニー・スピアーズ": 3,
+   "ブリトニー・ スピアーズ": 1
+  },
+  "en": {
+   "Britney Spears": 4
+  }
+ },
+ {
+  "key": "en:atariteenageriot",
+  "n": 4,
+  "ja": {
+   "アタリ・ ティーンエイジ・ ライオット": 3,
+   "アタリ・ティーン エイジ・ライオット": 1
+  },
+  "en": {
+   "Atari Teenage Riot": 4
+  }
+ },
+ {
+  "key": "en:gigliolacinquetti",
+  "n": 4,
+  "ja": {
+   "ジリオラ・ チンクェッティ": 3,
+   "ジリオラ・ チンクエッティ": 1
+  },
+  "en": {
+   "Gigliola Cinquetti": 4
+  }
+ },
+ {
+  "key": "en:underworld",
+  "n": 4,
+  "ja": {
+   "アンダーワールド": 2,
+   "アンダー・ワールド": 2
+  },
+  "en": {
+   "Underworld": 3,
+   "UnderWorld": 1
+  }
+ },
+ {
+  "key": "en:jayz",
+  "n": 4,
+  "ja": {
+   "ジェイ・Z": 2,
+   "ジェイ・Ｚ": 2
+  },
+  "en": {
+   "Jay Z": 3,
+   "Jay-Z": 1
+  }
+ },
+ {
+  "key": "en:janebirkin",
+  "n": 4,
+  "ja": {
+   "ジェーン・バーキン": 4
+  },
+  "en": {
+   "Jane Birkin": 4
+  }
+ },
+ {
+  "key": "en:adamo",
+  "n": 4,
+  "ja": {
+   "アダモ": 4
+  },
+  "en": {
+   "Adamo": 4
+  }
+ },
+ {
+  "key": "en:zapmama",
+  "n": 4,
+  "ja": {
+   "ザップ・ママ": 4
+  },
+  "en": {
+   "Zap Mama": 4
+  }
+ },
+ {
+  "key": "en:linkinpark",
+  "n": 4,
+  "ja": {
+   "リンキン・パーク": 4
+  },
+  "en": {
+   "Linkin Park": 4
+  }
+ },
+ {
+  "key": "en:usher",
+  "n": 4,
+  "ja": {
+   "アッシャー": 4
+  },
+  "en": {
+   "Usher": 4
+  }
+ },
+ {
+  "key": "en:franzferdinand",
+  "n": 4,
+  "ja": {
+   "フランツ・ フェルディナンド": 3,
+   "フランツ・フェルデナンド": 1
+  },
+  "en": {
+   "Franz Ferdinand": 4
+  }
+ },
+ {
+  "key": "en:boston",
+  "n": 4,
+  "ja": {
+   "ボストン": 4
+  },
+  "en": {
+   "Boston": 4
+  }
+ },
+ {
+  "key": "en:dragonforce",
+  "n": 4,
+  "ja": {
+   "ドラゴンフォース": 3,
+   "ドラゴン・フォース": 1
+  },
+  "en": {
+   "Dragonforce": 2,
+   "DragonForce": 2
+  }
+ },
+ {
+  "key": "en:soilwork",
+  "n": 4,
+  "ja": {
+   "ソイルワーク": 4
+  },
+  "en": {
+   "Soilwork": 4
+  }
+ },
+ {
+  "key": "en:youssoundour",
+  "n": 4,
+  "ja": {
+   "ユッスー・ンドゥール": 3,
+   "ユッスー・ ンドゥール": 1
+  },
+  "en": {
+   "Youssou N'dour": 2,
+   "Youssou N'Dour": 2
+  }
+ },
+ {
+  "key": "en:olivianewtonjohn",
+  "n": 4,
+  "ja": {
+   "オリビア・ニュートン・ジョン": 2,
+   "オリビア・ ニュートン・ジョン": 2
+  },
+  "en": {
+   "Olivia Newton John": 3,
+   "Olivia Newton-John": 1
+  }
+ },
+ {
+  "key": "en:yes",
+  "n": 4,
+  "ja": {
+   "イエス": 4
+  },
+  "en": {
+   "Yes": 4
+  }
+ },
+ {
+  "key": "en:dianaross",
+  "n": 4,
+  "ja": {
+   "ダイアナ・ロス": 4
+  },
+  "en": {
+   "Diana Ross": 4
+  }
+ },
+ {
+  "key": "en:publicenemy",
+  "n": 4,
+  "ja": {
+   "パブリック・エネミー": 4
+  },
+  "en": {
+   "Public Enemy": 4
+  }
+ },
+ {
+  "key": "en:chakakhan",
+  "n": 4,
+  "ja": {
+   "チャカ・カーン": 4
+  },
+  "en": {
+   "Chaka Khan": 4
+  }
+ },
+ {
+  "key": "en:rage",
+  "n": 4,
+  "ja": {
+   "レイジ": 4
+  },
+  "en": {
+   "Rage": 4
+  }
+ },
+ {
+  "key": "en:survivor",
+  "n": 4,
+  "ja": {
+   "サバイバー": 4
+  },
+  "en": {
+   "Survivor": 4
+  }
+ },
+ {
+  "key": "en:michelpolnareff",
+  "n": 4,
+  "ja": {
+   "ミッシェル・ ポレナレフ": 4
+  },
+  "en": {
+   "Michel Polnareff": 4
+  }
+ },
+ {
+  "key": "en:brucespringsteen",
+  "n": 3,
+  "ja": {
+   "ブルース・ スプリングスティーン": 2,
+   "ブルース・スプリングスティーン": 1
+  },
+  "en": {
+   "Bruce Springsteen": 3
+  }
+ },
+ {
+  "key": "ja:udo",
+  "n": 3,
+  "ja": {
+   "Ｕ．Ｄ．Ｏ": 1,
+   "U.D.O.": 1,
+   "U.D.O": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:joecocker",
+  "n": 3,
+  "ja": {
+   "ジョー・コッカー": 3
+  },
+  "en": {
+   "Joe Cocker": 3
+  }
+ },
+ {
+  "key": "en:sonicyouth",
+  "n": 3,
+  "ja": {
+   "ソニック・ユース": 3
+  },
+  "en": {
+   "Sonic Youth": 3
+  }
+ },
+ {
+  "key": "en:eagles",
+  "n": 3,
+  "ja": {
+   "イーグルス": 3
+  },
+  "en": {
+   "Eagles": 2,
+   "The Eagles": 1
+  }
+ },
+ {
+  "key": "en:houseofpain",
+  "n": 3,
+  "ja": {
+   "ハウス・オブ・ペイン": 3
+  },
+  "en": {
+   "House Of Pain": 3
+  }
+ },
+ {
+  "key": "en:metalchurch",
+  "n": 3,
+  "ja": {
+   "メタルチャーチ": 2,
+   "メタル・チャーチ": 1
+  },
+  "en": {
+   "Metal Church": 3
+  }
+ },
+ {
+  "key": "en:defleppard",
+  "n": 3,
+  "ja": {
+   "デフ・レパード": 3
+  },
+  "en": {
+   "Def Leppard": 3
+  }
+ },
+ {
+  "key": "ja:xtc",
+  "n": 3,
+  "ja": {
+   "XTC": 3
+  },
+  "en": {}
+ },
+ {
+  "key": "en:drjohn",
+  "n": 3,
+  "ja": {
+   "ドクター・ジョン": 2,
+   "ドクター・ジョーン": 1
+  },
+  "en": {
+   "Dr. John": 3
+  }
+ },
+ {
+  "key": "en:police",
+  "n": 3,
+  "ja": {
+   "ポリス": 3
+  },
+  "en": {
+   "Police": 2,
+   "The Police": 1
+  }
+ },
+ {
+  "key": "en:shaggy",
+  "n": 3,
+  "ja": {
+   "シャギー": 3
+  },
+  "en": {
+   "Shaggy": 3
+  }
+ },
+ {
+  "key": "en:straycats",
+  "n": 3,
+  "ja": {
+   "ストレイ・キャッツ": 3
+  },
+  "en": {
+   "Stray Cats": 3
+  }
+ },
+ {
+  "key": "en:snow",
+  "n": 3,
+  "ja": {
+   "スノー": 3
+  },
+  "en": {
+   "Snow": 3
+  }
+ },
+ {
+  "key": "en:nglabanda",
+  "n": 3,
+  "ja": {
+   "エネヘ・ラ・バンダ": 2,
+   "ＮＧ・ラ・バンダ": 1
+  },
+  "en": {
+   "NG La Banda": 2,
+   "Ng La Banda": 1
+  }
+ },
+ {
+  "key": "en:shabbaranks",
+  "n": 3,
+  "ja": {
+   "シャバ・ランクス": 3
+  },
+  "en": {
+   "Shabba Ranks": 3
+  }
+ },
+ {
+  "key": "en:stevevai",
+  "n": 3,
+  "ja": {
+   "スティーヴ・ヴァイ": 3
+  },
+  "en": {
+   "Steve Vai": 3
+  }
+ },
+ {
+  "key": "en:meathookseed",
+  "n": 3,
+  "ja": {
+   "ミートフック・シード": 3
+  },
+  "en": {
+   "Meathook Seed": 3
+  }
+ },
+ {
+  "key": "ja:小野リサ",
+  "n": 3,
+  "ja": {
+   "小野リサ": 3
+  },
+  "en": {}
+ },
+ {
+  "key": "en:parliament",
+  "n": 3,
+  "ja": {
+   "パーラメント": 3
+  },
+  "en": {
+   "Parliament": 3
+  }
+ },
+ {
+  "key": "en:georgeharrison",
+  "n": 3,
+  "ja": {
+   "ジョージ・ハリスン": 2,
+   "ジョージ・ハリソン": 1
+  },
+  "en": {
+   "George Harrison": 3
+  }
+ },
+ {
+  "key": "en:valensia",
+  "n": 3,
+  "ja": {
+   "ヴァレンシア": 3
+  },
+  "en": {
+   "Valensia": 3
+  }
+ },
+ {
+  "key": "en:nolans",
+  "n": 3,
+  "ja": {
+   "ノーランズ": 3
+  },
+  "en": {
+   "Nolans": 3
+  }
+ },
+ {
+  "key": "en:cheaptrick",
+  "n": 3,
+  "ja": {
+   "チープトリック": 2,
+   "チープ・トリック": 1
+  },
+  "en": {
+   "Cheap Trick": 3
+  }
+ },
+ {
+  "key": "en:tomwaits",
+  "n": 3,
+  "ja": {
+   "トム・ウェイツ": 3
+  },
+  "en": {
+   "Tom Waits": 3
+  }
+ },
+ {
+  "key": "en:edulobo",
+  "n": 3,
+  "ja": {
+   "エドゥ・ロボ": 3
+  },
+  "en": {
+   "Edu Lobo": 3
+  }
+ },
+ {
+  "key": "en:pharcyde",
+  "n": 3,
+  "ja": {
+   "ファーサイド": 2,
+   "ザ・ファーサイド": 1
+  },
+  "en": {
+   "The Pharcyde": 3
+  }
+ },
+ {
+  "key": "en:fearfactory",
+  "n": 3,
+  "ja": {
+   "フィア・ファクトリー": 3
+  },
+  "en": {
+   "Fear Factory": 3
+  }
+ },
+ {
+  "key": "en:pulp",
+  "n": 3,
+  "ja": {
+   "パルプ": 3
+  },
+  "en": {
+   "Pulp": 3
+  }
+ },
+ {
+  "key": "en:naraleao",
+  "n": 3,
+  "ja": {
+   "ナラ・レオン": 3
+  },
+  "en": {
+   "Nara Leão": 3
+  }
+ },
+ {
+  "key": "en:pearljam",
+  "n": 3,
+  "ja": {
+   "パール・ジャム": 3
+  },
+  "en": {
+   "Pearl Jam": 3
+  }
+ },
+ {
+  "key": "en:testament",
+  "n": 3,
+  "ja": {
+   "テスタメント": 3
+  },
+  "en": {
+   "Testament": 3
+  }
+ },
+ {
+  "key": "en:alanismorissette",
+  "n": 3,
+  "ja": {
+   "アラニス・モリセット": 3
+  },
+  "en": {
+   "Alanis Morissette": 3
+  }
+ },
+ {
+  "key": "en:salifkeita",
+  "n": 3,
+  "ja": {
+   "サリフ・ケイタ": 3
+  },
+  "en": {
+   "Salif Keita": 3
+  }
+ },
+ {
+  "key": "en:inflames",
+  "n": 3,
+  "ja": {
+   "イン・フレイムス": 3
+  },
+  "en": {
+   "In Flames": 3
+  }
+ },
+ {
+  "key": "en:quincyjones",
+  "n": 3,
+  "ja": {
+   "クインシー・ ジョーンズ": 3
+  },
+  "en": {
+   "Quincy Jones": 3
+  }
+ },
+ {
+  "key": "en:cure",
+  "n": 3,
+  "ja": {
+   "ザ・キュアー": 3
+  },
+  "en": {
+   "The Cure": 3
+  }
+ },
+ {
+  "key": "en:bigmountain",
+  "n": 3,
+  "ja": {
+   "ビッグ・マウンテン": 2,
+   "ビッグマウンテン": 1
+  },
+  "en": {
+   "Big Mountain": 3
+  }
+ },
+ {
+  "key": "en:puffdaddyandthefamily",
+  "n": 3,
+  "ja": {
+   "パフ・ダディ＆ ザ・ファミリー": 2,
+   "パフ・ダディ・アンド・ザ・ファミリー": 1
+  },
+  "en": {
+   "Puff Daddy & The Family": 3
+  }
+ },
+ {
+  "key": "en:cornershop",
+  "n": 3,
+  "ja": {
+   "コーナーショップ": 3
+  },
+  "en": {
+   "Cornershop": 3
+  }
+ },
+ {
+  "key": "en:angra",
+  "n": 3,
+  "ja": {
+   "アングラ": 3
+  },
+  "en": {
+   "Angra": 3
+  }
+ },
+ {
+  "key": "en:llcoolj",
+  "n": 3,
+  "ja": {
+   "L.L.クールJ": 3
+  },
+  "en": {
+   "L.L. Cool J": 2,
+   "LL. Cool J": 1
+  }
+ },
+ {
+  "key": "en:stratovarius",
+  "n": 3,
+  "ja": {
+   "ストラトヴァリウス": 3
+  },
+  "en": {
+   "Stratovarius": 3
+  }
+ },
+ {
+  "key": "en:paulgilbert",
+  "n": 3,
+  "ja": {
+   "ポール・ギルバート": 3
+  },
+  "en": {
+   "Paul Gilbert": 3
+  }
+ },
+ {
+  "key": "en:chemicalbrothers",
+  "n": 3,
+  "ja": {
+   "ケミカル・ブラザーズ": 3
+  },
+  "en": {
+   "Chemical Brothers": 2,
+   "The Chemical Brothers": 1
+  }
+ },
+ {
+  "key": "en:perezprado",
+  "n": 3,
+  "ja": {
+   "ペレスプラード楽団": 1,
+   "ペレス・プラード": 1,
+   "ペレス・プラード楽団": 1
+  },
+  "en": {
+   "Perez Prado": 3
+  }
+ },
+ {
+  "key": "en:bahamen",
+  "n": 3,
+  "ja": {
+   "バハ・メン": 2,
+   "バハメン": 1
+  },
+  "en": {
+   "Baha Men": 3
+  }
+ },
+ {
+  "key": "en:duranduran",
+  "n": 3,
+  "ja": {
+   "デュラン・デュラン": 3
+  },
+  "en": {
+   "Duran Duran": 3
+  }
+ },
+ {
+  "key": "en:yngwiejmalmsteen",
+  "n": 3,
+  "ja": {
+   "イングヴェイ・ マルムスティーン": 1,
+   "イングヴェイ・J・ マルムスティーン": 1,
+   "イングヴェイ・J・ マルムスティーンズ": 1
+  },
+  "en": {
+   "Yngwie J. Malmsteen": 3
+  }
+ },
+ {
+  "key": "en:riot",
+  "n": 3,
+  "ja": {
+   "ライオット": 3
+  },
+  "en": {
+   "Riot": 3
+  }
+ },
+ {
+  "key": "en:cryptopsy",
+  "n": 3,
+  "ja": {
+   "クリプトプシー": 3
+  },
+  "en": {
+   "Cryptopsy": 3
+  }
+ },
+ {
+  "key": "en:rkelly",
+  "n": 3,
+  "ja": {
+   "R・ケリー": 2,
+   "R.ケリー": 1
+  },
+  "en": {
+   "R Kelly": 2,
+   "R.Kelly": 1
+  }
+ },
+ {
+  "key": "en:fatboyslim",
+  "n": 3,
+  "ja": {
+   "ファットボーイ・スリム": 2,
+   "ファットボーイ・ スリム": 1
+  },
+  "en": {
+   "Fatboy Slim": 3
+  }
+ },
+ {
+  "key": "en:vandenberg",
+  "n": 3,
+  "ja": {
+   "ヴァンデンバーグ": 3
+  },
+  "en": {
+   "Vandenberg": 3
+  }
+ },
+ {
+  "key": "en:drfeelgood",
+  "n": 3,
+  "ja": {
+   "ドクター・ フィールグッド": 3
+  },
+  "en": {
+   "Dr.Feelgood": 1,
+   "Dr. Feelgood": 1,
+   "Dr Feelgood": 1
+  }
+ },
+ {
+  "key": "en:foreigner",
+  "n": 3,
+  "ja": {
+   "フォリナー": 2,
+   "フォーリナー": 1
+  },
+  "en": {
+   "Foreigner": 3
+  }
+ },
+ {
+  "key": "en:gangstarr",
+  "n": 3,
+  "ja": {
+   "ギャング・スター": 2,
+   "ギャングスター": 1
+  },
+  "en": {
+   "Gang Starr": 3
+  }
+ },
+ {
+  "key": "en:sade",
+  "n": 3,
+  "ja": {
+   "シャーデー": 3
+  },
+  "en": {
+   "Sade": 3
+  }
+ },
+ {
+  "key": "en:band",
+  "n": 3,
+  "ja": {
+   "ザ・バンド": 3
+  },
+  "en": {
+   "The Band": 3
+  }
+ },
+ {
+  "key": "en:neworder",
+  "n": 3,
+  "ja": {
+   "ニュー・オーダー": 2,
+   "ニューオーダー": 1
+  },
+  "en": {
+   "New Order": 3
+  }
+ },
+ {
+  "key": "en:missyelliott",
+  "n": 3,
+  "ja": {
+   "ミッシー・エリオット": 3
+  },
+  "en": {
+   "Missy Elliott": 3
+  }
+ },
+ {
+  "key": "en:runaways",
+  "n": 3,
+  "ja": {
+   "ザ・ランナウェイズ": 3
+  },
+  "en": {
+   "The Runaways": 3
+  }
+ },
+ {
+  "key": "en:charlene",
+  "n": 3,
+  "ja": {
+   "シャーリーン": 3
+  },
+  "en": {
+   "Charlene": 3
+  }
+ },
+ {
+  "key": "en:suicidaltendencies",
+  "n": 3,
+  "ja": {
+   "スイサイダル・ テンデンシーズ": 2,
+   "スーサイダル・ テンデンシーズ": 1
+  },
+  "en": {
+   "Suicidal Tendencies": 3
+  }
+ },
+ {
+  "key": "en:nightwish",
+  "n": 3,
+  "ja": {
+   "ナイトウィッシュ": 3
+  },
+  "en": {
+   "Nightwish": 3
+  }
+ },
+ {
+  "key": "en:stylecouncil",
+  "n": 3,
+  "ja": {
+   "ザ・スタイル・ カウンシル": 3
+  },
+  "en": {
+   "The Style Council": 3
+  }
+ },
+ {
+  "key": "en:buenavistasocialclub",
+  "n": 3,
+  "ja": {
+   "ブエナ・ビスタ・ ソシアル・クラブ": 3
+  },
+  "en": {
+   "Buena Vista Social Club": 3
+  }
+ },
+ {
+  "key": "en:outkast",
+  "n": 3,
+  "ja": {
+   "アウトキャスト": 2,
+   "アウト・キャスト": 1
+  },
+  "en": {
+   "Outkast": 2,
+   "OutKast": 1
+  }
+ },
+ {
+  "key": "en:loslobos",
+  "n": 3,
+  "ja": {
+   "ロス・ロボス": 3
+  },
+  "en": {
+   "Los Lobos": 3
+  }
+ },
+ {
+  "key": "en:pinkfloyd",
+  "n": 3,
+  "ja": {
+   "ピンク・フロイド": 2,
+   "ピンクフロイド": 1
+  },
+  "en": {
+   "Pink Floyd": 3
+  }
+ },
+ {
+  "key": "en:franksinatra",
+  "n": 3,
+  "ja": {
+   "フランク・シナトラ": 3
+  },
+  "en": {
+   "Frank Sinatra": 3
+  }
+ },
+ {
+  "key": "en:panjabimc",
+  "n": 3,
+  "ja": {
+   "パンジャビMC": 2,
+   "パンジャビＭＣ": 1
+  },
+  "en": {
+   "Panjabi MC": 3
+  }
+ },
+ {
+  "key": "en:ratt",
+  "n": 3,
+  "ja": {
+   "ラット": 3
+  },
+  "en": {
+   "Ratt": 3
+  }
+ },
+ {
+  "key": "en:simplyred",
+  "n": 3,
+  "ja": {
+   "シンプリー・レッド": 3
+  },
+  "en": {
+   "Simply Red": 3
+  }
+ },
+ {
+  "key": "en:animals",
+  "n": 3,
+  "ja": {
+   "アニマルズ": 3
+  },
+  "en": {
+   "The Animals": 3
+  }
+ },
+ {
+  "key": "en:whitestripes",
+  "n": 3,
+  "ja": {
+   "ザ・ホワイト・ ストライプス": 2,
+   "ホワイト・ストライプス": 1
+  },
+  "en": {
+   "The White Stripes": 3
+  }
+ },
+ {
+  "key": "en:maroon5",
+  "n": 3,
+  "ja": {
+   "マルーン5": 3
+  },
+  "en": {
+   "Maroon 5": 3
+  }
+ },
+ {
+  "key": "en:shakira",
+  "n": 3,
+  "ja": {
+   "シャキーラ": 3
+  },
+  "en": {
+   "Shakira": 3
+  }
+ },
+ {
+  "key": "en:michaelbolton",
+  "n": 3,
+  "ja": {
+   "マイケル・ボルトン": 3
+  },
+  "en": {
+   "Michael Bolton": 3
+  }
+ },
+ {
+  "key": "en:avengedsevenfold",
+  "n": 3,
+  "ja": {
+   "アヴェンジド・ セヴンフォールド": 2,
+   "アヴェンシド・ セヴンフォールド": 1
+  },
+  "en": {
+   "Avenged Sevenfold": 3
+  }
+ },
+ {
+  "key": "en:hollies",
+  "n": 3,
+  "ja": {
+   "ホリーズ": 2,
+   "ザ・ホリーズ": 1
+  },
+  "en": {
+   "The Hollies": 3
+  }
+ },
+ {
+  "key": "en:jeffbeck",
+  "n": 3,
+  "ja": {
+   "ジェフ・ベック": 3
+  },
+  "en": {
+   "Jeff Beck": 3
+  }
+ },
+ {
+  "key": "en:christinaaguilera",
+  "n": 3,
+  "ja": {
+   "クリスティーナ・ アギレラ": 3
+  },
+  "en": {
+   "Christina Aguilera": 3
+  }
+ },
+ {
+  "key": "en:katebush",
+  "n": 3,
+  "ja": {
+   "ケイト・ブッシュ": 3
+  },
+  "en": {
+   "Kate Bush": 3
+  }
+ },
+ {
+  "key": "en:baycityrollers",
+  "n": 3,
+  "ja": {
+   "ベイ・シティ・ ローラーズ": 3
+  },
+  "en": {
+   "Bay City Rollers": 3
+  }
+ },
+ {
+  "key": "en:ladygaga",
+  "n": 3,
+  "ja": {
+   "レディー・ガガ": 2,
+   "レディ・ガガ": 1
+  },
+  "en": {
+   "Lady Gaga": 3
+  }
+ },
+ {
+  "key": "en:korpiklaani",
+  "n": 3,
+  "ja": {
+   "コルピクラーニ": 3
+  },
+  "en": {
+   "Korpiklaani": 3
+  }
+ },
+ {
+  "key": "en:gilbertogil",
+  "n": 3,
+  "ja": {
+   "ジルベルト・ジル": 3
+  },
+  "en": {
+   "Gilberto Gil": 3
+  }
+ },
+ {
+  "key": "en:idinamenzel",
+  "n": 3,
+  "ja": {
+   "イディナ・メンゼル": 2,
+   "イディナ・メンデル": 1
+  },
+  "en": {
+   "Idina Menzel": 3
+  }
+ },
+ {
+  "key": "en:arianagrande",
+  "n": 3,
+  "ja": {
+   "アリアナ・グランデ": 3
+  },
+  "en": {
+   "Ariana Grande": 3
+  }
+ },
+ {
+  "key": "ja:テレサテン",
+  "n": 2,
+  "ja": {
+   "テレサ・テン": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:spandauballet",
+  "n": 2,
+  "ja": {
+   "スパンダー・バレエ": 2
+  },
+  "en": {
+   "Spandau Ballet": 2
+  }
+ },
+ {
+  "key": "en:haroldmelvinandbluenotes",
+  "n": 2,
+  "ja": {
+   "ハロルド・メルヴィン＆ザ・ブルーノーツ": 1,
+   "ハロルドメルヴィン・アンド・ザ・ ブルーノーツ": 1
+  },
+  "en": {
+   "Harold Melvin & Blue Notes": 2
+  }
+ },
+ {
+  "key": "en:motleycrew",
+  "n": 2,
+  "ja": {
+   "モトリー・クルー": 2
+  },
+  "en": {
+   "Motley Crew": 2
+  }
+ },
+ {
+  "key": "en:philcollins",
+  "n": 2,
+  "ja": {
+   "フィル・コリンズ": 2
+  },
+  "en": {
+   "Phil Collins": 2
+  }
+ },
+ {
+  "key": "en:bryanadams",
+  "n": 2,
+  "ja": {
+   "ブライアン・アダムス": 2
+  },
+  "en": {
+   "Bryan Adams": 2
+  }
+ },
+ {
+  "key": "en:genesis",
+  "n": 2,
+  "ja": {
+   "ジェネシス": 2
+  },
+  "en": {
+   "Genesis": 2
+  }
+ },
+ {
+  "key": "en:chicago",
+  "n": 2,
+  "ja": {
+   "シカゴ": 2
+  },
+  "en": {
+   "Chicago": 2
+  }
+ },
+ {
+  "key": "en:hallandoates",
+  "n": 2,
+  "ja": {
+   "ホール＆オーツ": 2
+  },
+  "en": {
+   "Hall & Oates": 2
+  }
+ },
+ {
+  "key": "en:nena",
+  "n": 2,
+  "ja": {
+   "ネーナ": 2
+  },
+  "en": {
+   "Nena": 2
+  }
+ },
+ {
+  "key": "en:drbuzzardsoriginalsavannahband",
+  "n": 2,
+  "ja": {
+   "ドクターバザーズ・ オリジナル・ サヴァンナバンド": 1,
+   "ドクター・バザーズ・ オリジナル・ サヴァンナ・バンド": 1
+  },
+  "en": {
+   "Dr. Buzzard's Original Savannah Band": 1,
+   "Dr. Buzzards Original Savannah Band": 1
+  }
+ },
+ {
+  "key": "en:deflepard",
+  "n": 2,
+  "ja": {
+   "デフ・レパード": 2
+  },
+  "en": {
+   "Def Lepard": 2
+  }
+ },
+ {
+  "key": "en:alicecooper",
+  "n": 2,
+  "ja": {
+   "アリス・クーパー": 2
+  },
+  "en": {
+   "Alice Cooper": 2
+  }
+ },
+ {
+  "key": "en:georgemichael",
+  "n": 2,
+  "ja": {
+   "ジョージ・マイケル": 2
+  },
+  "en": {
+   "George Michael": 2
+  }
+ },
+ {
+  "key": "en:chic",
+  "n": 2,
+  "ja": {
+   "シック": 2
+  },
+  "en": {
+   "Chic": 2
+  }
+ },
+ {
+  "key": "en:roger",
+  "n": 2,
+  "ja": {
+   "ロジャー": 2
+  },
+  "en": {
+   "Roger": 2
+  }
+ },
+ {
+  "key": "en:byrds",
+  "n": 2,
+  "ja": {
+   "バーズ": 1,
+   "ザ・バーズ": 1
+  },
+  "en": {
+   "The Byrds": 2
+  }
+ },
+ {
+  "key": "en:grandfunk",
+  "n": 2,
+  "ja": {
+   "グランド・ファンク": 2
+  },
+  "en": {
+   "Grand Funk": 2
+  }
+ },
+ {
+  "key": "ja:trex",
+  "n": 2,
+  "ja": {
+   "T-REX": 1,
+   "Ｔ－ＲＥＸ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:billyocean",
+  "n": 2,
+  "ja": {
+   "ビリーオーシャン": 1,
+   "ビリー・オーシャン": 1
+  },
+  "en": {
+   "Billy Ocean": 2
+  }
+ },
+ {
+  "key": "en:pinkcream69",
+  "n": 2,
+  "ja": {
+   "ピンククリーム69": 1,
+   "ピンククリーム６９": 1
+  },
+  "en": {
+   "Pink Cream 69": 2
+  }
+ },
+ {
+  "key": "en:kennyloggins",
+  "n": 2,
+  "ja": {
+   "ケニー・ロギンス": 2
+  },
+  "en": {
+   "Kenny Loggins": 2
+  }
+ },
+ {
+  "key": "en:livingcolour",
+  "n": 2,
+  "ja": {
+   "リヴィングカラー": 2
+  },
+  "en": {
+   "Living Colour": 2
+  }
+ },
+ {
+  "key": "en:painkiller",
+  "n": 2,
+  "ja": {
+   "ペイン・キラー": 1,
+   "ペインキラー": 1
+  },
+  "en": {
+   "Painkiller": 2
+  }
+ },
+ {
+  "key": "ja:t99",
+  "n": 2,
+  "ja": {
+   "T99": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:hotblood",
+  "n": 2,
+  "ja": {
+   "ホット・ブラッド": 2
+  },
+  "en": {
+   "Hot Blood": 2
+  }
+ },
+ {
+  "key": "en:outrage",
+  "n": 2,
+  "ja": {
+   "アウトレイジ": 2
+  },
+  "en": {
+   "Outrage": 2
+  }
+ },
+ {
+  "key": "en:freddieking",
+  "n": 2,
+  "ja": {
+   "フレディ・キング": 2
+  },
+  "en": {
+   "Freddie King": 2
+  }
+ },
+ {
+  "key": "en:ninahagen",
+  "n": 2,
+  "ja": {
+   "ニナ・ハーゲン": 2
+  },
+  "en": {
+   "Nina Hagen": 2
+  }
+ },
+ {
+  "key": "en:overkill",
+  "n": 2,
+  "ja": {
+   "オーバーキル": 1,
+   "オーヴァーキル": 1
+  },
+  "en": {
+   "Overkill": 1,
+   "Over Kill": 1
+  }
+ },
+ {
+  "key": "en:naughtybynature",
+  "n": 2,
+  "ja": {
+   "ノーティ・バイ・ ネーチャー": 1,
+   "ノーティ・バイ・ ネイチャー": 1
+  },
+  "en": {
+   "Naughty By Nature": 2
+  }
+ },
+ {
+  "key": "en:raybarretto",
+  "n": 2,
+  "ja": {
+   "レイ・バレット": 1,
+   "レイ・バレート": 1
+  },
+  "en": {
+   "Ray Barretto": 2
+  }
+ },
+ {
+  "key": "en:deeelite",
+  "n": 2,
+  "ja": {
+   "ディー・ライト": 2
+  },
+  "en": {
+   "Deee-Lite": 1,
+   "Deee Lite": 1
+  }
+ },
+ {
+  "key": "en:mozart",
+  "n": 2,
+  "ja": {
+   "モーツァルト": 2
+  },
+  "en": {
+   "Mozart": 2
+  }
+ },
+ {
+  "key": "ja:tnt",
+  "n": 2,
+  "ja": {
+   "TNT": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:shinehead",
+  "n": 2,
+  "ja": {
+   "シャインヘッド": 2
+  },
+  "en": {
+   "Shinehead": 2
+  }
+ },
+ {
+  "key": "en:devo",
+  "n": 2,
+  "ja": {
+   "ディーヴォ": 2
+  },
+  "en": {
+   "Devo": 2
+  }
+ },
+ {
+  "key": "en:pixies",
+  "n": 2,
+  "ja": {
+   "ピクシーズ": 2
+  },
+  "en": {
+   "The Pixies": 1,
+   "Pixies": 1
+  }
+ },
+ {
+  "key": "en:laffairelouistrio",
+  "n": 2,
+  "ja": {
+   "ラ・フェール・ ルイ・トリオ": 1,
+   "ラフェール・ ルイ・トリオ": 1
+  },
+  "en": {
+   "L'Affaire Louis Trio": 1,
+   "L'affaire Louis' Trio": 1
+  }
+ },
+ {
+  "key": "en:dizzygillespie",
+  "n": 2,
+  "ja": {
+   "ディジー・ガレスビー": 1,
+   "ディジー・ガレスピー": 1
+  },
+  "en": {
+   "Dizzy Gillespie": 2
+  }
+ },
+ {
+  "key": "en:cecepeniston",
+  "n": 2,
+  "ja": {
+   "シー・シー・ ペニストン": 2
+  },
+  "en": {
+   "Ce Ce Peniston": 2
+  }
+ },
+ {
+  "key": "en:billieholiday",
+  "n": 2,
+  "ja": {
+   "ビリー・ホリデイ": 2
+  },
+  "en": {
+   "Billie Holiday": 2
+  }
+ },
+ {
+  "key": "en:grahamcentralstation",
+  "n": 2,
+  "ja": {
+   "グラハム・ セントラル・ ステイション": 1,
+   "グラハム・セントラル・ステイション": 1
+  },
+  "en": {
+   "Graham Central Station": 2
+  }
+ },
+ {
+  "key": "en:gypsykings",
+  "n": 2,
+  "ja": {
+   "ジプシーキングス": 1,
+   "ジプシー・キングス": 1
+  },
+  "en": {
+   "Gypsy Kings": 2
+  }
+ },
+ {
+  "key": "en:rayparkerjr",
+  "n": 2,
+  "ja": {
+   "レイ・パーカー・Ｊｒ": 2
+  },
+  "en": {
+   "Ray Parker Jr．": 1,
+   "Ray Parker Jr.": 1
+  }
+ },
+ {
+  "key": "en:kylieminogue",
+  "n": 2,
+  "ja": {
+   "カイリー・ミノーグ": 2
+  },
+  "en": {
+   "Kylie Minogue": 2
+  }
+ },
+ {
+  "key": "en:manhattantransfer",
+  "n": 2,
+  "ja": {
+   "マンハッタン・ トランスファー": 2
+  },
+  "en": {
+   "The Manhattan Transfer": 2
+  }
+ },
+ {
+  "key": "en:hole",
+  "n": 2,
+  "ja": {
+   "ホール": 2
+  },
+  "en": {
+   "Hole": 2
+  }
+ },
+ {
+  "key": "en:icecube",
+  "n": 2,
+  "ja": {
+   "アイスキューブ": 1,
+   "アイス・キューブ": 1
+  },
+  "en": {
+   "Ice Cube": 2
+  }
+ },
+ {
+  "key": "en:junglebook",
+  "n": 2,
+  "ja": {
+   "ディズニー映画 「ジャングル・ブック」より": 1,
+   "「ジャングル・ブック」オリジナルサウンド トラック": 1
+  },
+  "en": {
+   "Jungle Book": 1,
+   "The Jungle Book": 1
+  }
+ },
+ {
+  "key": "en:vanmccoy",
+  "n": 2,
+  "ja": {
+   "ヴァン・マッコイ": 2
+  },
+  "en": {
+   "Van Mccoy": 1,
+   "Van McCoy": 1
+  }
+ },
+ {
+  "key": "en:morrissey",
+  "n": 2,
+  "ja": {
+   "モリッシー": 2
+  },
+  "en": {
+   "Morrissey": 2
+  }
+ },
+ {
+  "key": "en:realmccoy",
+  "n": 2,
+  "ja": {
+   "リアル・マッコイ": 2
+  },
+  "en": {
+   "Real Mccoy": 2
+  }
+ },
+ {
+  "key": "en:steelpulse",
+  "n": 2,
+  "ja": {
+   "スティール・パルス": 2
+  },
+  "en": {
+   "Steel Pulse": 2
+  }
+ },
+ {
+  "key": "ja:ufo",
+  "n": 2,
+  "ja": {
+   "UFO": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:faithnomore",
+  "n": 2,
+  "ja": {
+   "フェイス・ノー・モア": 2
+  },
+  "en": {
+   "Faith No More": 2
+  }
+ },
+ {
+  "key": "en:aceofbase",
+  "n": 2,
+  "ja": {
+   "エイス・オブ・ベイス": 2
+  },
+  "en": {
+   "Ace of Base": 1,
+   "Ace Of Base": 1
+  }
+ },
+ {
+  "key": "en:danzig",
+  "n": 2,
+  "ja": {
+   "ダンジグ": 2
+  },
+  "en": {
+   "Danzig": 2
+  }
+ },
+ {
+  "key": "en:vinceneil",
+  "n": 2,
+  "ja": {
+   "ヴィンス・ニール": 2
+  },
+  "en": {
+   "Vince Neil": 2
+  }
+ },
+ {
+  "key": "en:terencetrentdarby",
+  "n": 2,
+  "ja": {
+   "テレンス・トレント・ ダービー": 2
+  },
+  "en": {
+   "Terence Trent D'arby": 1,
+   "Terence Trent D'Arby": 1
+  }
+ },
+ {
+  "key": "en:georgesmoustaki",
+  "n": 2,
+  "ja": {
+   "ジョルジュ・ムスタギ": 1,
+   "ジョルジュ・ムスタキ": 1
+  },
+  "en": {
+   "Georges Moustaki": 2
+  }
+ },
+ {
+  "key": "en:las",
+  "n": 2,
+  "ja": {
+   "ラーズ": 2
+  },
+  "en": {
+   "The La's": 2
+  }
+ },
+ {
+  "key": "en:crowbar",
+  "n": 2,
+  "ja": {
+   "クロウバー": 2
+  },
+  "en": {
+   "Crowbar": 2
+  }
+ },
+ {
+  "key": "en:curtismayfield",
+  "n": 2,
+  "ja": {
+   "カーティス・ メイフィールド": 2
+  },
+  "en": {
+   "Curtis Mayfield": 2
+  }
+ },
+ {
+  "key": "en:coolio",
+  "n": 2,
+  "ja": {
+   "クーリオ": 2
+  },
+  "en": {
+   "Coolio": 2
+  }
+ },
+ {
+  "key": "en:maryhopkin",
+  "n": 2,
+  "ja": {
+   "メリー・ホプキン": 2
+  },
+  "en": {
+   "Mary Hopkin": 2
+  }
+ },
+ {
+  "key": "en:badreligion",
+  "n": 2,
+  "ja": {
+   "バッド・レリジョン": 1,
+   "バッドレリジョン": 1
+  },
+  "en": {
+   "Bad Religion": 2
+  }
+ },
+ {
+  "key": "en:pandora",
+  "n": 2,
+  "ja": {
+   "パンドラ": 2
+  },
+  "en": {
+   "Pandora": 2
+  }
+ },
+ {
+  "key": "en:rollinsband",
+  "n": 2,
+  "ja": {
+   "ロリンズ・バンド": 2
+  },
+  "en": {
+   "Rollins Band": 2
+  }
+ },
+ {
+  "key": "en:extremenoiseterror",
+  "n": 2,
+  "ja": {
+   "エクストリーム・ ノイズ・テラー": 2
+  },
+  "en": {
+   "Extreme Noise Terror": 2
+  }
+ },
+ {
+  "key": "en:marilynmonroe",
+  "n": 2,
+  "ja": {
+   "マリリン・モンロー": 2
+  },
+  "en": {
+   "Marilyn Monroe": 2
+  }
+ },
+ {
+  "key": "en:naleo",
+  "n": 2,
+  "ja": {
+   "ナレオ": 2
+  },
+  "en": {
+   "Na Leo": 2
+  }
+ },
+ {
+  "key": "en:meatloaf",
+  "n": 2,
+  "ja": {
+   "ミートローフ": 2
+  },
+  "en": {
+   "Meat Loaf": 2
+  }
+ },
+ {
+  "key": "en:derekandthedominoes",
+  "n": 2,
+  "ja": {
+   "デレク・アンド・ ドミノス": 2
+  },
+  "en": {
+   "Derek And The Dominoes": 2
+  }
+ },
+ {
+  "key": "en:steelheart",
+  "n": 2,
+  "ja": {
+   "スティール・ハート": 2
+  },
+  "en": {
+   "Steelheart": 1,
+   "Steel Heart": 1
+  }
+ },
+ {
+  "key": "en:undergroundost",
+  "n": 2,
+  "ja": {
+   "「アンダーグラウンド」オリジナル サウンドトラック": 2
+  },
+  "en": {
+   "Underground OST": 2
+  }
+ },
+ {
+  "key": "en:dubwar",
+  "n": 2,
+  "ja": {
+   "ダブ・ウォー": 2
+  },
+  "en": {
+   "Dub War": 2
+  }
+ },
+ {
+  "key": "en:notoriousbig",
+  "n": 2,
+  "ja": {
+   "ザ・ノートリアス B.I.G.": 1,
+   "ザ・ノートリアス・ B.I.G.": 1
+  },
+  "en": {
+   "The Notorious B.I.G.": 2
+  }
+ },
+ {
+  "key": "en:fallenangels",
+  "n": 2,
+  "ja": {
+   "「天使の涙」": 2
+  },
+  "en": {
+   "Fallen Angels": 2
+  }
+ },
+ {
+  "key": "en:fugees",
+  "n": 2,
+  "ja": {
+   "フージーズ": 2
+  },
+  "en": {
+   "The Fugees": 2
+  }
+ },
+ {
+  "key": "en:manowar",
+  "n": 2,
+  "ja": {
+   "マノウォー": 2
+  },
+  "en": {
+   "Manowar": 2
+  }
+ },
+ {
+  "key": "ja:311",
+  "n": 2,
+  "ja": {
+   "311": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:petergabriel",
+  "n": 2,
+  "ja": {
+   "ピーター・ガブリエル": 2
+  },
+  "en": {
+   "Peter Gabriel": 2
+  }
+ },
+ {
+  "key": "en:2unlimited",
+  "n": 2,
+  "ja": {
+   "2アンリミテッド": 2
+  },
+  "en": {
+   "2 Unlimited": 2
+  }
+ },
+ {
+  "key": "en:mattbianco",
+  "n": 2,
+  "ja": {
+   "マット・ビアンコ": 2
+  },
+  "en": {
+   "Matt Bianco": 2
+  }
+ },
+ {
+  "key": "en:janetjackson",
+  "n": 2,
+  "ja": {
+   "ジャネット・ ジャクソン": 2
+  },
+  "en": {
+   "Janet.Jackson": 1,
+   "Janet Jackson": 1
+  }
+ },
+ {
+  "key": "en:tricky",
+  "n": 2,
+  "ja": {
+   "トリッキー": 2
+  },
+  "en": {
+   "Tricky": 2
+  }
+ },
+ {
+  "key": "en:misfits",
+  "n": 2,
+  "ja": {
+   "ミスフィッツ": 1,
+   "ザ・ミスフィッツ": 1
+  },
+  "en": {
+   "The Misfits": 2
+  }
+ },
+ {
+  "key": "en:greenday",
+  "n": 2,
+  "ja": {
+   "グリーン・デイ": 2
+  },
+  "en": {
+   "Green Day": 2
+  }
+ },
+ {
+  "key": "en:janesaddiction",
+  "n": 2,
+  "ja": {
+   "ジェーンズ・ アディクション": 2
+  },
+  "en": {
+   "Jane's Addiction": 2
+  }
+ },
+ {
+  "key": "en:primalfear",
+  "n": 2,
+  "ja": {
+   "プライマル・フィア": 2
+  },
+  "en": {
+   "Primal Fear": 2
+  }
+ },
+ {
+  "key": "en:pretenders",
+  "n": 2,
+  "ja": {
+   "プリテンダーズ": 2
+  },
+  "en": {
+   "The Pretenders": 2
+  }
+ },
+ {
+  "key": "en:motorhead",
+  "n": 2,
+  "ja": {
+   "モーターヘッド": 1,
+   "モーター・ヘッド": 1
+  },
+  "en": {
+   "Motorhead": 1,
+   "Motor Head": 1
+  }
+ },
+ {
+  "key": "en:boyziimen",
+  "n": 2,
+  "ja": {
+   "ボーイズ・II・メン": 1,
+   "ボーイズIIメン": 1
+  },
+  "en": {
+   "Boyz II Men": 1,
+   "BoyzⅡmen": 1
+  }
+ },
+ {
+  "key": "en:incognito",
+  "n": 2,
+  "ja": {
+   "インコグニート": 2
+  },
+  "en": {
+   "Incognito": 2
+  }
+ },
+ {
+  "key": "en:astrudgilberto",
+  "n": 2,
+  "ja": {
+   "アストラッド・ ジルベルト": 1,
+   "アストラッド・ジルベルト": 1
+  },
+  "en": {
+   "Astrud Gilberto": 2
+  }
+ },
+ {
+  "key": "en:petercetera",
+  "n": 2,
+  "ja": {
+   "ピーター・セテラ": 2
+  },
+  "en": {
+   "Peter Cetera": 2
+  }
+ },
+ {
+  "key": "en:halloween",
+  "n": 2,
+  "ja": {
+   "ハロウィン": 2
+  },
+  "en": {
+   "Halloween": 2
+  }
+ },
+ {
+  "key": "ja:rem",
+  "n": 2,
+  "ja": {
+   "R.E.M.": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:mina",
+  "n": 2,
+  "ja": {
+   "ミーナ": 2
+  },
+  "en": {
+   "Mina": 2
+  }
+ },
+ {
+  "key": "en:wilsonpickett",
+  "n": 2,
+  "ja": {
+   "ウィルソン・ピケット": 2
+  },
+  "en": {
+   "Wilson Pickett": 2
+  }
+ },
+ {
+  "key": "en:wham",
+  "n": 2,
+  "ja": {
+   "ワム！": 1,
+   "ワム!": 1
+  },
+  "en": {
+   "Wham!": 2
+  }
+ },
+ {
+  "key": "en:chuckberry",
+  "n": 2,
+  "ja": {
+   "チャック・ベリー": 2
+  },
+  "en": {
+   "Chuck Berry": 2
+  }
+ },
+ {
+  "key": "en:backstreetboys",
+  "n": 2,
+  "ja": {
+   "バックストリート・ ボーイズ": 1,
+   "バック・ストリート・ ボーイズ": 1
+  },
+  "en": {
+   "Backstreet Boys": 1,
+   "Back Street Boys": 1
+  }
+ },
+ {
+  "key": "ja:tlc",
+  "n": 2,
+  "ja": {
+   "TLC": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:patriciakaas",
+  "n": 2,
+  "ja": {
+   "パトリシア・カース": 2
+  },
+  "en": {
+   "Patricia Kaas": 2
+  }
+ },
+ {
+  "key": "en:willsmith",
+  "n": 2,
+  "ja": {
+   "ウィルスミス": 1,
+   "ウィル・スミス": 1
+  },
+  "en": {
+   "Will Smith": 2
+  }
+ },
+ {
+  "key": "en:yvesmontand",
+  "n": 2,
+  "ja": {
+   "イヴ・モンタン": 2
+  },
+  "en": {
+   "Yves Montand": 2
+  }
+ },
+ {
+  "key": "en:cathedral",
+  "n": 2,
+  "ja": {
+   "カテドラル": 2
+  },
+  "en": {
+   "Cathedral": 2
+  }
+ },
+ {
+  "key": "en:total",
+  "n": 2,
+  "ja": {
+   "トータル": 2
+  },
+  "en": {
+   "Total": 2
+  }
+ },
+ {
+  "key": "ja:ub40",
+  "n": 2,
+  "ja": {
+   "UB40": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:soundsofblackness",
+  "n": 2,
+  "ja": {
+   "サウンズ・オブ・ ブラックネス": 2
+  },
+  "en": {
+   "Sounds Of Blackness": 2
+  }
+ },
+ {
+  "key": "en:marvingaye",
+  "n": 2,
+  "ja": {
+   "マービン・ゲイ": 1,
+   "マーヴィン・ゲイ": 1
+  },
+  "en": {
+   "Marvin Gaye": 2
+  }
+ },
+ {
+  "key": "en:stoneroses",
+  "n": 2,
+  "ja": {
+   "ストーン・ローゼズ": 1,
+   "ザ・ストーン・ ローゼズ": 1
+  },
+  "en": {
+   "The Stone Roses": 2
+  }
+ },
+ {
+  "key": "en:alihassankuban",
+  "n": 2,
+  "ja": {
+   "アリーハッサン・ クバーン": 1,
+   "アリ・ハッサン・ クバーン": 1
+  },
+  "en": {
+   "Ａｌｉ Hassan Kuban": 1,
+   "Ali Hassan Kuban": 1
+  }
+ },
+ {
+  "key": "en:arethafranklin",
+  "n": 2,
+  "ja": {
+   "アレサ・フランクリン": 2
+  },
+  "en": {
+   "Aretha Franklin": 2
+  }
+ },
+ {
+  "key": "en:enriqueiglesias",
+  "n": 2,
+  "ja": {
+   "エンリケ・ イグレシアス": 1,
+   "エンリケ・ エグレシアス": 1
+  },
+  "en": {
+   "Enrique Iglesias": 2
+  }
+ },
+ {
+  "key": "en:snuff",
+  "n": 2,
+  "ja": {
+   "スナッフ": 2
+  },
+  "en": {
+   "Snuff": 2
+  }
+ },
+ {
+  "key": "en:adiemus",
+  "n": 2,
+  "ja": {
+   "アディエマス": 2
+  },
+  "en": {
+   "Adiemus": 2
+  }
+ },
+ {
+  "key": "en:peterpaulandmary",
+  "n": 2,
+  "ja": {
+   "ピーター、ポール ＆マリー": 1,
+   "ピーター・ポール ＆マリー": 1
+  },
+  "en": {
+   "Peter, Paul and Mary": 1,
+   "Peter, Paul And Mary": 1
+  }
+ },
+ {
+  "key": "en:eddireader",
+  "n": 2,
+  "ja": {
+   "エディ・リーダー": 2
+  },
+  "en": {
+   "Eddi Reader": 2
+  }
+ },
+ {
+  "key": "ja:ハウスオブペイン",
+  "n": 2,
+  "ja": {
+   "ハウス・オブ・ペイン": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:lindaronstadt",
+  "n": 2,
+  "ja": {
+   "リンダ・ ロンシュタット": 1,
+   "リンダ・ロンシュタット": 1
+  },
+  "en": {
+   "Linda Ronstadt": 2
+  }
+ },
+ {
+  "key": "en:neilsedaka",
+  "n": 2,
+  "ja": {
+   "ニール・セダカ": 2
+  },
+  "en": {
+   "Neil Sedaka": 2
+  }
+ },
+ {
+  "key": "en:richardmarx",
+  "n": 2,
+  "ja": {
+   "リチャード・マークス": 2
+  },
+  "en": {
+   "Richard Marx": 2
+  }
+ },
+ {
+  "key": "en:cypresshill",
+  "n": 2,
+  "ja": {
+   "サイプレス・ヒル": 2
+  },
+  "en": {
+   "Cypress Hill": 2
+  }
+ },
+ {
+  "key": "en:falco",
+  "n": 2,
+  "ja": {
+   "ファルコ": 2
+  },
+  "en": {
+   "Falco": 2
+  }
+ },
+ {
+  "key": "en:shockingblue",
+  "n": 2,
+  "ja": {
+   "ショッキング・ブルー": 2
+  },
+  "en": {
+   "Shocking Blue": 2
+  }
+ },
+ {
+  "key": "en:ojays",
+  "n": 2,
+  "ja": {
+   "オージェイズ": 2
+  },
+  "en": {
+   "O'Jays": 1,
+   "The O'Jays": 1
+  }
+ },
+ {
+  "key": "en:impellitteri",
+  "n": 2,
+  "ja": {
+   "インペリテリ": 2
+  },
+  "en": {
+   "Impellitteri": 2
+  }
+ },
+ {
+  "key": "en:raycharles",
+  "n": 2,
+  "ja": {
+   "レイ・チャールズ": 2
+  },
+  "en": {
+   "Ray Charles": 2
+  }
+ },
+ {
+  "key": "en:pinkfloid",
+  "n": 2,
+  "ja": {
+   "ピンク・フロイド": 2
+  },
+  "en": {
+   "Pink Floid": 2
+  }
+ },
+ {
+  "key": "en:bonietyler",
+  "n": 2,
+  "ja": {
+   "ボニー・タイラー": 2
+  },
+  "en": {
+   "Bonie Tyler": 2
+  }
+ },
+ {
+  "key": "en:samcooke",
+  "n": 2,
+  "ja": {
+   "サム・クック": 2
+  },
+  "en": {
+   "Sam Cooke": 2
+  }
+ },
+ {
+  "key": "en:nouseforaname",
+  "n": 2,
+  "ja": {
+   "ノー・ユース・ フォー・ア・ネーム": 1,
+   "ノー・ユース・フォー・ア・ネーム": 1
+  },
+  "en": {
+   "No Use For A Name": 2
+  }
+ },
+ {
+  "key": "en:conniefrancis",
+  "n": 2,
+  "ja": {
+   "コニー・フランシス": 2
+  },
+  "en": {
+   "Connie Francis": 2
+  }
+ },
+ {
+  "key": "ja:tok",
+  "n": 2,
+  "ja": {
+   "T.O.K.": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:laurabranigan",
+  "n": 2,
+  "ja": {
+   "ローラ・ブラニガン": 2
+  },
+  "en": {
+   "Laura Branigan": 2
+  }
+ },
+ {
+  "key": "en:mudhoney",
+  "n": 2,
+  "ja": {
+   "マッドハニー": 1,
+   "マッド・ハニー": 1
+  },
+  "en": {
+   "Mudhoney": 2
+  }
+ },
+ {
+  "key": "en:pleymo",
+  "n": 2,
+  "ja": {
+   "プレイモ": 2
+  },
+  "en": {
+   "Pleymo": 2
+  }
+ },
+ {
+  "key": "en:rycooder",
+  "n": 2,
+  "ja": {
+   "ライ・クーダー": 1,
+   "ライクーダー": 1
+  },
+  "en": {
+   "Ry Cooder": 2
+  }
+ },
+ {
+  "key": "en:stifflittlefingers",
+  "n": 2,
+  "ja": {
+   "スティッフ・リトル・ フィンガーズ": 2
+  },
+  "en": {
+   "Stiff Little Fingers": 2
+  }
+ },
+ {
+  "key": "ja:nwa",
+  "n": 2,
+  "ja": {
+   "N.W.A.": 1,
+   "N.W.A": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:doobiebrothers",
+  "n": 2,
+  "ja": {
+   "ドゥービー・ ブラザーズ": 2
+  },
+  "en": {
+   "The Doobie Brothers": 2
+  }
+ },
+ {
+  "key": "en:babybash",
+  "n": 2,
+  "ja": {
+   "ベイビー・バッシュ": 2
+  },
+  "en": {
+   "Baby Bash": 2
+  }
+ },
+ {
+  "key": "en:mcauleyschenkergroup",
+  "n": 2,
+  "ja": {
+   "マッコリー・シェンカー・グループ": 1,
+   "マッコーリー・シェンカー・グループ": 1
+  },
+  "en": {
+   "Mcauley Schenker Group": 2
+  }
+ },
+ {
+  "key": "en:patboone",
+  "n": 2,
+  "ja": {
+   "パット・ブーン": 2
+  },
+  "en": {
+   "Pat Boone": 2
+  }
+ },
+ {
+  "key": "ja:gラヴ",
+  "n": 2,
+  "ja": {
+   "Gラヴ": 2
+  },
+  "en": {}
+ },
+ {
+  "key": "en:blondie",
+  "n": 2,
+  "ja": {
+   "ブロンディ": 2
+  },
+  "en": {
+   "Blondie": 2
+  }
+ },
+ {
+  "key": "en:stranglers",
+  "n": 2,
+  "ja": {
+   "ザ・ストラングラーズ": 1,
+   "ストラングラーズ": 1
+  },
+  "en": {
+   "The Stranglers": 2
+  }
+ },
+ {
+  "key": "en:michaelschenkergroup",
+  "n": 2,
+  "ja": {
+   "マイケル・ シェンガー・グループ": 1,
+   "マイケル・シェンカー・グループ": 1
+  },
+  "en": {
+   "Michael Schenker Group": 2
+  }
+ },
+ {
+  "key": "en:gorillaz",
+  "n": 2,
+  "ja": {
+   "ゴリラズ": 2
+  },
+  "en": {
+   "Gorillaz": 2
+  }
+ },
+ {
+  "key": "en:kottonmouthkings",
+  "n": 2,
+  "ja": {
+   "コットンマウス・ キングス": 2
+  },
+  "en": {
+   "Kottonmouth Kings": 2
+  }
+ },
+ {
+  "key": "en:ashanti",
+  "n": 2,
+  "ja": {
+   "アシャンティ": 2
+  },
+  "en": {
+   "Ashanti": 2
+  }
+ },
+ {
+  "key": "en:monkeys",
+  "n": 2,
+  "ja": {
+   "ザ・モンキーズ": 1,
+   "モンキーズ": 1
+  },
+  "en": {
+   "The Monkeys": 2
+  }
+ },
+ {
+  "key": "en:josefeliciano",
+  "n": 2,
+  "ja": {
+   "ホセ・フェリシアーノ": 2
+  },
+  "en": {
+   "Jose Feliciano": 2
+  }
+ },
+ {
+  "key": "en:hardfi",
+  "n": 2,
+  "ja": {
+   "ハード・ファイ": 2
+  },
+  "en": {
+   "Hard-Fi": 1,
+   "Hard Fi": 1
+  }
+ },
+ {
+  "key": "en:branvan3000",
+  "n": 2,
+  "ja": {
+   "ブラン・ヴァン3000": 2
+  },
+  "en": {
+   "Bran Van 3000": 2
+  }
+ },
+ {
+  "key": "en:fourtops",
+  "n": 2,
+  "ja": {
+   "フォー・トップス": 2
+  },
+  "en": {
+   "The Four Tops": 1,
+   "Four Tops": 1
+  }
+ },
+ {
+  "key": "en:mandodiao",
+  "n": 2,
+  "ja": {
+   "マンドゥ・ディアオ": 2
+  },
+  "en": {
+   "Mando Diao": 2
+  }
+ },
+ {
+  "key": "en:fourseasons",
+  "n": 2,
+  "ja": {
+   "フォー・シーズンズ": 2
+  },
+  "en": {
+   "The Four Seasons": 2
+  }
+ },
+ {
+  "key": "en:djavan",
+  "n": 2,
+  "ja": {
+   "ジャヴァン": 2
+  },
+  "en": {
+   "Djavan": 2
+  }
+ },
+ {
+  "key": "en:funkadelic",
+  "n": 2,
+  "ja": {
+   "ファンカデリック": 1,
+   "ファンカディック": 1
+  },
+  "en": {
+   "Funkadelic": 2
+  }
+ },
+ {
+  "key": "en:racerx",
+  "n": 2,
+  "ja": {
+   "レーサーX": 2
+  },
+  "en": {
+   "Racer-X": 1,
+   "Racer X": 1
+  }
+ },
+ {
+  "key": "en:juanes",
+  "n": 2,
+  "ja": {
+   "フアネス": 2
+  },
+  "en": {
+   "Juanes": 2
+  }
+ },
+ {
+  "key": "en:forbidden",
+  "n": 2,
+  "ja": {
+   "フォービドゥン": 1,
+   "フォビドゥン": 1
+  },
+  "en": {
+   "Forbidden": 2
+  }
+ },
+ {
+  "key": "en:stonesour",
+  "n": 2,
+  "ja": {
+   "ストーン・サワー": 2
+  },
+  "en": {
+   "Stone Sour": 2
+  }
+ },
+ {
+  "key": "en:darkness",
+  "n": 2,
+  "ja": {
+   "ザ・ダークネス": 2
+  },
+  "en": {
+   "The Darkness": 2
+  }
+ },
+ {
+  "key": "en:buckcherry",
+  "n": 2,
+  "ja": {
+   "バックチェリー": 2
+  },
+  "en": {
+   "Buckcherry": 2
+  }
+ },
+ {
+  "key": "en:mariamuldaur",
+  "n": 2,
+  "ja": {
+   "マリア・マルダー": 2
+  },
+  "en": {
+   "Maria Muldaur": 2
+  }
+ },
+ {
+  "key": "en:alexisonfire",
+  "n": 2,
+  "ja": {
+   "アレクシスオン ファイアー": 2
+  },
+  "en": {
+   "Alexisonfire": 2
+  }
+ },
+ {
+  "key": "en:newfoundglory",
+  "n": 2,
+  "ja": {
+   "ニュー・ファウンド・グローリー": 1,
+   "ニュー・ファウンド・ グローリー": 1
+  },
+  "en": {
+   "New Found Glory": 2
+  }
+ },
+ {
+  "key": "en:towerofpower",
+  "n": 2,
+  "ja": {
+   "タワー・オブ・パワー": 2
+  },
+  "en": {
+   "Tower Of Power": 2
+  }
+ },
+ {
+  "key": "en:omarion",
+  "n": 2,
+  "ja": {
+   "オマリオン": 2
+  },
+  "en": {
+   "Omarion": 2
+  }
+ },
+ {
+  "key": "en:aqua",
+  "n": 2,
+  "ja": {
+   "アクア": 2
+  },
+  "en": {
+   "Aqua": 2
+  }
+ },
+ {
+  "key": "en:area",
+  "n": 2,
+  "ja": {
+   "アレア": 2
+  },
+  "en": {
+   "Area": 2
+  }
+ },
+ {
+  "key": "en:righteousbrothers",
+  "n": 2,
+  "ja": {
+   "ザ・ライチャス・ ブラザーズ": 1,
+   "ライチャス・ ブラザーズ": 1
+  },
+  "en": {
+   "The Righteous Brothers": 2
+  }
+ },
+ {
+  "key": "en:enya",
+  "n": 2,
+  "ja": {
+   "エンヤ": 2
+  },
+  "en": {
+   "Enya": 2
+  }
+ },
+ {
+  "key": "en:mdlwembe",
+  "n": 2,
+  "ja": {
+   "グレンベ": 2
+  },
+  "en": {
+   "Mdlwembe": 2
+  }
+ },
+ {
+  "key": "en:beyonce",
+  "n": 2,
+  "ja": {
+   "ビヨンセ": 2
+  },
+  "en": {
+   "Beyonce": 2
+  }
+ },
+ {
+  "key": "en:sergiomendes",
+  "n": 2,
+  "ja": {
+   "セルジオ・メンデス": 2
+  },
+  "en": {
+   "Sergio Mendes": 2
+  }
+ },
+ {
+  "key": "ja:10cc",
+  "n": 2,
+  "ja": {
+   "10CC": 1,
+   "10cc": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:withintemptation",
+  "n": 2,
+  "ja": {
+   "ウィズイン・ テンプテーション": 1,
+   "ウィズイン・テンプテーション": 1
+  },
+  "en": {
+   "Within Temptation": 2
+  }
+ },
+ {
+  "key": "en:skindred",
+  "n": 2,
+  "ja": {
+   "スキンドレッド": 2
+  },
+  "en": {
+   "Skindred": 2
+  }
+ },
+ {
+  "key": "en:vanhelen",
+  "n": 2,
+  "ja": {
+   "ヴァン・ヘイレン": 2
+  },
+  "en": {
+   "Van Helen": 2
+  }
+ },
+ {
+  "key": "en:fireinc",
+  "n": 2,
+  "ja": {
+   "ファイヤー・インク": 2
+  },
+  "en": {
+   "Fire Inc.": 2
+  }
+ },
+ {
+  "key": "en:percysledge",
+  "n": 2,
+  "ja": {
+   "パーシー・スレッジ": 2
+  },
+  "en": {
+   "Percy Sledge": 2
+  }
+ },
+ {
+  "key": "en:love",
+  "n": 2,
+  "ja": {
+   "ラブ": 1,
+   "ラヴ": 1
+  },
+  "en": {
+   "Love": 2
+  }
+ },
+ {
+  "key": "en:nitinsawhney",
+  "n": 2,
+  "ja": {
+   "ニティン・サウニー": 1,
+   "ニッティン・サウニー": 1
+  },
+  "en": {
+   "Nitin Sawhney": 2
+  }
+ },
+ {
+  "key": "en:brianhyland",
+  "n": 2,
+  "ja": {
+   "ブライアン・ ハイランド": 2
+  },
+  "en": {
+   "Brian Hyland": 2
+  }
+ },
+ {
+  "key": "ja:elo",
+  "n": 2,
+  "ja": {
+   "E.L.O": 1,
+   "E.L.O.": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:fairgroundattraction",
+  "n": 2,
+  "ja": {
+   "フェアーグラウンド・ アトラクション": 1,
+   "フェアーグラウンド・ アトラクションズ": 1
+  },
+  "en": {
+   "Fairground Attraction": 2
+  }
+ },
+ {
+  "key": "en:captainandtennille",
+  "n": 2,
+  "ja": {
+   "キャプテン＆ テニール": 2
+  },
+  "en": {
+   "Captain & Tennille": 2
+  }
+ },
+ {
+  "key": "en:marilynmanson",
+  "n": 2,
+  "ja": {
+   "マリリン・マンソン": 2
+  },
+  "en": {
+   "Marilyn Manson": 2
+  }
+ },
+ {
+  "key": "en:carlito",
+  "n": 2,
+  "ja": {
+   "カリート": 2
+  },
+  "en": {
+   "Carlito": 2
+  }
+ },
+ {
+  "key": "en:gilbertosullivan",
+  "n": 2,
+  "ja": {
+   "ギルバート・ オサリバン": 2
+  },
+  "en": {
+   "Gilbert O'sullivan": 1,
+   "Gilbert O'Sullivan": 1
+  }
+ },
+ {
+  "key": "en:coldplay",
+  "n": 2,
+  "ja": {
+   "コールド・プレイ": 1,
+   "コールドプレイ": 1
+  },
+  "en": {
+   "Cold Play": 1,
+   "Coldplay": 1
+  }
+ },
+ {
+  "key": "en:julioiglesias",
+  "n": 2,
+  "ja": {
+   "フリオ・イグレシアス": 2
+  },
+  "en": {
+   "Julio Iglesias": 2
+  }
+ },
+ {
+  "key": "en:sabu",
+  "n": 2,
+  "ja": {
+   "サブー": 2
+  },
+  "en": {
+   "Sabu": 2
+  }
+ },
+ {
+  "key": "en:storyoftheyear",
+  "n": 2,
+  "ja": {
+   "ストーリー・オブ・ ザ・イヤー": 2
+  },
+  "en": {
+   "Story Of The Year": 2
+  }
+ },
+ {
+  "key": "en:jet",
+  "n": 2,
+  "ja": {
+   "ジェット": 2
+  },
+  "en": {
+   "Jet": 2
+  }
+ },
+ {
+  "key": "en:avrillavigne",
+  "n": 2,
+  "ja": {
+   "アヴリル・ラヴィーン": 2
+  },
+  "en": {
+   "Avril Lavigne": 2
+  }
+ },
+ {
+  "key": "en:machinehead",
+  "n": 2,
+  "ja": {
+   "マシーン・ヘッド": 1,
+   "マシーンヘッド": 1
+  },
+  "en": {
+   "Machine Head": 2
+  }
+ },
+ {
+  "key": "en:pnk",
+  "n": 2,
+  "ja": {
+   "ピンク": 2
+  },
+  "en": {
+   "P!nk": 2
+  }
+ },
+ {
+  "key": "en:soeursourire",
+  "n": 2,
+  "ja": {
+   "スール・スーリール": 2
+  },
+  "en": {
+   "Soeur Sourire": 2
+  }
+ },
+ {
+  "key": "en:rhapsodyoffire",
+  "n": 2,
+  "ja": {
+   "ラプソディー・ オブ・ファイヤー": 1,
+   "ラプソディー・オブ・ ファイア": 1
+  },
+  "en": {
+   "Rhapsody of Fire": 1,
+   "Rhapsody Of Fire": 1
+  }
+ },
+ {
+  "key": "en:raekwon",
+  "n": 2,
+  "ja": {
+   "レイクウォン": 2
+  },
+  "en": {
+   "Raekwon": 2
+  }
+ },
+ {
+  "key": "en:sigurros",
+  "n": 2,
+  "ja": {
+   "シガー・ロス": 2
+  },
+  "en": {
+   "Sigur Ros": 2
+  }
+ },
+ {
+  "key": "en:princeandtherevolution",
+  "n": 2,
+  "ja": {
+   "プリンス＆ザ・ レヴォリューション": 2
+  },
+  "en": {
+   "Prince And The Revolution": 2
+  }
+ },
+ {
+  "key": "en:oldirtybastard",
+  "n": 2,
+  "ja": {
+   "オール・ダーティ・バスタード": 1,
+   "オール・ダーティ・ バスタード": 1
+  },
+  "en": {
+   "Ol' Dirty Bastard": 2
+  }
+ },
+ {
+  "key": "en:cream",
+  "n": 2,
+  "ja": {
+   "クリーム": 2
+  },
+  "en": {
+   "Cream": 2
+  }
+ },
+ {
+  "key": "en:vanmorrison",
+  "n": 2,
+  "ja": {
+   "ヴァン・モリソン": 2
+  },
+  "en": {
+   "Van Morrison": 2
+  }
+ },
+ {
+  "key": "en:jeevas",
+  "n": 2,
+  "ja": {
+   "ザ・ジーヴァス": 1,
+   "ザ・ジーヴァズ": 1
+  },
+  "en": {
+   "The Jeevas": 2
+  }
+ },
+ {
+  "key": "en:strokes",
+  "n": 2,
+  "ja": {
+   "ザ・ストロークス": 2
+  },
+  "en": {
+   "The Strokes": 2
+  }
+ },
+ {
+  "key": "en:damned",
+  "n": 2,
+  "ja": {
+   "ダムド": 2
+  },
+  "en": {
+   "The Damned": 1,
+   "Damned": 1
+  }
+ },
+ {
+  "key": "en:elsa",
+  "n": 2,
+  "ja": {
+   "エルザ": 2
+  },
+  "en": {
+   "Elsa": 2
+  }
+ },
+ {
+  "key": "en:europe",
+  "n": 2,
+  "ja": {
+   "ヨーロッパ": 2
+  },
+  "en": {
+   "Europe": 2
+  }
+ },
+ {
+  "key": "en:weathergirls",
+  "n": 2,
+  "ja": {
+   "ウェザー・ガールズ": 2
+  },
+  "en": {
+   "The Weather Girls": 1,
+   "Weather Girls": 1
+  }
+ },
+ {
+  "key": "en:dreamevil",
+  "n": 2,
+  "ja": {
+   "ドリーム・イーヴル": 2
+  },
+  "en": {
+   "Dream Evil": 2
+  }
+ },
+ {
+  "key": "en:nas",
+  "n": 2,
+  "ja": {
+   "ナス": 1,
+   "ナズ": 1
+  },
+  "en": {
+   "NAS": 1,
+   "Nas": 1
+  }
+ },
+ {
+  "key": "en:otisredding",
+  "n": 2,
+  "ja": {
+   "オーティス・ レディング": 2
+  },
+  "en": {
+   "Otis Redding": 2
+  }
+ },
+ {
+  "key": "en:caetanoveloso",
+  "n": 2,
+  "ja": {
+   "カエターノ・ ヴェローゾ": 2
+  },
+  "en": {
+   "Caetano Veloso": 2
+  }
+ },
+ {
+  "key": "en:norahjones",
+  "n": 2,
+  "ja": {
+   "ノラ・ジョーンズ": 2
+  },
+  "en": {
+   "Norah Jones": 2
+  }
+ },
+ {
+  "key": "en:brigittefontaine",
+  "n": 2,
+  "ja": {
+   "ブリジット・ フォンテーヌ": 2
+  },
+  "en": {
+   "Brigitte Fontaine": 2
+  }
+ },
+ {
+  "key": "en:arcticmonkeys",
+  "n": 2,
+  "ja": {
+   "アークティック・ モンキーズ": 1,
+   "アークティック・モンキーズ": 1
+  },
+  "en": {
+   "Arctic Monkeys": 2
+  }
+ },
+ {
+  "key": "en:garymoore",
+  "n": 2,
+  "ja": {
+   "ゲイリー・ムーア": 2
+  },
+  "en": {
+   "Gary Moore": 2
+  }
+ },
+ {
+  "key": "en:america",
+  "n": 2,
+  "ja": {
+   "アメリカ": 2
+  },
+  "en": {
+   "America": 2
+  }
+ },
+ {
+  "key": "en:velvetundergroundandnico",
+  "n": 2,
+  "ja": {
+   "ヴェルヴェット・ アンダーグラウンド＆ニコ": 1,
+   "ヴェルヴェット・ アンダーグラウンド・ アンド・ニコ": 1
+  },
+  "en": {
+   "The Velvet Underground And Nico": 2
+  }
+ },
+ {
+  "key": "en:drdre",
+  "n": 2,
+  "ja": {
+   "ドクター・ドレー": 2
+  },
+  "en": {
+   "Dr. Dre": 2
+  }
+ },
+ {
+  "key": "en:sarahvaughan",
+  "n": 2,
+  "ja": {
+   "サラ・ヴォーン": 2
+  },
+  "en": {
+   "Sarah Vaughan": 2
+  }
+ },
+ {
+  "key": "en:miltonnascimento",
+  "n": 2,
+  "ja": {
+   "ミルトン・ナシメント": 2
+  },
+  "en": {
+   "Milton Nascimento": 2
+  }
+ },
+ {
+  "key": "en:simpleplan",
+  "n": 2,
+  "ja": {
+   "シンプル・プラン": 2
+  },
+  "en": {
+   "Simple Plan": 2
+  }
+ },
+ {
+  "key": "en:warreng",
+  "n": 2,
+  "ja": {
+   "ウォーレンＧ": 1,
+   "ウォーレンG": 1
+  },
+  "en": {
+   "Warren G": 2
+  }
+ },
+ {
+  "key": "en:samsmith",
+  "n": 2,
+  "ja": {
+   "サム・スミス": 2
+  },
+  "en": {
+   "Sam Smith": 2
+  }
+ },
+ {
+  "key": "en:steveaoki",
+  "n": 2,
+  "ja": {
+   "スティーブ・アオキ": 2
+  },
+  "en": {
+   "Steve Aoki": 2
+  }
+ },
+ {
+  "key": "en:florida",
+  "n": 2,
+  "ja": {
+   "フロー・ライダー": 2
+  },
+  "en": {
+   "Flo Rida": 2
+  }
+ },
+ {
+  "key": "en:hueylewisandthenews",
+  "n": 2,
+  "ja": {
+   "ヒューイ・ルイス・アンド・ザ・ニュース": 1,
+   "ヒューイ・ルイス・ アンド・ザ・ニュース": 1
+  },
+  "en": {
+   "Huey Lewis & The News": 2
+  }
+ },
+ {
+  "key": "en:common",
+  "n": 2,
+  "ja": {
+   "コモン": 2
+  },
+  "en": {
+   "Common": 2
+  }
+ },
+ {
+  "key": "en:gillespetersonpresentshavanacultura",
+  "n": 2,
+  "ja": {
+   "ジャイルス・ ピーターソンズ・ ハバナ・ クルトゥーラ・バンド": 1,
+   "ジャイルス・ピーターソンズ・ハバナ・クルトゥーラ・バンド": 1
+  },
+  "en": {
+   "Gilles Peterson Presents Havana Cultura": 2
+  }
+ },
+ {
+  "key": "en:alanparsonsproject",
+  "n": 2,
+  "ja": {
+   "アラン・パーソンズ・プロジェクト": 2
+  },
+  "en": {
+   "The Alan Parsons Project": 1,
+   "Alan Parsons Project": 1
+  }
+ },
+ {
+  "key": "en:liampayne",
+  "n": 2,
+  "ja": {
+   "リアム・ペイン": 2
+  },
+  "en": {
+   "Liam Payne": 2
+  }
+ },
+ {
+  "key": "en:bananarama",
+  "n": 2,
+  "ja": {
+   "バナナラマ": 2
+  },
+  "en": {
+   "Bananarama": 2
+  }
+ },
+ {
+  "key": "en:reospeedwagon",
+  "n": 2,
+  "ja": {
+   "アール・イー・オー・スピードワゴン": 1,
+   "REOスピードワゴン": 1
+  },
+  "en": {
+   "REO Speedwagon": 2
+  }
+ },
+ {
+  "key": "ja:西郷輝彦",
+  "n": 1,
+  "ja": {
+   "西郷輝彦": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ハナ肇とクレイジキャッツ",
+  "n": 1,
+  "ja": {
+   "ハナ肇とクレイジーキャッツ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ピンキとキラズ",
+  "n": 1,
+  "ja": {
+   "ピンキーとキラーズ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:甲斐バンド",
+  "n": 1,
+  "ja": {
+   "甲斐バンド": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:森繁久弥",
+  "n": 1,
+  "ja": {
+   "森繁久弥": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:山口百恵",
+  "n": 1,
+  "ja": {
+   "山口百恵": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:―",
+  "n": 1,
+  "ja": {
+   "―": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:松坂慶子",
+  "n": 1,
+  "ja": {
+   "松坂慶子": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:南佳孝",
+  "n": 1,
+  "ja": {
+   "南 佳孝": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:reoスピドワゴン",
+  "n": 1,
+  "ja": {
+   "REOスピードワゴン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:光genji",
+  "n": 1,
+  "ja": {
+   "光GENJI": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:キャンディズ",
+  "n": 1,
+  "ja": {
+   "キャンディーズ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:キャロル",
+  "n": 1,
+  "ja": {
+   "キャロル": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:mrblack",
+  "n": 1,
+  "ja": {
+   "ミスター・ブラック": 1
+  },
+  "en": {
+   "Mr. Black": 1
+  }
+ },
+ {
+  "key": "en:ninorota",
+  "n": 1,
+  "ja": {
+   "ニーノ・ロータ": 1
+  },
+  "en": {
+   "Nino Rota": 1
+  }
+ },
+ {
+  "key": "en:georgebensonandarethafranklin",
+  "n": 1,
+  "ja": {
+   "ジョージ・ベンソン＆アレサ・フランクリン": 1
+  },
+  "en": {
+   "George Benson & Aretha Franklin": 1
+  }
+ },
+ {
+  "key": "ja:aha",
+  "n": 1,
+  "ja": {
+   "A-HA": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:bobbycaldwell",
+  "n": 1,
+  "ja": {
+   "ボビー・ コールドウェル": 1
+  },
+  "en": {
+   "Bobby Caldwell": 1
+  }
+ },
+ {
+  "key": "en:hammer",
+  "n": 1,
+  "ja": {
+   "ハマー": 1
+  },
+  "en": {
+   "Hammer": 1
+  }
+ },
+ {
+  "key": "ja:エディットピアフ",
+  "n": 1,
+  "ja": {
+   "エディット・ピアフ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ニルヴァナ",
+  "n": 1,
+  "ja": {
+   "ニルヴァーナ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:メタリカ",
+  "n": 1,
+  "ja": {
+   "メタリカ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ザビトルズ",
+  "n": 1,
+  "ja": {
+   "ザ・ビートルズ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:マニックストリトプリチャズ",
+  "n": 1,
+  "ja": {
+   "マニック・ストリート プリーチャーズ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:elopart2",
+  "n": 1,
+  "ja": {
+   "E．L．O．PART２": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:timedrillers",
+  "n": 1,
+  "ja": {
+   "タイムドリラーズ": 1
+  },
+  "en": {
+   "Timedrillers": 1
+  }
+ },
+ {
+  "key": "en:almighty",
+  "n": 1,
+  "ja": {
+   "オールマイティー": 1
+  },
+  "en": {
+   "The Almighty": 1
+  }
+ },
+ {
+  "key": "en:robertpalmer",
+  "n": 1,
+  "ja": {
+   "ロバート・パーマー": 1
+  },
+  "en": {
+   "Robert Palmer": 1
+  }
+ },
+ {
+  "key": "en:martika",
+  "n": 1,
+  "ja": {
+   "マルティカ": 1
+  },
+  "en": {
+   "Martika": 1
+  }
+ },
+ {
+  "key": "en:lionelrichie",
+  "n": 1,
+  "ja": {
+   "ライオネル・リッチー": 1
+  },
+  "en": {
+   "Lionel Richie": 1
+  }
+ },
+ {
+  "key": "en:bobseger",
+  "n": 1,
+  "ja": {
+   "ボブ・シーガー": 1
+  },
+  "en": {
+   "Bob Seger": 1
+  }
+ },
+ {
+  "key": "en:nedsatomicdustbin",
+  "n": 1,
+  "ja": {
+   "ネッズ・アトミック・ ダストビン": 1
+  },
+  "en": {
+   "Ned's Atomic Dustbin": 1
+  }
+ },
+ {
+  "key": "en:ledzepperin",
+  "n": 1,
+  "ja": {
+   "レッド・ツェッペリン": 1
+  },
+  "en": {
+   "Led Zepperin": 1
+  }
+ },
+ {
+  "key": "en:kraftwerk",
+  "n": 1,
+  "ja": {
+   "クラフトワーク": 1
+  },
+  "en": {
+   "Kraftwerk": 1
+  }
+ },
+ {
+  "key": "en:television",
+  "n": 1,
+  "ja": {
+   "テレヴィジョン": 1
+  },
+  "en": {
+   "Television": 1
+  }
+ },
+ {
+  "key": "en:bobbycondersandmassivesounds",
+  "n": 1,
+  "ja": {
+   "ボビーコンダース＆マツシブ・サウンズ": 1
+  },
+  "en": {
+   "Bobby Conders & Massive Sounds": 1
+  }
+ },
+ {
+  "key": "en:cult",
+  "n": 1,
+  "ja": {
+   "ザ・カルト": 1
+  },
+  "en": {
+   "The Cult": 1
+  }
+ },
+ {
+  "key": "ja:testpressingfeaturingdjspa",
+  "n": 1,
+  "ja": {
+   "TEST PRESSING FEATURING DJ SPA": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:winger",
+  "n": 1,
+  "ja": {
+   "ウインガー": 1
+  },
+  "en": {
+   "Winger": 1
+  }
+ },
+ {
+  "key": "en:jesuslovesyou",
+  "n": 1,
+  "ja": {
+   "ジーザス・ ラブズ・ユー": 1
+  },
+  "en": {
+   "Jesus Loves You": 1
+  }
+ },
+ {
+  "key": "en:madness",
+  "n": 1,
+  "ja": {
+   "マッドネス": 1
+  },
+  "en": {
+   "Madness": 1
+  }
+ },
+ {
+  "key": "en:exhorder",
+  "n": 1,
+  "ja": {
+   "エクスホーダー": 1
+  },
+  "en": {
+   "Exhorder": 1
+  }
+ },
+ {
+  "key": "en:suziquatro",
+  "n": 1,
+  "ja": {
+   "スージー・クアトロ": 1
+  },
+  "en": {
+   "Suzi Quatro": 1
+  }
+ },
+ {
+  "key": "en:thrilleru",
+  "n": 1,
+  "ja": {
+   "スリラーＵ": 1
+  },
+  "en": {
+   "Thriller U": 1
+  }
+ },
+ {
+  "key": "en:najma",
+  "n": 1,
+  "ja": {
+   "ナジマ": 1
+  },
+  "en": {
+   "Najma": 1
+  }
+ },
+ {
+  "key": "en:rogerwaters",
+  "n": 1,
+  "ja": {
+   "ロジャー・ ウォータース": 1
+  },
+  "en": {
+   "Roger Waters": 1
+  }
+ },
+ {
+  "key": "en:romantics",
+  "n": 1,
+  "ja": {
+   "ロマンティックス": 1
+  },
+  "en": {
+   "The Romantics": 1
+  }
+ },
+ {
+  "key": "en:blackbox",
+  "n": 1,
+  "ja": {
+   "ブラックボックス": 1
+  },
+  "en": {
+   "Black Box": 1
+  }
+ },
+ {
+  "key": "en:channelx",
+  "n": 1,
+  "ja": {
+   "チャンネルＸ": 1
+  },
+  "en": {
+   "Channel X": 1
+  }
+ },
+ {
+  "key": "en:suede",
+  "n": 1,
+  "ja": {
+   "スエード": 1
+  },
+  "en": {
+   "Suede": 1
+  }
+ },
+ {
+  "key": "en:soundgarden",
+  "n": 1,
+  "ja": {
+   "サウンドガーデン": 1
+  },
+  "en": {
+   "Soundgarden": 1
+  }
+ },
+ {
+  "key": "en:blackuhuru",
+  "n": 1,
+  "ja": {
+   "ブラック・ウフル": 1
+  },
+  "en": {
+   "Black Uhuru": 1
+  }
+ },
+ {
+  "key": "en:siouxsieandthebanshees",
+  "n": 1,
+  "ja": {
+   "スージー・アンド・ ザ・バンシーズ": 1
+  },
+  "en": {
+   "Siouxsie And The Banshees": 1
+  }
+ },
+ {
+  "key": "en:legent",
+  "n": 1,
+  "ja": {
+   "レジェント": 1
+  },
+  "en": {
+   "Le Gent": 1
+  }
+ },
+ {
+  "key": "en:badmoonrising",
+  "n": 1,
+  "ja": {
+   "バッド・ ムーンライジング": 1
+  },
+  "en": {
+   "Bad Moon Rising": 1
+  }
+ },
+ {
+  "key": "en:albsure",
+  "n": 1,
+  "ja": {
+   "アル・Ｂ・シュア！": 1
+  },
+  "en": {
+   "Al B.Sure!": 1
+  }
+ },
+ {
+  "key": "en:alcione",
+  "n": 1,
+  "ja": {
+   "アルシオーネ": 1
+  },
+  "en": {
+   "Alcione": 1
+  }
+ },
+ {
+  "key": "ja:ヴァンダイクパクス",
+  "n": 1,
+  "ja": {
+   "ヴァン・ダイク・ パークス": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:スノ",
+  "n": 1,
+  "ja": {
+   "スノー": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:セルジオメンデスとブラジル66",
+  "n": 1,
+  "ja": {
+   "セルジオ・メンデスとブラジル’６６": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:spacemaster",
+  "n": 1,
+  "ja": {
+   "スペースマスター": 1
+  },
+  "en": {
+   "Space Master": 1
+  }
+ },
+ {
+  "key": "en:jeremyjordon",
+  "n": 1,
+  "ja": {
+   "ジェレミー ジョーダン": 1
+  },
+  "en": {
+   "Jeremy Jordon": 1
+  }
+ },
+ {
+  "key": "en:gunsandroses",
+  "n": 1,
+  "ja": {
+   "ガンズ・アンド・ ローゼズ": 1
+  },
+  "en": {
+   "Guns And Roses": 1
+  }
+ },
+ {
+  "key": "en:jimmycliff",
+  "n": 1,
+  "ja": {
+   "ジミークリフ": 1
+  },
+  "en": {
+   "Jimmy Cliff": 1
+  }
+ },
+ {
+  "key": "en:queenanddavidbowie",
+  "n": 1,
+  "ja": {
+   "クイーン＆D・ボウイ": 1
+  },
+  "en": {
+   "Queen & David Bowie": 1
+  }
+ },
+ {
+  "key": "en:frankieknuckles",
+  "n": 1,
+  "ja": {
+   "フランキー・ ナックルズ": 1
+  },
+  "en": {
+   "Frankie Knuckles": 1
+  }
+ },
+ {
+  "key": "ja:ハドコリルベルト",
+  "n": 1,
+  "ja": {
+   "ハードコリー ＆ルベルト": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:sodom",
+  "n": 1,
+  "ja": {
+   "ソドム": 1
+  },
+  "en": {
+   "Sodom": 1
+  }
+ },
+ {
+  "key": "en:jinny",
+  "n": 1,
+  "ja": {
+   "ジニー": 1
+  },
+  "en": {
+   "Jinny": 1
+  }
+ },
+ {
+  "key": "en:thirdworld",
+  "n": 1,
+  "ja": {
+   "サード・ワールド": 1
+  },
+  "en": {
+   "Third World": 1
+  }
+ },
+ {
+  "key": "en:peabobrysonandreginabelle",
+  "n": 1,
+  "ja": {
+   "ピーボ・ブライソン＆レジーナ・ベル": 1
+  },
+  "en": {
+   "Peabo Bryson & Regina Belle": 1
+  }
+ },
+ {
+  "key": "en:tankard",
+  "n": 1,
+  "ja": {
+   "タンカード": 1
+  },
+  "en": {
+   "Tankard": 1
+  }
+ },
+ {
+  "key": "en:toddrundgren",
+  "n": 1,
+  "ja": {
+   "トッド・ラングレン": 1
+  },
+  "en": {
+   "Todd Rundgren": 1
+  }
+ },
+ {
+  "key": "ja:us3",
+  "n": 1,
+  "ja": {
+   "US3": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:publicart",
+  "n": 1,
+  "ja": {
+   "パブリックアート": 1
+  },
+  "en": {
+   "Public Art": 1
+  }
+ },
+ {
+  "key": "en:morykante",
+  "n": 1,
+  "ja": {
+   "モリ・カンテ": 1
+  },
+  "en": {
+   "Mory Kante": 1
+  }
+ },
+ {
+  "key": "en:bobbeldensmanhattanrhythmclub",
+  "n": 1,
+  "ja": {
+   "ボブ・ベルデンズ・マンハッタン・リズム・クラブ": 1
+  },
+  "en": {
+   "Bob Belden's Manhattan Rhythm Club": 1
+  }
+ },
+ {
+  "key": "en:junglebookost",
+  "n": 1,
+  "ja": {
+   "ディズニー映画 「ジャングル・ブック」": 1
+  },
+  "en": {
+   "Jungle Book OST": 1
+  }
+ },
+ {
+  "key": "en:antoniopantoja",
+  "n": 1,
+  "ja": {
+   "アントニオ・ パントーハ": 1
+  },
+  "en": {
+   "Antonio Pantoja": 1
+  }
+ },
+ {
+  "key": "en:paulsimon",
+  "n": 1,
+  "ja": {
+   "ポール・サイモン": 1
+  },
+  "en": {
+   "Paul Simon": 1
+  }
+ },
+ {
+  "key": "en:lesritamitsouko",
+  "n": 1,
+  "ja": {
+   "レ・リタ・ミツコ": 1
+  },
+  "en": {
+   "Les Rita Mitsouko": 1
+  }
+ },
+ {
+  "key": "en:tracychapman",
+  "n": 1,
+  "ja": {
+   "トレイシー チャップマン": 1
+  },
+  "en": {
+   "Tracy Chapman": 1
+  }
+ },
+ {
+  "key": "en:madredeus",
+  "n": 1,
+  "ja": {
+   "マドレデウス": 1
+  },
+  "en": {
+   "Madredeus": 1
+  }
+ },
+ {
+  "key": "en:kwameandanewbeginning",
+  "n": 1,
+  "ja": {
+   "クワメイ＆ア・ ニュー・ビギニング": 1
+  },
+  "en": {
+   "Kwamé and a New Beginning": 1
+  }
+ },
+ {
+  "key": "en:robinwilliamsandrycooder",
+  "n": 1,
+  "ja": {
+   "ロビン・ウィリアムス＆ライ・クーダー": 1
+  },
+  "en": {
+   "Robin Williams & Ry Cooder": 1
+  }
+ },
+ {
+  "key": "en:johnzohn",
+  "n": 1,
+  "ja": {
+   "ジョン・ゾーン": 1
+  },
+  "en": {
+   "John Zohn": 1
+  }
+ },
+ {
+  "key": "en:hairost",
+  "n": 1,
+  "ja": {
+   "ミュージカルサウンドトラック「ヘアー」 より": 1
+  },
+  "en": {
+   "Hair OST": 1
+  }
+ },
+ {
+  "key": "en:mahlathiniandthemahotellaqueens",
+  "n": 1,
+  "ja": {
+   "マハラティーニ＆マホテラ・クイーンズ": 1
+  },
+  "en": {
+   "Mahlathini & The Mahotella Queens": 1
+  }
+ },
+ {
+  "key": "en:dicklee",
+  "n": 1,
+  "ja": {
+   "ディック・リー": 1
+  },
+  "en": {
+   "Dick Lee": 1
+  }
+ },
+ {
+  "key": "en:buddyholly",
+  "n": 1,
+  "ja": {
+   "バディ・ホリー": 1
+  },
+  "en": {
+   "Buddy Holly": 1
+  }
+ },
+ {
+  "key": "en:stevieb",
+  "n": 1,
+  "ja": {
+   "スティービー・Ｂ": 1
+  },
+  "en": {
+   "Stevie B": 1
+  }
+ },
+ {
+  "key": "en:therapy",
+  "n": 1,
+  "ja": {
+   "セラピー？": 1
+  },
+  "en": {
+   "Therapy?": 1
+  }
+ },
+ {
+  "key": "en:dwightyoakam",
+  "n": 1,
+  "ja": {
+   "ドワイト・ヨーカム": 1
+  },
+  "en": {
+   "Dwight Yoakam": 1
+  }
+ },
+ {
+  "key": "en:dionnewarwick",
+  "n": 1,
+  "ja": {
+   "ディオンヌ・ ワーウィック": 1
+  },
+  "en": {
+   "Dionne Warwick": 1
+  }
+ },
+ {
+  "key": "en:lionsheart",
+  "n": 1,
+  "ja": {
+   "ライオンズハート": 1
+  },
+  "en": {
+   "Lionsheart": 1
+  }
+ },
+ {
+  "key": "en:brendalee",
+  "n": 1,
+  "ja": {
+   "ブレンダ・リー": 1
+  },
+  "en": {
+   "Brenda Lee": 1
+  }
+ },
+ {
+  "key": "en:nataliecole",
+  "n": 1,
+  "ja": {
+   "ナタリー・コール": 1
+  },
+  "en": {
+   "Natalie Cole": 1
+  }
+ },
+ {
+  "key": "en:wonderstuff",
+  "n": 1,
+  "ja": {
+   "ワンダー・スタッフ": 1
+  },
+  "en": {
+   "The Wonder Stuff": 1
+  }
+ },
+ {
+  "key": "en:johnnyshines",
+  "n": 1,
+  "ja": {
+   "ジョニー・シャインズ": 1
+  },
+  "en": {
+   "Johnny Shines": 1
+  }
+ },
+ {
+  "key": "en:delmonas",
+  "n": 1,
+  "ja": {
+   "デルモナズ": 1
+  },
+  "en": {
+   "The Delmonas": 1
+  }
+ },
+ {
+  "key": "en:sisselkyrkjebo",
+  "n": 1,
+  "ja": {
+   "シセル・シルシェブー": 1
+  },
+  "en": {
+   "Sissel Kyrkjebo": 1
+  }
+ },
+ {
+  "key": "en:marguerita",
+  "n": 1,
+  "ja": {
+   "マルガリータ": 1
+  },
+  "en": {
+   "Marguerita": 1
+  }
+ },
+ {
+  "key": "en:joe",
+  "n": 1,
+  "ja": {
+   "ジョー": 1
+  },
+  "en": {
+   "Joe": 1
+  }
+ },
+ {
+  "key": "en:twinssevenseven",
+  "n": 1,
+  "ja": {
+   "トゥインズ・セブン・ セブン": 1
+  },
+  "en": {
+   "Twins Seven Seven": 1
+  }
+ },
+ {
+  "key": "en:lastyle",
+  "n": 1,
+  "ja": {
+   "L.A.スタイル": 1
+  },
+  "en": {
+   "L.A. Style": 1
+  }
+ },
+ {
+  "key": "en:supercat",
+  "n": 1,
+  "ja": {
+   "スーパーキャット": 1
+  },
+  "en": {
+   "Supercat": 1
+  }
+ },
+ {
+  "key": "en:dukesofstratosphear",
+  "n": 1,
+  "ja": {
+   "デューク・オブ・ ストラトスフィア": 1
+  },
+  "en": {
+   "The Dukes Of Stratosphear": 1
+  }
+ },
+ {
+  "key": "en:hollycole",
+  "n": 1,
+  "ja": {
+   "ホリー・コール": 1
+  },
+  "en": {
+   "Holly Cole": 1
+  }
+ },
+ {
+  "key": "en:conception",
+  "n": 1,
+  "ja": {
+   "コンセプション": 1
+  },
+  "en": {
+   "Conception": 1
+  }
+ },
+ {
+  "key": "en:tiger",
+  "n": 1,
+  "ja": {
+   "タイガー": 1
+  },
+  "en": {
+   "Tiger": 1
+  }
+ },
+ {
+  "key": "en:hooters",
+  "n": 1,
+  "ja": {
+   "フーターズ": 1
+  },
+  "en": {
+   "Hooters": 1
+  }
+ },
+ {
+  "key": "en:rotterdamterminationsource",
+  "n": 1,
+  "ja": {
+   "ロッテルダム・ ターミネーション・ ソース": 1
+  },
+  "en": {
+   "Rotterdam Termination Source": 1
+  }
+ },
+ {
+  "key": "en:sultansofpingfc",
+  "n": 1,
+  "ja": {
+   "サルタンズ・オブ・ ピン・ＦＣ": 1
+  },
+  "en": {
+   "Sultans Of Ping F.C.": 1
+  }
+ },
+ {
+  "key": "en:kurious",
+  "n": 1,
+  "ja": {
+   "キュリアス": 1
+  },
+  "en": {
+   "Kurious": 1
+  }
+ },
+ {
+  "key": "en:casinodrive",
+  "n": 1,
+  "ja": {
+   "カジノ・ドライブ": 1
+  },
+  "en": {
+   "Casino Drive": 1
+  }
+ },
+ {
+  "key": "en:ironmeiden",
+  "n": 1,
+  "ja": {
+   "アイアン・メイデン": 1
+  },
+  "en": {
+   "Iron Meiden": 1
+  }
+ },
+ {
+  "key": "en:yellowman",
+  "n": 1,
+  "ja": {
+   "イエローマン": 1
+  },
+  "en": {
+   "Yellowman": 1
+  }
+ },
+ {
+  "key": "en:timbuckley",
+  "n": 1,
+  "ja": {
+   "ティム・バックレイ": 1
+  },
+  "en": {
+   "Tim Buckley": 1
+  }
+ },
+ {
+  "key": "en:johnspencerbluesexplosion",
+  "n": 1,
+  "ja": {
+   "ザ・ジョン・ スペンサー・ブルース エクスプロージョン": 1
+  },
+  "en": {
+   "The John Spencer Blues Explosion": 1
+  }
+ },
+ {
+  "key": "en:newtrolls",
+  "n": 1,
+  "ja": {
+   "ニュー・トロルス": 1
+  },
+  "en": {
+   "New Trolls": 1
+  }
+ },
+ {
+  "key": "en:bozscaggs",
+  "n": 1,
+  "ja": {
+   "ボズ・スキャッグス": 1
+  },
+  "en": {
+   "Boz Scaggs": 1
+  }
+ },
+ {
+  "key": "en:warrant",
+  "n": 1,
+  "ja": {
+   "ウォレント": 1
+  },
+  "en": {
+   "Warrant": 1
+  }
+ },
+ {
+  "key": "en:jam",
+  "n": 1,
+  "ja": {
+   "ザ・ジャム": 1
+  },
+  "en": {
+   "The Jam": 1
+  }
+ },
+ {
+  "key": "en:69boyz",
+  "n": 1,
+  "ja": {
+   "６９ボーイズ": 1
+  },
+  "en": {
+   "69 Boyz": 1
+  }
+ },
+ {
+  "key": "en:primus",
+  "n": 1,
+  "ja": {
+   "プライマス": 1
+  },
+  "en": {
+   "Primus": 1
+  }
+ },
+ {
+  "key": "en:armandomanzanero",
+  "n": 1,
+  "ja": {
+   "アルマンド・ マンサネーロ": 1
+  },
+  "en": {
+   "Armando Manzanero": 1
+  }
+ },
+ {
+  "key": "en:charlieparker",
+  "n": 1,
+  "ja": {
+   "チャーリー・パーカー": 1
+  },
+  "en": {
+   "Charlie Parker": 1
+  }
+ },
+ {
+  "key": "en:party",
+  "n": 1,
+  "ja": {
+   "ザ・パーティー": 1
+  },
+  "en": {
+   "The Party": 1
+  }
+ },
+ {
+  "key": "en:sezenaksu",
+  "n": 1,
+  "ja": {
+   "セゼン・アクス": 1
+  },
+  "en": {
+   "Sezen Aksu": 1
+  }
+ },
+ {
+  "key": "en:roxanne",
+  "n": 1,
+  "ja": {
+   "ロクサーヌ": 1
+  },
+  "en": {
+   "Roxanne": 1
+  }
+ },
+ {
+  "key": "en:ballettodibronzo",
+  "n": 1,
+  "ja": {
+   "イル・バレット・ ディ・ブロンゾ": 1
+  },
+  "en": {
+   "Balletto di Bronzo": 1
+  }
+ },
+ {
+  "key": "en:manudibangoandfaniaallstars",
+  "n": 1,
+  "ja": {
+   "マヌ・ディバンゴ＆ファニア・オール・スターズ": 1
+  },
+  "en": {
+   "Manu Dibango & Fania All-Stars": 1
+  }
+ },
+ {
+  "key": "en:yngwiemalmsteen",
+  "n": 1,
+  "ja": {
+   "イングヴェイ・ マルムスティーン": 1
+  },
+  "en": {
+   "Yngwie Malmsteen": 1
+  }
+ },
+ {
+  "key": "en:francegal",
+  "n": 1,
+  "ja": {
+   "フランス・ギャル": 1
+  },
+  "en": {
+   "France Gal": 1
+  }
+ },
+ {
+  "key": "en:zombies",
+  "n": 1,
+  "ja": {
+   "ゾンビーズ": 1
+  },
+  "en": {
+   "The Zombies": 1
+  }
+ },
+ {
+  "key": "en:europa",
+  "n": 1,
+  "ja": {
+   "ヨーロッパ": 1
+  },
+  "en": {
+   "Europa": 1
+  }
+ },
+ {
+  "key": "en:viciousrumors",
+  "n": 1,
+  "ja": {
+   "ヴィシャス・ルーモアズ": 1
+  },
+  "en": {
+   "Vicious Rumors": 1
+  }
+ },
+ {
+  "key": "en:schindlerslist",
+  "n": 1,
+  "ja": {
+   "「シンドラーのリスト」": 1
+  },
+  "en": {
+   "Schindler's List": 1
+  }
+ },
+ {
+  "key": "en:cestarrivepresdechezvousost",
+  "n": 1,
+  "ja": {
+   "「ありふれた事件」 オリジナル サウンドトラック": 1
+  },
+  "en": {
+   "C'est Arrive Pres De Chez Vous OST": 1
+  }
+ },
+ {
+  "key": "en:sirmixalot",
+  "n": 1,
+  "ja": {
+   "サー・ミクス・ア・ロット": 1
+  },
+  "en": {
+   "Sir Mix A Lot": 1
+  }
+ },
+ {
+  "key": "en:eurythmics",
+  "n": 1,
+  "ja": {
+   "ユーリズミックス": 1
+  },
+  "en": {
+   "Eurythmics": 1
+  }
+ },
+ {
+  "key": "ja:スナップ(snap)※放送ではビンドゥ",
+  "n": 1,
+  "ja": {
+   "スナップ (Snap) ※放送ではビンドゥ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:annihilator",
+  "n": 1,
+  "ja": {
+   "アナイアレイター": 1
+  },
+  "en": {
+   "Annihilator": 1
+  }
+ },
+ {
+  "key": "en:elpotito",
+  "n": 1,
+  "ja": {
+   "エル・ポティート": 1
+  },
+  "en": {
+   "El Potito": 1
+  }
+ },
+ {
+  "key": "en:runningwild",
+  "n": 1,
+  "ja": {
+   "ランニング・ワイルド": 1
+  },
+  "en": {
+   "Running Wild": 1
+  }
+ },
+ {
+  "key": "en:slowdive",
+  "n": 1,
+  "ja": {
+   "スローダイブ": 1
+  },
+  "en": {
+   "Slowdive": 1
+  }
+ },
+ {
+  "key": "en:youngrascals",
+  "n": 1,
+  "ja": {
+   "ヤング・ラスカルズ": 1
+  },
+  "en": {
+   "Young Rascals": 1
+  }
+ },
+ {
+  "key": "en:mikewatt",
+  "n": 1,
+  "ja": {
+   "マイク・ワット": 1
+  },
+  "en": {
+   "Mike Watt": 1
+  }
+ },
+ {
+  "key": "en:newpowergeneration",
+  "n": 1,
+  "ja": {
+   "ニュー・パワー・ ジェネレーション": 1
+  },
+  "en": {
+   "The New Power Generation": 1
+  }
+ },
+ {
+  "key": "en:badbrains",
+  "n": 1,
+  "ja": {
+   "バッド・ブレインズ": 1
+  },
+  "en": {
+   "Bad Brains": 1
+  }
+ },
+ {
+  "key": "en:leeritenour",
+  "n": 1,
+  "ja": {
+   "リー・リトナー": 1
+  },
+  "en": {
+   "Lee Ritenour": 1
+  }
+ },
+ {
+  "key": "en:sacredspirit",
+  "n": 1,
+  "ja": {
+   "セイクリッド・ スピリット": 1
+  },
+  "en": {
+   "Sacred Spirit": 1
+  }
+ },
+ {
+  "key": "en:azteccamera",
+  "n": 1,
+  "ja": {
+   "アズテック・カメラ": 1
+  },
+  "en": {
+   "Aztec Camera": 1
+  }
+ },
+ {
+  "key": "en:selector",
+  "n": 1,
+  "ja": {
+   "ザ・セレクター": 1
+  },
+  "en": {
+   "The Selector": 1
+  }
+ },
+ {
+  "key": "en:marcanthony",
+  "n": 1,
+  "ja": {
+   "マーク・アンソニー": 1
+  },
+  "en": {
+   "Marc Anthony": 1
+  }
+ },
+ {
+  "key": "en:zainalabidin",
+  "n": 1,
+  "ja": {
+   "ザイナル・アビディン": 1
+  },
+  "en": {
+   "Zainal Abidin": 1
+  }
+ },
+ {
+  "key": "en:blackgrape",
+  "n": 1,
+  "ja": {
+   "ブラック・グレープ": 1
+  },
+  "en": {
+   "Black Grape": 1
+  }
+ },
+ {
+  "key": "en:lovejones",
+  "n": 1,
+  "ja": {
+   "ラヴ・ジョーンズ": 1
+  },
+  "en": {
+   "Love Jones": 1
+  }
+ },
+ {
+  "key": "en:bellbivdevoe",
+  "n": 1,
+  "ja": {
+   "ベル・ビヴ・デヴォー": 1
+  },
+  "en": {
+   "Bell Biv Devoe": 1
+  }
+ },
+ {
+  "key": "en:gloveandspecialsauce",
+  "n": 1,
+  "ja": {
+   "Ｇ・ラブ＆ スペシャル・ソース": 1
+  },
+  "en": {
+   "G Love & Special Sauce": 1
+  }
+ },
+ {
+  "key": "ja:世界楽器カタログ2~ヨロッパ編~",
+  "n": 1,
+  "ja": {
+   "世界楽器カタログ２ ～ヨーロッパ編～": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:tootsandthemaytals",
+  "n": 1,
+  "ja": {
+   "トゥーツ＆ザ・ メイタルズ": 1
+  },
+  "en": {
+   "Toots & The Maytals": 1
+  }
+ },
+ {
+  "key": "en:vicky",
+  "n": 1,
+  "ja": {
+   "ヴィッキー": 1
+  },
+  "en": {
+   "Vicky": 1
+  }
+ },
+ {
+  "key": "en:airsupply",
+  "n": 1,
+  "ja": {
+   "エア・サプライ": 1
+  },
+  "en": {
+   "Air Supply": 1
+  }
+ },
+ {
+  "key": "en:eddiecochran",
+  "n": 1,
+  "ja": {
+   "エディ・コクラン": 1
+  },
+  "en": {
+   "Eddie Cochran": 1
+  }
+ },
+ {
+  "key": "en:erasure",
+  "n": 1,
+  "ja": {
+   "イレイジャー": 1
+  },
+  "en": {
+   "Erasure": 1
+  }
+ },
+ {
+  "key": "en:obrahaza",
+  "n": 1,
+  "ja": {
+   "オブラ・ハザ": 1
+  },
+  "en": {
+   "Obra Haza": 1
+  }
+ },
+ {
+  "key": "en:stix",
+  "n": 1,
+  "ja": {
+   "スティックス": 1
+  },
+  "en": {
+   "Stix": 1
+  }
+ },
+ {
+  "key": "en:mikado",
+  "n": 1,
+  "ja": {
+   "ミカド": 1
+  },
+  "en": {
+   "Mikado": 1
+  }
+ },
+ {
+  "key": "ja:キムゴンモ(金健模)",
+  "n": 1,
+  "ja": {
+   "キム・ゴンモ (金健模)": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:risaonowithjoaodonato",
+  "n": 1,
+  "ja": {
+   "小野リサ ウィズ ジョアン・ドナート": 1
+  },
+  "en": {
+   "Risa Ono With Joao Donato": 1
+  }
+ },
+ {
+  "key": "en:danieljohnston",
+  "n": 1,
+  "ja": {
+   "ダニエル・ジョンストン": 1
+  },
+  "en": {
+   "Daniel Johnston": 1
+  }
+ },
+ {
+  "key": "en:xscape",
+  "n": 1,
+  "ja": {
+   "エクスケイプ": 1
+  },
+  "en": {
+   "Xscape": 1
+  }
+ },
+ {
+  "key": "en:marthawash",
+  "n": 1,
+  "ja": {
+   "マーサ・ウォッシュ": 1
+  },
+  "en": {
+   "Martha Wash": 1
+  }
+ },
+ {
+  "key": "en:aswad",
+  "n": 1,
+  "ja": {
+   "アスワド": 1
+  },
+  "en": {
+   "Aswad": 1
+  }
+ },
+ {
+  "key": "en:jainbirkin",
+  "n": 1,
+  "ja": {
+   "ジェーン・バーキン": 1
+  },
+  "en": {
+   "Jain Birkin": 1
+  }
+ },
+ {
+  "key": "en:pascalcomerade",
+  "n": 1,
+  "ja": {
+   "パスカル・コムラード": 1
+  },
+  "en": {
+   "Pascal Comerade": 1
+  }
+ },
+ {
+  "key": "en:sadist",
+  "n": 1,
+  "ja": {
+   "サディスト": 1
+  },
+  "en": {
+   "Sadist": 1
+  }
+ },
+ {
+  "key": "en:bizmarkie",
+  "n": 1,
+  "ja": {
+   "ビズ・マーキー": 1
+  },
+  "en": {
+   "Biz Markie": 1
+  }
+ },
+ {
+  "key": "en:blackcrowes",
+  "n": 1,
+  "ja": {
+   "ブラック・クロウズ": 1
+  },
+  "en": {
+   "Black Crowes": 1
+  }
+ },
+ {
+  "key": "en:sandii",
+  "n": 1,
+  "ja": {
+   "サンディー": 1
+  },
+  "en": {
+   "Sandii": 1
+  }
+ },
+ {
+  "key": "en:basia",
+  "n": 1,
+  "ja": {
+   "バーシア": 1
+  },
+  "en": {
+   "Basia": 1
+  }
+ },
+ {
+  "key": "en:rush",
+  "n": 1,
+  "ja": {
+   "ラッシュ": 1
+  },
+  "en": {
+   "Rush": 1
+  }
+ },
+ {
+  "key": "en:sandiiandthesunsetz",
+  "n": 1,
+  "ja": {
+   "サンディー＆ サンセッツ": 1
+  },
+  "en": {
+   "Sandii & The Sunsetz": 1
+  }
+ },
+ {
+  "key": "ja:小林靖宏",
+  "n": 1,
+  "ja": {
+   "小林靖宏": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:martasebestyen",
+  "n": 1,
+  "ja": {
+   "マルタ・セバスチェン": 1
+  },
+  "en": {
+   "Marta Sebestyen": 1
+  }
+ },
+ {
+  "key": "en:danbaird",
+  "n": 1,
+  "ja": {
+   "ダン・ベアード": 1
+  },
+  "en": {
+   "Dan Baird": 1
+  }
+ },
+ {
+  "key": "en:lafacecartel",
+  "n": 1,
+  "ja": {
+   "ザ・ＬＡＦＡＣＥ・ カルテル": 1
+  },
+  "en": {
+   "The LaFACE Cartel": 1
+  }
+ },
+ {
+  "key": "en:booradleys",
+  "n": 1,
+  "ja": {
+   "ブー・ラドリーズ": 1
+  },
+  "en": {
+   "The Boo Radleys": 1
+  }
+ },
+ {
+  "key": "en:azucarmoreno",
+  "n": 1,
+  "ja": {
+   "アスカル・モレーノ": 1
+  },
+  "en": {
+   "Azucar Moreno": 1
+  }
+ },
+ {
+  "key": "ja:富山県民謡おわら保存会",
+  "n": 1,
+  "ja": {
+   "富山県民謡 おわら保存会": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:omega",
+  "n": 1,
+  "ja": {
+   "オメガ": 1
+  },
+  "en": {
+   "Omega": 1
+  }
+ },
+ {
+  "key": "en:shereebrown",
+  "n": 1,
+  "ja": {
+   "シェリー・ブラウン": 1
+  },
+  "en": {
+   "Sheree Brown": 1
+  }
+ },
+ {
+  "key": "ja:sod",
+  "n": 1,
+  "ja": {
+   "S.O.D.": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:outlaws",
+  "n": 1,
+  "ja": {
+   "アウトローズ": 1
+  },
+  "en": {
+   "Outlaws": 1
+  }
+ },
+ {
+  "key": "en:sacados",
+  "n": 1,
+  "ja": {
+   "サカードス": 1
+  },
+  "en": {
+   "Sacados": 1
+  }
+ },
+ {
+  "key": "en:nodoubt",
+  "n": 1,
+  "ja": {
+   "ノー・ダウト": 1
+  },
+  "en": {
+   "No Doubt": 1
+  }
+ },
+ {
+  "key": "en:caronwheeler",
+  "n": 1,
+  "ja": {
+   "キャロン・ウィーラー": 1
+  },
+  "en": {
+   "Caron Wheeler": 1
+  }
+ },
+ {
+  "key": "en:jonathabrookeandthestory",
+  "n": 1,
+  "ja": {
+   "ジョナサ・ブルック＆ザ・ストーリー": 1
+  },
+  "en": {
+   "Jonatha Brooke & The Story": 1
+  }
+ },
+ {
+  "key": "en:diamondrio",
+  "n": 1,
+  "ja": {
+   "ダイヤモンド・リオ": 1
+  },
+  "en": {
+   "Diamond Rio": 1
+  }
+ },
+ {
+  "key": "en:cinnamon",
+  "n": 1,
+  "ja": {
+   "シナモン": 1
+  },
+  "en": {
+   "Cinnamon": 1
+  }
+ },
+ {
+  "key": "en:mbeat",
+  "n": 1,
+  "ja": {
+   "エム・ビート": 1
+  },
+  "en": {
+   "M-Beat": 1
+  }
+ },
+ {
+  "key": "en:boom",
+  "n": 1,
+  "ja": {
+   "ザ・ブーム": 1
+  },
+  "en": {
+   "The Boom": 1
+  }
+ },
+ {
+  "key": "en:symphonyx",
+  "n": 1,
+  "ja": {
+   "シンフォニー・ エックス": 1
+  },
+  "en": {
+   "Symphony X": 1
+  }
+ },
+ {
+  "key": "ja:大貫妙子",
+  "n": 1,
+  "ja": {
+   "大貫妙子": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:stonethecrows",
+  "n": 1,
+  "ja": {
+   "ストーン・ザ・クロウズ": 1
+  },
+  "en": {
+   "Stone The Crows": 1
+  }
+ },
+ {
+  "key": "en:elvispresry",
+  "n": 1,
+  "ja": {
+   "エルヴィス・ プレスリー": 1
+  },
+  "en": {
+   "Elvis Presry": 1
+  }
+ },
+ {
+  "key": "en:shikisha",
+  "n": 1,
+  "ja": {
+   "シキシャ": 1
+  },
+  "en": {
+   "Shikisha": 1
+  }
+ },
+ {
+  "key": "en:tonibraxton",
+  "n": 1,
+  "ja": {
+   "トニー・ブラクストン": 1
+  },
+  "en": {
+   "Toni Braxton": 1
+  }
+ },
+ {
+  "key": "en:echobelly",
+  "n": 1,
+  "ja": {
+   "エコーベリー": 1
+  },
+  "en": {
+   "Echobelly": 1
+  }
+ },
+ {
+  "key": "en:ghostfacekillah",
+  "n": 1,
+  "ja": {
+   "ゴーストフェイス・ キラー": 1
+  },
+  "en": {
+   "Ghostface Killah": 1
+  }
+ },
+ {
+  "key": "en:felixchappottinandmiguelitocuni",
+  "n": 1,
+  "ja": {
+   "フェリックス・ チャポティーン＆ ミゲリート・クニー": 1
+  },
+  "en": {
+   "Felix Chappottin ＆ Miguelito Cuni": 1
+  }
+ },
+ {
+  "key": "en:forreal",
+  "n": 1,
+  "ja": {
+   "フォー・リアル": 1
+  },
+  "en": {
+   "For Real": 1
+  }
+ },
+ {
+  "key": "en:ellafitzgeraldlouisarmstrong",
+  "n": 1,
+  "ja": {
+   "エラ・フィッツジェラルド＆ルイ・ アームストロング": 1
+  },
+  "en": {
+   "Ella Fitzgerald, Louis Armstrong": 1
+  }
+ },
+ {
+  "key": "en:savatage",
+  "n": 1,
+  "ja": {
+   "サヴァタージ": 1
+  },
+  "en": {
+   "Savatage": 1
+  }
+ },
+ {
+  "key": "en:louchielouandmichieone",
+  "n": 1,
+  "ja": {
+   "ルーチー・ルー＆ ミッチー・ワン": 1
+  },
+  "en": {
+   "Louchie Lou & Michie One": 1
+  }
+ },
+ {
+  "key": "en:nuno",
+  "n": 1,
+  "ja": {
+   "ヌーノ": 1
+  },
+  "en": {
+   "Nuno": 1
+  }
+ },
+ {
+  "key": "en:bootsycollins",
+  "n": 1,
+  "ja": {
+   "ブーツィー・コリンズ": 1
+  },
+  "en": {
+   "Bootsy Collins": 1
+  }
+ },
+ {
+  "key": "ja:ゴダイゴ※日本のアティストです",
+  "n": 1,
+  "ja": {
+   "ゴダイゴ ※日本のアーティストです": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:downset",
+  "n": 1,
+  "ja": {
+   "ダウンセット": 1
+  },
+  "en": {
+   "Downset": 1
+  }
+ },
+ {
+  "key": "ja:ヴィヴィアンチョウ(周慧敏)",
+  "n": 1,
+  "ja": {
+   "ヴィヴィアン・チョウ (周慧敏)": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:sconnectionfeaturinganabelle",
+  "n": 1,
+  "ja": {
+   "Ｓ－コネクション・ フィーチャリング・ アナベル": 1
+  },
+  "en": {
+   "S-Connection Featuring Anabelle": 1
+  }
+ },
+ {
+  "key": "en:humblepie",
+  "n": 1,
+  "ja": {
+   "ハンブル・パイ": 1
+  },
+  "en": {
+   "Humble Pie": 1
+  }
+ },
+ {
+  "key": "en:fatjoe",
+  "n": 1,
+  "ja": {
+   "ファット・ジョー": 1
+  },
+  "en": {
+   "Fat Joe": 1
+  }
+ },
+ {
+  "key": "en:nuttyprofessorost",
+  "n": 1,
+  "ja": {
+   "ナッティー プロフェッサー サウンドトラック": 1
+  },
+  "en": {
+   "The Nutty Professor OST": 1
+  }
+ },
+ {
+  "key": "en:voodoocult",
+  "n": 1,
+  "ja": {
+   "ヴードゥーカルト": 1
+  },
+  "en": {
+   "Voodoocult": 1
+  }
+ },
+ {
+  "key": "en:makaveli",
+  "n": 1,
+  "ja": {
+   "マキャヴェリ": 1
+  },
+  "en": {
+   "Makaveli": 1
+  }
+ },
+ {
+  "key": "en:ronsexsmith",
+  "n": 1,
+  "ja": {
+   "ロン・セクスミス": 1
+  },
+  "en": {
+   "Ron Sexsmith": 1
+  }
+ },
+ {
+  "key": "en:origa",
+  "n": 1,
+  "ja": {
+   "オリガ": 1
+  },
+  "en": {
+   "Origa": 1
+  }
+ },
+ {
+  "key": "en:isleybrothers",
+  "n": 1,
+  "ja": {
+   "アイズレー・ ブラザーズ": 1
+  },
+  "en": {
+   "The Isley Brothers": 1
+  }
+ },
+ {
+  "key": "ja:ジャッキチュン(張学友)",
+  "n": 1,
+  "ja": {
+   "ジャッキーチュン (張学友)": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:ipooh",
+  "n": 1,
+  "ja": {
+   "イ・プー": 1
+  },
+  "en": {
+   "I Pooh": 1
+  }
+ },
+ {
+  "key": "en:marcosvales",
+  "n": 1,
+  "ja": {
+   "マルコス・バレ": 1
+  },
+  "en": {
+   "Marcos Vales": 1
+  }
+ },
+ {
+  "key": "en:buffalospringfield",
+  "n": 1,
+  "ja": {
+   "バッファロー・ スプリングフィールド": 1
+  },
+  "en": {
+   "Buffalo Springfield": 1
+  }
+ },
+ {
+  "key": "en:chicoandthegipsies",
+  "n": 1,
+  "ja": {
+   "チコ＆ ザ・ジプシーズ": 1
+  },
+  "en": {
+   "Chico & The Gipsies": 1
+  }
+ },
+ {
+  "key": "en:kreator",
+  "n": 1,
+  "ja": {
+   "クリエイター": 1
+  },
+  "en": {
+   "Kreator": 1
+  }
+ },
+ {
+  "key": "en:allure",
+  "n": 1,
+  "ja": {
+   "アルーア": 1
+  },
+  "en": {
+   "Allure": 1
+  }
+ },
+ {
+  "key": "en:cesariaevora",
+  "n": 1,
+  "ja": {
+   "セザリア・エヴォラ": 1
+  },
+  "en": {
+   "Cesaria Evora": 1
+  }
+ },
+ {
+  "key": "en:jipsykings",
+  "n": 1,
+  "ja": {
+   "ジプシーキングス": 1
+  },
+  "en": {
+   "Jipsy Kings": 1
+  }
+ },
+ {
+  "key": "en:carleenanderson",
+  "n": 1,
+  "ja": {
+   "カーリーン・ アンダーソン": 1
+  },
+  "en": {
+   "Carleen Anderson": 1
+  }
+ },
+ {
+  "key": "en:johnparishandpollyjeanharvey",
+  "n": 1,
+  "ja": {
+   "P.J.ハーヴェイ＆ ジョン・パリッシュ": 1
+  },
+  "en": {
+   "John Parish & Polly Jean Harvey": 1
+  }
+ },
+ {
+  "key": "en:artistformallyknownasprince",
+  "n": 1,
+  "ja": {
+   "ジ・アーティスト・ フォーマリー・ ノウン・アズ・プリンス": 1
+  },
+  "en": {
+   "The Artist Formally Known As Prince": 1
+  }
+ },
+ {
+  "key": "en:ministries",
+  "n": 1,
+  "ja": {
+   "ミニストリー": 1
+  },
+  "en": {
+   "Ministries": 1
+  }
+ },
+ {
+  "key": "ja:田村直美",
+  "n": 1,
+  "ja": {
+   "田村直美": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:throbbinggristle",
+  "n": 1,
+  "ja": {
+   "スロッピング・ グリッスル": 1
+  },
+  "en": {
+   "Throbbing Gristle": 1
+  }
+ },
+ {
+  "key": "en:mobylets",
+  "n": 1,
+  "ja": {
+   "モビー・レッツ": 1
+  },
+  "en": {
+   "Moby lets": 1
+  }
+ },
+ {
+  "key": "en:pangea",
+  "n": 1,
+  "ja": {
+   "パンジェア": 1
+  },
+  "en": {
+   "Pangea": 1
+  }
+ },
+ {
+  "key": "en:mazarinestreet",
+  "n": 1,
+  "ja": {
+   "マザリン・ストリート": 1
+  },
+  "en": {
+   "Mazarine Street": 1
+  }
+ },
+ {
+  "key": "en:jacksonbrowne",
+  "n": 1,
+  "ja": {
+   "ジャクソン・ブラウン": 1
+  },
+  "en": {
+   "Jackson Browne": 1
+  }
+ },
+ {
+  "key": "en:electriclightorchestra",
+  "n": 1,
+  "ja": {
+   "E.L.O.": 1
+  },
+  "en": {
+   "Electric Light Orchestra": 1
+  }
+ },
+ {
+  "key": "en:dianarossandthesupremes",
+  "n": 1,
+  "ja": {
+   "ダイアナ・ロス＆ シュープリームス": 1
+  },
+  "en": {
+   "Diana Ross & The Supremes": 1
+  }
+ },
+ {
+  "key": "en:chumbawumba",
+  "n": 1,
+  "ja": {
+   "チャンバ・ワンバ１": 1
+  },
+  "en": {
+   "Chumba Wumba": 1
+  }
+ },
+ {
+  "key": "ja:ドゥンミンの演奏",
+  "n": 1,
+  "ja": {
+   "ドゥンミンの演奏": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:princesa",
+  "n": 1,
+  "ja": {
+   "プリンセッサ": 1
+  },
+  "en": {
+   "Princesa": 1
+  }
+ },
+ {
+  "key": "ja:ハノイロックス",
+  "n": 1,
+  "ja": {
+   "ハノイ・ロックス": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:スティビワンダ",
+  "n": 1,
+  "ja": {
+   "スティービー・ワンダー": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:keithsweat",
+  "n": 1,
+  "ja": {
+   "キース・スウェット": 1
+  },
+  "en": {
+   "Keith Sweat": 1
+  }
+ },
+ {
+  "key": "en:smashmouth",
+  "n": 1,
+  "ja": {
+   "スマッシュ・マウス": 1
+  },
+  "en": {
+   "Smash Mouth": 1
+  }
+ },
+ {
+  "key": "en:temptations",
+  "n": 1,
+  "ja": {
+   "テンプテーションズ": 1
+  },
+  "en": {
+   "Temptations": 1
+  }
+ },
+ {
+  "key": "ja:バルティニョwith坂本龍一",
+  "n": 1,
+  "ja": {
+   "バルティーニョ with 坂本龍一": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:smashingpumpkins",
+  "n": 1,
+  "ja": {
+   "スマッシング・ パンプキンズ": 1
+  },
+  "en": {
+   "The Smashing Pumpkins": 1
+  }
+ },
+ {
+  "key": "ja:レスリチャン(張國榮)",
+  "n": 1,
+  "ja": {
+   "レスリー・チャン （張國榮）": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:frankblack",
+  "n": 1,
+  "ja": {
+   "フランク・ブラック": 1
+  },
+  "en": {
+   "Frank Black": 1
+  }
+ },
+ {
+  "key": "en:saintetienne",
+  "n": 1,
+  "ja": {
+   "セイント・ エティエンヌ": 1
+  },
+  "en": {
+   "Saint Etienne": 1
+  }
+ },
+ {
+  "key": "en:littlerichard",
+  "n": 1,
+  "ja": {
+   "リトル・リチャード": 1
+  },
+  "en": {
+   "Little Richard": 1
+  }
+ },
+ {
+  "key": "en:bluesmagoos",
+  "n": 1,
+  "ja": {
+   "ブルース・マグース": 1
+  },
+  "en": {
+   "Blues Magoos": 1
+  }
+ },
+ {
+  "key": "en:yngwiejohannmalmsten",
+  "n": 1,
+  "ja": {
+   "イングヴェイ・マルムスティーン": 1
+  },
+  "en": {
+   "Yngwie Johann Malmsten": 1
+  }
+ },
+ {
+  "key": "en:gloriaestefan",
+  "n": 1,
+  "ja": {
+   "グロリア・ エステファン": 1
+  },
+  "en": {
+   "Gloria Estefan": 1
+  }
+ },
+ {
+  "key": "en:jonhassell",
+  "n": 1,
+  "ja": {
+   "ジョン・ハッセル": 1
+  },
+  "en": {
+   "Jon Hassell": 1
+  }
+ },
+ {
+  "key": "en:wilsonphillips",
+  "n": 1,
+  "ja": {
+   "ウィルソン・ フィリップス": 1
+  },
+  "en": {
+   "Wilson Phillips": 1
+  }
+ },
+ {
+  "key": "en:iguanas",
+  "n": 1,
+  "ja": {
+   "イグアナス": 1
+  },
+  "en": {
+   "The Iguanas": 1
+  }
+ },
+ {
+  "key": "en:jgeilsband",
+  "n": 1,
+  "ja": {
+   "J.ガイルスバンド": 1
+  },
+  "en": {
+   "J. Geils Band": 1
+  }
+ },
+ {
+  "key": "en:robertpalme",
+  "n": 1,
+  "ja": {
+   "ロバート・パーマー": 1
+  },
+  "en": {
+   "Robert Palme": 1
+  }
+ },
+ {
+  "key": "en:coldcut",
+  "n": 1,
+  "ja": {
+   "コールド・カット": 1
+  },
+  "en": {
+   "Coldcut": 1
+  }
+ },
+ {
+  "key": "en:air",
+  "n": 1,
+  "ja": {
+   "エール": 1
+  },
+  "en": {
+   "Air": 1
+  }
+ },
+ {
+  "key": "ja:gbh",
+  "n": 1,
+  "ja": {
+   "G.B.H": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:generaltk",
+  "n": 1,
+  "ja": {
+   "ジェネラル・T.K.": 1
+  },
+  "en": {
+   "General T.K.": 1
+  }
+ },
+ {
+  "key": "en:talas",
+  "n": 1,
+  "ja": {
+   "タラス": 1
+  },
+  "en": {
+   "Talas": 1
+  }
+ },
+ {
+  "key": "en:allmanbrothersband",
+  "n": 1,
+  "ja": {
+   "ザ・オールマン・ ブラザーズ・バンド": 1
+  },
+  "en": {
+   "The All Man Brothers Band": 1
+  }
+ },
+ {
+  "key": "en:jangarbarek",
+  "n": 1,
+  "ja": {
+   "ヤン・ガルバレク": 1
+  },
+  "en": {
+   "Jan Garbarek": 1
+  }
+ },
+ {
+  "key": "en:extream",
+  "n": 1,
+  "ja": {
+   "エクストリーム": 1
+  },
+  "en": {
+   "Extream": 1
+  }
+ },
+ {
+  "key": "ja:ten",
+  "n": 1,
+  "ja": {
+   "TEN": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:dbx",
+  "n": 1,
+  "ja": {
+   "DBX": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:natkingcole",
+  "n": 1,
+  "ja": {
+   "ナット・キング・ コール": 1
+  },
+  "en": {
+   "Nat King Cole": 1
+  }
+ },
+ {
+  "key": "en:misfit",
+  "n": 1,
+  "ja": {
+   "ミスフィッツ": 1
+  },
+  "en": {
+   "Misfit": 1
+  }
+ },
+ {
+  "key": "en:michelpaje",
+  "n": 1,
+  "ja": {
+   "ミッシェル・パジュ": 1
+  },
+  "en": {
+   "Michel Paje": 1
+  }
+ },
+ {
+  "key": "en:mamasandthepapas",
+  "n": 1,
+  "ja": {
+   "ママス＆パパス": 1
+  },
+  "en": {
+   "The Mamas & The Papas": 1
+  }
+ },
+ {
+  "key": "en:buckshotlefonque",
+  "n": 1,
+  "ja": {
+   "バック・ショット・ ルフォング": 1
+  },
+  "en": {
+   "Buckshot LeFonque": 1
+  }
+ },
+ {
+  "key": "ja:exit",
+  "n": 1,
+  "ja": {
+   "EX-IT": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:spindoctors",
+  "n": 1,
+  "ja": {
+   "スピン・ドクターズ": 1
+  },
+  "en": {
+   "Spin Doctors": 1
+  }
+ },
+ {
+  "key": "en:eve6",
+  "n": 1,
+  "ja": {
+   "イヴ6": 1
+  },
+  "en": {
+   "Eve 6": 1
+  }
+ },
+ {
+  "key": "en:impellitteli",
+  "n": 1,
+  "ja": {
+   "インペリテリ": 1
+  },
+  "en": {
+   "Impellitteli": 1
+  }
+ },
+ {
+  "key": "en:prefabsprout",
+  "n": 1,
+  "ja": {
+   "プリファブ・スプラウト": 1
+  },
+  "en": {
+   "Prefab Sprout": 1
+  }
+ },
+ {
+  "key": "en:valerielemercier",
+  "n": 1,
+  "ja": {
+   "ヴァレリー・ ルメルシエ": 1
+  },
+  "en": {
+   "Valerie Lemercier": 1
+  }
+ },
+ {
+  "key": "en:carsrouges",
+  "n": 1,
+  "ja": {
+   "カール・ルージュ": 1
+  },
+  "en": {
+   "Cars Rouges": 1
+  }
+ },
+ {
+  "key": "en:bryanferry",
+  "n": 1,
+  "ja": {
+   "ブライアン・フェリー": 1
+  },
+  "en": {
+   "Bryan Ferry": 1
+  }
+ },
+ {
+  "key": "en:nicotine",
+  "n": 1,
+  "ja": {
+   "ニコチン": 1
+  },
+  "en": {
+   "Nicotine": 1
+  }
+ },
+ {
+  "key": "en:rajnikanthmeena",
+  "n": 1,
+  "ja": {
+   "ラジニカーント、 ミーナー：ムトゥ踊るマハラジャOST": 1
+  },
+  "en": {
+   "Rajnikanth,Meena": 1
+  }
+ },
+ {
+  "key": "en:keleleroc",
+  "n": 1,
+  "ja": {
+   "ケレ・ル・ロック": 1
+  },
+  "en": {
+   "Kele Le Roc": 1
+  }
+ },
+ {
+  "key": "en:daverodgers",
+  "n": 1,
+  "ja": {
+   "デイヴ・ロジャース": 1
+  },
+  "en": {
+   "Dave Rodgers": 1
+  }
+ },
+ {
+  "key": "en:benfoldsfive",
+  "n": 1,
+  "ja": {
+   "ベン・フォールズ・ ファイブ": 1
+  },
+  "en": {
+   "Ben Folds Five": 1
+  }
+ },
+ {
+  "key": "ja:nas",
+  "n": 1,
+  "ja": {
+   "NAS": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:gladysknight",
+  "n": 1,
+  "ja": {
+   "グラディス・ナイト": 1
+  },
+  "en": {
+   "Gladys Knight": 1
+  }
+ },
+ {
+  "key": "en:babyface",
+  "n": 1,
+  "ja": {
+   "ベイビー・フェイス": 1
+  },
+  "en": {
+   "Baby Face": 1
+  }
+ },
+ {
+  "key": "en:robbiedupree",
+  "n": 1,
+  "ja": {
+   "ロビー・デュプリー": 1
+  },
+  "en": {
+   "Robbie Dupree": 1
+  }
+ },
+ {
+  "key": "en:childrenofbodom",
+  "n": 1,
+  "ja": {
+   "チルドレン・オブ・ ボドム": 1
+  },
+  "en": {
+   "Children Of Bodom": 1
+  }
+ },
+ {
+  "key": "en:sholaama",
+  "n": 1,
+  "ja": {
+   "ショーラ・アーマ": 1
+  },
+  "en": {
+   "Shola Ama": 1
+  }
+ },
+ {
+  "key": "en:sham69",
+  "n": 1,
+  "ja": {
+   "シャム69": 1
+  },
+  "en": {
+   "Sham 69": 1
+  }
+ },
+ {
+  "key": "en:firehouse",
+  "n": 1,
+  "ja": {
+   "ファイアーハウス": 1
+  },
+  "en": {
+   "Fire House": 1
+  }
+ },
+ {
+  "key": "en:beautifulsouth",
+  "n": 1,
+  "ja": {
+   "ビューティフル・ サウス": 1
+  },
+  "en": {
+   "Beautiful South": 1
+  }
+ },
+ {
+  "key": "en:katerine",
+  "n": 1,
+  "ja": {
+   "カトリーヌ": 1
+  },
+  "en": {
+   "Katerine": 1
+  }
+ },
+ {
+  "key": "en:childsview",
+  "n": 1,
+  "ja": {
+   "チャイルズ・ビュー": 1
+  },
+  "en": {
+   "Child's View": 1
+  }
+ },
+ {
+  "key": "en:imperialdrag",
+  "n": 1,
+  "ja": {
+   "インペリアル・ ドラッグ": 1
+  },
+  "en": {
+   "Imperial Drag": 1
+  }
+ },
+ {
+  "key": "ja:エディコクラン",
+  "n": 1,
+  "ja": {
+   "エディ・コクラン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:robbenford",
+  "n": 1,
+  "ja": {
+   "ロベン・フォード": 1
+  },
+  "en": {
+   "Robben Ford": 1
+  }
+ },
+ {
+  "key": "en:babylonzoo",
+  "n": 1,
+  "ja": {
+   "バビロン・ズー": 1
+  },
+  "en": {
+   "Babylon Zoo": 1
+  }
+ },
+ {
+  "key": "en:daniellanois",
+  "n": 1,
+  "ja": {
+   "ダニエル・ラノワ": 1
+  },
+  "en": {
+   "Daniel Lanois": 1
+  }
+ },
+ {
+  "key": "en:danielamercury",
+  "n": 1,
+  "ja": {
+   "ダニエラ・メルクリ": 1
+  },
+  "en": {
+   "Daniela Mercury": 1
+  }
+ },
+ {
+  "key": "en:jenniferlopez",
+  "n": 1,
+  "ja": {
+   "ジェニファー・ロペス": 1
+  },
+  "en": {
+   "Jenniferlopez": 1
+  }
+ },
+ {
+  "key": "en:terranova",
+  "n": 1,
+  "ja": {
+   "テラ・ノヴァ": 1
+  },
+  "en": {
+   "Terra Nova": 1
+  }
+ },
+ {
+  "key": "en:steveperry",
+  "n": 1,
+  "ja": {
+   "スティーブ・ペリー": 1
+  },
+  "en": {
+   "Steve Perry": 1
+  }
+ },
+ {
+  "key": "en:bluesbrothers2000",
+  "n": 1,
+  "ja": {
+   "「ブルース・ブラザーズ2000」オリジナルサウンドトラック": 1
+  },
+  "en": {
+   "Blues Brothers 2000": 1
+  }
+ },
+ {
+  "key": "en:rickyleejones",
+  "n": 1,
+  "ja": {
+   "リッキー・リー・ ジョーンズ": 1
+  },
+  "en": {
+   "Ricky Lee Jones": 1
+  }
+ },
+ {
+  "key": "en:johnleehooker",
+  "n": 1,
+  "ja": {
+   "ジョン・リー・フッカー": 1
+  },
+  "en": {
+   "John Lee Hooker": 1
+  }
+ },
+ {
+  "key": "en:dexysmidnightrunners",
+  "n": 1,
+  "ja": {
+   "デキシーズ・ ミッドナイト・ ランナーズ": 1
+  },
+  "en": {
+   "Dexys Midnight Runners": 1
+  }
+ },
+ {
+  "key": "en:threedognight",
+  "n": 1,
+  "ja": {
+   "スリー・ドッグ・ ナイト": 1
+  },
+  "en": {
+   "Three Dog Night": 1
+  }
+ },
+ {
+  "key": "en:filippagiordano",
+  "n": 1,
+  "ja": {
+   "フィリッパ・ ジョルダーノ": 1
+  },
+  "en": {
+   "Filippa Giordano": 1
+  }
+ },
+ {
+  "key": "en:pangaea",
+  "n": 1,
+  "ja": {
+   "パンジェア": 1
+  },
+  "en": {
+   "Pangaea": 1
+  }
+ },
+ {
+  "key": "en:ironbutterfly",
+  "n": 1,
+  "ja": {
+   "アイアン・バタフライ": 1
+  },
+  "en": {
+   "Iron Butterfly": 1
+  }
+ },
+ {
+  "key": "en:rkellyandpublicannouncement",
+  "n": 1,
+  "ja": {
+   "R・ケリー＆ パブリック・ アナウンスメント": 1
+  },
+  "en": {
+   "R.Kelly ＆ Public Announcement": 1
+  }
+ },
+ {
+  "key": "en:paulrodgers",
+  "n": 1,
+  "ja": {
+   "ポール・ロジャース": 1
+  },
+  "en": {
+   "Paul Rodgers": 1
+  }
+ },
+ {
+  "key": "en:boygeorge",
+  "n": 1,
+  "ja": {
+   "ボーイ・ジョージ": 1
+  },
+  "en": {
+   "Boy George": 1
+  }
+ },
+ {
+  "key": "ja:ハリスアレクシル",
+  "n": 1,
+  "ja": {
+   "ハリス・アレクシール": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:lesdemoisellesderochefort",
+  "n": 1,
+  "ja": {
+   "「ロシュフォールの恋人達」 サウンドトラック": 1
+  },
+  "en": {
+   "Les demoiselles de Rochefort": 1
+  }
+ },
+ {
+  "key": "en:siljevige",
+  "n": 1,
+  "ja": {
+   "シリエ・ヴィーグ": 1
+  },
+  "en": {
+   "Silje Vige": 1
+  }
+ },
+ {
+  "key": "en:fanfareciocarlia",
+  "n": 1,
+  "ja": {
+   "ファンファーレ・ チョカーリア": 1
+  },
+  "en": {
+   "Fanfare Ciocarlia": 1
+  }
+ },
+ {
+  "key": "en:crystalwaters",
+  "n": 1,
+  "ja": {
+   "クリスタル・ ウォーターズ": 1
+  },
+  "en": {
+   "Crystal Waters": 1
+  }
+ },
+ {
+  "key": "en:manbreak",
+  "n": 1,
+  "ja": {
+   "マンブレイク": 1
+  },
+  "en": {
+   "Manbreak": 1
+  }
+ },
+ {
+  "key": "en:ronettes",
+  "n": 1,
+  "ja": {
+   "ザ・ロネッツ": 1
+  },
+  "en": {
+   "The Ronettes": 1
+  }
+ },
+ {
+  "key": "en:gilbertogilandjorgeben",
+  "n": 1,
+  "ja": {
+   "ジルベルト・ジル＆ ジョルジ・ベン": 1
+  },
+  "en": {
+   "Gilberto Gil & Jorge Ben": 1
+  }
+ },
+ {
+  "key": "en:muthuost",
+  "n": 1,
+  "ja": {
+   "ムトゥ・踊る マハラジャ サウンドトラック": 1
+  },
+  "en": {
+   "Muthu OST": 1
+  }
+ },
+ {
+  "key": "en:claudettesoares",
+  "n": 1,
+  "ja": {
+   "クラウデッチ・ ソアレス": 1
+  },
+  "en": {
+   "Claudette Soares": 1
+  }
+ },
+ {
+  "key": "en:samingad",
+  "n": 1,
+  "ja": {
+   "サミンガ": 1
+  },
+  "en": {
+   "Samingad:紀暁君": 1
+  }
+ },
+ {
+  "key": "en:harryconnickjr",
+  "n": 1,
+  "ja": {
+   "ハリー・コニックJｒ.": 1
+  },
+  "en": {
+   "Harry Connick Jr.": 1
+  }
+ },
+ {
+  "key": "en:dangelo",
+  "n": 1,
+  "ja": {
+   "ディアンジェロ": 1
+  },
+  "en": {
+   "D'Angelo": 1
+  }
+ },
+ {
+  "key": "en:nsync",
+  "n": 1,
+  "ja": {
+   "イン・シンク": 1
+  },
+  "en": {
+   "'Nsync": 1
+  }
+ },
+ {
+  "key": "en:frankielaine",
+  "n": 1,
+  "ja": {
+   "フランキー・レイン": 1
+  },
+  "en": {
+   "Frankie Laine": 1
+  }
+ },
+ {
+  "key": "ja:hot",
+  "n": 1,
+  "ja": {
+   "H.O.T.": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:熱帯jazz楽団",
+  "n": 1,
+  "ja": {
+   "熱帯JAZZ楽団": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:leoferre",
+  "n": 1,
+  "ja": {
+   "レオ・フェレ": 1
+  },
+  "en": {
+   "Leo Ferre": 1
+  }
+ },
+ {
+  "key": "en:bloodsweatandtears",
+  "n": 1,
+  "ja": {
+   "ブラッド・スエット＆ティアーズ": 1
+  },
+  "en": {
+   "Blood,Sweat&Tears": 1
+  }
+ },
+ {
+  "key": "en:klf",
+  "n": 1,
+  "ja": {
+   "ザ・KLF": 1
+  },
+  "en": {
+   "The KLF": 1
+  }
+ },
+ {
+  "key": "en:train",
+  "n": 1,
+  "ja": {
+   "トレイン": 1
+  },
+  "en": {
+   "Train": 1
+  }
+ },
+ {
+  "key": "en:deadoralive",
+  "n": 1,
+  "ja": {
+   "デッド・オア・ アライヴ": 1
+  },
+  "en": {
+   "Dead Or Alive": 1
+  }
+ },
+ {
+  "key": "ja:ライクダ",
+  "n": 1,
+  "ja": {
+   "ライ・クーダー": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ドノヴァン",
+  "n": 1,
+  "ja": {
+   "ドノヴァン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:タンパトリオ",
+  "n": 1,
+  "ja": {
+   "タンパ・トリオ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ビスティボイズ",
+  "n": 1,
+  "ja": {
+   "ビースティー・ ボーイズ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:クイン",
+  "n": 1,
+  "ja": {
+   "クイーン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ロクアカンザ",
+  "n": 1,
+  "ja": {
+   "ロクア・カンザ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ジョニギタワトスン",
+  "n": 1,
+  "ja": {
+   "ジョニー・ギター・ ワトスン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:アイアンメイデン",
+  "n": 1,
+  "ja": {
+   "アイアン・メイデン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ジュシィフルツ",
+  "n": 1,
+  "ja": {
+   "ジューシィ・ フルーツ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:シャ乱q",
+  "n": 1,
+  "ja": {
+   "シャ乱Ｑ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:smallfaces",
+  "n": 1,
+  "ja": {
+   "スモール・フェイセス": 1
+  },
+  "en": {
+   "Small Faces": 1
+  }
+ },
+ {
+  "key": "en:frankiegoestohollywood",
+  "n": 1,
+  "ja": {
+   "フランキー・ゴーズ・トゥ・ハリウッド": 1
+  },
+  "en": {
+   "Frankie Goes To Hollywood": 1
+  }
+ },
+ {
+  "key": "en:grid",
+  "n": 1,
+  "ja": {
+   "グリッド": 1
+  },
+  "en": {
+   "Grid": 1
+  }
+ },
+ {
+  "key": "en:paulgilbertandjimikidd",
+  "n": 1,
+  "ja": {
+   "ポール・ギルバート＆ジミィ・キッド": 1
+  },
+  "en": {
+   "Paul Gilbert & Jimi Kidd": 1
+  }
+ },
+ {
+  "key": "en:tantometro",
+  "n": 1,
+  "ja": {
+   "タント・メトロ＆ デヴォンテ": 1
+  },
+  "en": {
+   "Tanto Metro": 1
+  }
+ },
+ {
+  "key": "en:soggybottomboys",
+  "n": 1,
+  "ja": {
+   "ずぶ濡れボーイズ": 1
+  },
+  "en": {
+   "The Soggy Bottom Boys": 1
+  }
+ },
+ {
+  "key": "en:unitedfutureorganization",
+  "n": 1,
+  "ja": {
+   "ユナイテッド・ フューチャー・ オーガニゼイション": 1
+  },
+  "en": {
+   "United Future Organization": 1
+  }
+ },
+ {
+  "key": "en:kahimikarie",
+  "n": 1,
+  "ja": {
+   "カヒミ・カリィ": 1
+  },
+  "en": {
+   "Kahimi Karie": 1
+  }
+ },
+ {
+  "key": "en:vangelis",
+  "n": 1,
+  "ja": {
+   "ヴァンゲリス": 1
+  },
+  "en": {
+   "Vangelis": 1
+  }
+ },
+ {
+  "key": "en:charlesandeddie",
+  "n": 1,
+  "ja": {
+   "チャールズ＆エディ": 1
+  },
+  "en": {
+   "Charles & Eddie": 1
+  }
+ },
+ {
+  "key": "en:billyidol",
+  "n": 1,
+  "ja": {
+   "ビリー・アイドル": 1
+  },
+  "en": {
+   "Billy Idol": 1
+  }
+ },
+ {
+  "key": "en:elviscostelloandtheattractions",
+  "n": 1,
+  "ja": {
+   "エルヴィス・コステロ ＆ ジ・アトラクションズ": 1
+  },
+  "en": {
+   "Elvis Costello & the Attractions": 1
+  }
+ },
+ {
+  "key": "en:2pacandoutlawz",
+  "n": 1,
+  "ja": {
+   "2パック＋ アウトロウズ": 1
+  },
+  "en": {
+   "2Pac & Outlawz": 1
+  }
+ },
+ {
+  "key": "en:strawberrypath",
+  "n": 1,
+  "ja": {
+   "ストロベリー・パス": 1
+  },
+  "en": {
+   "Strawberry Path": 1
+  }
+ },
+ {
+  "key": "en:coalchamber",
+  "n": 1,
+  "ja": {
+   "コール・チェンバー": 1
+  },
+  "en": {
+   "Coal Chamber": 1
+  }
+ },
+ {
+  "key": "en:johnnyosbourne",
+  "n": 1,
+  "ja": {
+   "ジョニー・オズボーン": 1
+  },
+  "en": {
+   "Johnny Osbourne": 1
+  }
+ },
+ {
+  "key": "ja:齊秦",
+  "n": 1,
+  "ja": {
+   "齊秦": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:markowen",
+  "n": 1,
+  "ja": {
+   "マーク・オーエン": 1
+  },
+  "en": {
+   "Mark Owen": 1
+  }
+ },
+ {
+  "key": "en:blackaranks",
+  "n": 1,
+  "ja": {
+   "ブラカ・ランクス": 1
+  },
+  "en": {
+   "Blacka Ranks": 1
+  }
+ },
+ {
+  "key": "en:omarsosa",
+  "n": 1,
+  "ja": {
+   "オマール・ソーサ": 1
+  },
+  "en": {
+   "Omar Sosa": 1
+  }
+ },
+ {
+  "key": "en:fiveforfighting",
+  "n": 1,
+  "ja": {
+   "ファイブ・フォー・ ファイティング": 1
+  },
+  "en": {
+   "Five For Fighting": 1
+  }
+ },
+ {
+  "key": "en:discharge",
+  "n": 1,
+  "ja": {
+   "ディスチャージ": 1
+  },
+  "en": {
+   "Discharge": 1
+  }
+ },
+ {
+  "key": "en:paulyoung",
+  "n": 1,
+  "ja": {
+   "ポール・ヤング": 1
+  },
+  "en": {
+   "Paul Young": 1
+  }
+ },
+ {
+  "key": "en:amandamarshall",
+  "n": 1,
+  "ja": {
+   "アマンダ・マーシャル": 1
+  },
+  "en": {
+   "Amanda Marshall": 1
+  }
+ },
+ {
+  "key": "en:ewanmcgregorjosefelicianoandjacekkoman",
+  "n": 1,
+  "ja": {
+   "ユアン・マクレガー、ホセ・フェリシアーノ＆ ジヤケク・コーマン": 1
+  },
+  "en": {
+   "Ewan McGregor, Jose Feliciano & Jacek Koman": 1
+  }
+ },
+ {
+  "key": "en:heavensgate",
+  "n": 1,
+  "ja": {
+   "ヘヴンズ・ゲイト": 1
+  },
+  "en": {
+   "Heaven's Gate": 1
+  }
+ },
+ {
+  "key": "en:wildmagnolias",
+  "n": 1,
+  "ja": {
+   "ワイルド・マグノリアス": 1
+  },
+  "en": {
+   "The Wild Magnolias": 1
+  }
+ },
+ {
+  "key": "en:momoney",
+  "n": 1,
+  "ja": {
+   "「モ・マネー」 オリジナル サウンドトラック": 1
+  },
+  "en": {
+   "Mo' Money": 1
+  }
+ },
+ {
+  "key": "en:johnvalenti",
+  "n": 1,
+  "ja": {
+   "ジョン・ヴァレンティ": 1
+  },
+  "en": {
+   "John Valenti": 1
+  }
+ },
+ {
+  "key": "en:johnnygill",
+  "n": 1,
+  "ja": {
+   "ジョニー・ギル": 1
+  },
+  "en": {
+   "Johnny Gill": 1
+  }
+ },
+ {
+  "key": "en:lisettemelendez",
+  "n": 1,
+  "ja": {
+   "リセット・メレンデス": 1
+  },
+  "en": {
+   "Lisette Melendez": 1
+  }
+ },
+ {
+  "key": "en:crazytown",
+  "n": 1,
+  "ja": {
+   "クレイジー・タウン": 1
+  },
+  "en": {
+   "Crazy Town": 1
+  }
+ },
+ {
+  "key": "en:lasketchup",
+  "n": 1,
+  "ja": {
+   "ラス・ケチャップ": 1
+  },
+  "en": {
+   "Las Ketchup": 1
+  }
+ },
+ {
+  "key": "en:sarahvaughanwithcliffordbrown",
+  "n": 1,
+  "ja": {
+   "サラ・ヴォーン・ ウィズ・クリフォード・ ブラウン": 1
+  },
+  "en": {
+   "Sarah Vaughan With Clifford Brown": 1
+  }
+ },
+ {
+  "key": "en:felakuti",
+  "n": 1,
+  "ja": {
+   "フェラ・クティ": 1
+  },
+  "en": {
+   "Fela Kuti": 1
+  }
+ },
+ {
+  "key": "en:modernenglish",
+  "n": 1,
+  "ja": {
+   "モダン・ イングリッシュ": 1
+  },
+  "en": {
+   "Modern English": 1
+  }
+ },
+ {
+  "key": "en:aaliyah",
+  "n": 1,
+  "ja": {
+   "アリーヤ": 1
+  },
+  "en": {
+   "Aaliyah": 1
+  }
+ },
+ {
+  "key": "en:kidrock",
+  "n": 1,
+  "ja": {
+   "キッド・ロック": 1
+  },
+  "en": {
+   "Kid Rock": 1
+  }
+ },
+ {
+  "key": "en:rayvon",
+  "n": 1,
+  "ja": {
+   "レイヴォン": 1
+  },
+  "en": {
+   "Rayvon": 1
+  }
+ },
+ {
+  "key": "en:nickelback",
+  "n": 1,
+  "ja": {
+   "ニッケルバック": 1
+  },
+  "en": {
+   "Nickelback": 1
+  }
+ },
+ {
+  "key": "en:broadcast",
+  "n": 1,
+  "ja": {
+   "ブロードキャスト": 1
+  },
+  "en": {
+   "Broadcast": 1
+  }
+ },
+ {
+  "key": "en:floetry",
+  "n": 1,
+  "ja": {
+   "フロエトリー": 1
+  },
+  "en": {
+   "Floetry": 1
+  }
+ },
+ {
+  "key": "en:jets",
+  "n": 1,
+  "ja": {
+   "ジェッツ": 1
+  },
+  "en": {
+   "Jet's": 1
+  }
+ },
+ {
+  "key": "en:tatu",
+  "n": 1,
+  "ja": {
+   "タトゥー": 1
+  },
+  "en": {
+   "t.A.T.u.": 1
+  }
+ },
+ {
+  "key": "en:lettermen",
+  "n": 1,
+  "ja": {
+   "レターメン": 1
+  },
+  "en": {
+   "The Lettermen": 1
+  }
+ },
+ {
+  "key": "en:cooldrivemakers",
+  "n": 1,
+  "ja": {
+   "クール・ドライヴ・ メーカーズ": 1
+  },
+  "en": {
+   "Cool Drive Makers": 1
+  }
+ },
+ {
+  "key": "en:pavement",
+  "n": 1,
+  "ja": {
+   "ペイヴメント": 1
+  },
+  "en": {
+   "Pavement": 1
+  }
+ },
+ {
+  "key": "en:richardbona",
+  "n": 1,
+  "ja": {
+   "リチャード・ボナ": 1
+  },
+  "en": {
+   "Richard Bona": 1
+  }
+ },
+ {
+  "key": "en:disturbed",
+  "n": 1,
+  "ja": {
+   "ディスターブド": 1
+  },
+  "en": {
+   "Disturbed": 1
+  }
+ },
+ {
+  "key": "en:lighthousefamily",
+  "n": 1,
+  "ja": {
+   "ライトハウス・ ファミリー": 1
+  },
+  "en": {
+   "Lighthouse Family": 1
+  }
+ },
+ {
+  "key": "en:drykilllogic",
+  "n": 1,
+  "ja": {
+   "ドライ・キル・ロジック": 1
+  },
+  "en": {
+   "Dry Kill Logic": 1
+  }
+ },
+ {
+  "key": "ja:バグルス",
+  "n": 1,
+  "ja": {
+   "バグルス": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:carlcarlton",
+  "n": 1,
+  "ja": {
+   "カール・カールトン": 1
+  },
+  "en": {
+   "Carl Carlton": 1
+  }
+ },
+ {
+  "key": "en:cjlewis",
+  "n": 1,
+  "ja": {
+   "C.J.ルイス": 1
+  },
+  "en": {
+   "C.J.Lewis": 1
+  }
+ },
+ {
+  "key": "en:busted",
+  "n": 1,
+  "ja": {
+   "バステッド": 1
+  },
+  "en": {
+   "Busted": 1
+  }
+ },
+ {
+  "key": "en:steelydan",
+  "n": 1,
+  "ja": {
+   "スティーリー・ダン": 1
+  },
+  "en": {
+   "Steely Dan": 1
+  }
+ },
+ {
+  "key": "en:nodesha",
+  "n": 1,
+  "ja": {
+   "ノディーシャ": 1
+  },
+  "en": {
+   "Nodesha": 1
+  }
+ },
+ {
+  "key": "en:corneille",
+  "n": 1,
+  "ja": {
+   "コルネイユ": 1
+  },
+  "en": {
+   "Corneille": 1
+  }
+ },
+ {
+  "key": "en:ellafitzgeraldandlouisarmstrong",
+  "n": 1,
+  "ja": {
+   "エラ・ フィッツジェラルド ＆ルイ・ アームストロング": 1
+  },
+  "en": {
+   "Ella Fitzgerald & Louis Armstrong": 1
+  }
+ },
+ {
+  "key": "en:destinyschild",
+  "n": 1,
+  "ja": {
+   "ディスティニーズ・ チャイルド": 1
+  },
+  "en": {
+   "Destiny's Child": 1
+  }
+ },
+ {
+  "key": "ja:mop",
+  "n": 1,
+  "ja": {
+   "M.O.P.": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:jimcroce",
+  "n": 1,
+  "ja": {
+   "ジム・クロウチ": 1
+  },
+  "en": {
+   "Jim Croce": 1
+  }
+ },
+ {
+  "key": "en:sikth",
+  "n": 1,
+  "ja": {
+   "シクス": 1
+  },
+  "en": {
+   "Sikth": 1
+  }
+ },
+ {
+  "key": "en:porice",
+  "n": 1,
+  "ja": {
+   "ポリス": 1
+  },
+  "en": {
+   "The Porice": 1
+  }
+ },
+ {
+  "key": "en:tombrown",
+  "n": 1,
+  "ja": {
+   "トム・ブラウン": 1
+  },
+  "en": {
+   "Tom Brown": 1
+  }
+ },
+ {
+  "key": "en:ludicrous",
+  "n": 1,
+  "ja": {
+   "リュダクリス": 1
+  },
+  "en": {
+   "Ludicrous": 1
+  }
+ },
+ {
+  "key": "en:dogeatdog",
+  "n": 1,
+  "ja": {
+   "ドッグ・イート・ ドッグ": 1
+  },
+  "en": {
+   "Dog Eat Dog": 1
+  }
+ },
+ {
+  "key": "ja:d12",
+  "n": 1,
+  "ja": {
+   "D-12": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:jonathanrichmanandthemodernlovers",
+  "n": 1,
+  "ja": {
+   "ジョナサン・ リッチマン＆ ザ・モダーン・ ラヴァーズ": 1
+  },
+  "en": {
+   "Jonathan Richman & The Modern Lovers": 1
+  }
+ },
+ {
+  "key": "en:jarule",
+  "n": 1,
+  "ja": {
+   "ジャ・ルール": 1
+  },
+  "en": {
+   "Ja Rule": 1
+  }
+ },
+ {
+  "key": "en:freedesign",
+  "n": 1,
+  "ja": {
+   "フリー・デザイン": 1
+  },
+  "en": {
+   "Free Design": 1
+  }
+ },
+ {
+  "key": "en:methodman",
+  "n": 1,
+  "ja": {
+   "メソッド・マン": 1
+  },
+  "en": {
+   "Method Man": 1
+  }
+ },
+ {
+  "key": "en:westsideconnection",
+  "n": 1,
+  "ja": {
+   "ウエストサイド・ コネクション": 1
+  },
+  "en": {
+   "Westside Connection": 1
+  }
+ },
+ {
+  "key": "en:neilinnes",
+  "n": 1,
+  "ja": {
+   "ニール・イネス": 1
+  },
+  "en": {
+   "Neil Innes": 1
+  }
+ },
+ {
+  "key": "en:donots",
+  "n": 1,
+  "ja": {
+   "ドゥノッツ": 1
+  },
+  "en": {
+   "Donots": 1
+  }
+ },
+ {
+  "key": "en:casualties",
+  "n": 1,
+  "ja": {
+   "ザ・カジュアリティーズ": 1
+  },
+  "en": {
+   "The Casualties": 1
+  }
+ },
+ {
+  "key": "en:bobbyhebb",
+  "n": 1,
+  "ja": {
+   "ボビー・ヘブ": 1
+  },
+  "en": {
+   "Bobby Hebb": 1
+  }
+ },
+ {
+  "key": "en:antoniadelenia",
+  "n": 1,
+  "ja": {
+   "アントニア・ デレーリア": 1
+  },
+  "en": {
+   "Antonia Delenia": 1
+  }
+ },
+ {
+  "key": "en:anajohnson",
+  "n": 1,
+  "ja": {
+   "アナ・ジョンソン": 1
+  },
+  "en": {
+   "Ana Johnson": 1
+  }
+ },
+ {
+  "key": "en:jacksonswithmickjagger",
+  "n": 1,
+  "ja": {
+   "ジャクソンズ・ウィズ・ ミック・ジャガー": 1
+  },
+  "en": {
+   "Jacksons with Mick Jagger": 1
+  }
+ },
+ {
+  "key": "en:cowsills",
+  "n": 1,
+  "ja": {
+   "ザ・カウシルズ": 1
+  },
+  "en": {
+   "The Cowsills": 1
+  }
+ },
+ {
+  "key": "en:anad",
+  "n": 1,
+  "ja": {
+   "アナ・ディー": 1
+  },
+  "en": {
+   "Ana D": 1
+  }
+ },
+ {
+  "key": "en:construcdead",
+  "n": 1,
+  "ja": {
+   "コンストラクデッド": 1
+  },
+  "en": {
+   "Construcdead": 1
+  }
+ },
+ {
+  "key": "en:artofnoisefeatmaxbedroom",
+  "n": 1,
+  "ja": {
+   "アート・オブ・ノイズ・ フィーチャリング・ マックス・ベッドルーム": 1
+  },
+  "en": {
+   "Art Of Noise Feat. Max Bedroom": 1
+  }
+ },
+ {
+  "key": "en:blue",
+  "n": 1,
+  "ja": {
+   "ブルー": 1
+  },
+  "en": {
+   "Blue": 1
+  }
+ },
+ {
+  "key": "en:sonnytillandtheorioles",
+  "n": 1,
+  "ja": {
+   "ソニーテイルと オリオールズ": 1
+  },
+  "en": {
+   "Sonny Till ＆ The Orioles": 1
+  }
+ },
+ {
+  "key": "en:jigsaw",
+  "n": 1,
+  "ja": {
+   "ジグソー": 1
+  },
+  "en": {
+   "Jigsaw": 1
+  }
+ },
+ {
+  "key": "ja:レニクラヴィッツ",
+  "n": 1,
+  "ja": {
+   "レニー・クラヴィッツ": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:newyorkdolls",
+  "n": 1,
+  "ja": {
+   "ニューヨーク・ドールズ": 1
+  },
+  "en": {
+   "New York Dolls": 1
+  }
+ },
+ {
+  "key": "en:timbalandandmagoo",
+  "n": 1,
+  "ja": {
+   "ティンバランド＆ マグー": 1
+  },
+  "en": {
+   "Timbaland & Magoo": 1
+  }
+ },
+ {
+  "key": "ja:nerd",
+  "n": 1,
+  "ja": {
+   "N.E.R.D": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:methodsofmayhem",
+  "n": 1,
+  "ja": {
+   "メソッズ・オブ・ メイヘム": 1
+  },
+  "en": {
+   "Methods Of Mayhem": 1
+  }
+ },
+ {
+  "key": "en:slipnot",
+  "n": 1,
+  "ja": {
+   "スリップノット": 1
+  },
+  "en": {
+   "Slipnot": 1
+  }
+ },
+ {
+  "key": "en:jackjohnson",
+  "n": 1,
+  "ja": {
+   "ジャック・ジョンソン": 1
+  },
+  "en": {
+   "Jack Johnson": 1
+  }
+ },
+ {
+  "key": "en:moby",
+  "n": 1,
+  "ja": {
+   "モービー": 1
+  },
+  "en": {
+   "Moby": 1
+  }
+ },
+ {
+  "key": "en:airplay",
+  "n": 1,
+  "ja": {
+   "エアプレイ": 1
+  },
+  "en": {
+   "AirPlay": 1
+  }
+ },
+ {
+  "key": "en:serart",
+  "n": 1,
+  "ja": {
+   "セラート": 1
+  },
+  "en": {
+   "Serart": 1
+  }
+ },
+ {
+  "key": "en:tommyjamesandtheshondells",
+  "n": 1,
+  "ja": {
+   "トミージェイムズと ションデルズ": 1
+  },
+  "en": {
+   "Tommy James ＆ The Shondells": 1
+  }
+ },
+ {
+  "key": "en:alberthammond",
+  "n": 1,
+  "ja": {
+   "アリバート・ハモンド": 1
+  },
+  "en": {
+   "Albert Hammond": 1
+  }
+ },
+ {
+  "key": "en:rhfactor",
+  "n": 1,
+  "ja": {
+   "ＲＨファクター": 1
+  },
+  "en": {
+   "RH Factor": 1
+  }
+ },
+ {
+  "key": "en:dokken",
+  "n": 1,
+  "ja": {
+   "ドッケン": 1
+  },
+  "en": {
+   "Dokken": 1
+  }
+ },
+ {
+  "key": "en:lysgauty",
+  "n": 1,
+  "ja": {
+   "リス・ゴーディ": 1
+  },
+  "en": {
+   "Lys Gauty": 1
+  }
+ },
+ {
+  "key": "en:outhud",
+  "n": 1,
+  "ja": {
+   "アウト・ハッド": 1
+  },
+  "en": {
+   "Out Hud": 1
+  }
+ },
+ {
+  "key": "en:lillix",
+  "n": 1,
+  "ja": {
+   "リリックス": 1
+  },
+  "en": {
+   "Lillix": 1
+  }
+ },
+ {
+  "key": "en:gratefuldead",
+  "n": 1,
+  "ja": {
+   "グレイトフル・デッド": 1
+  },
+  "en": {
+   "Grateful Dead": 1
+  }
+ },
+ {
+  "key": "en:stiviewonder",
+  "n": 1,
+  "ja": {
+   "スティーヴィー・ ワンダー": 1
+  },
+  "en": {
+   "Stivie Wonder": 1
+  }
+ },
+ {
+  "key": "en:freqnasty",
+  "n": 1,
+  "ja": {
+   "フレック・ナスティ": 1
+  },
+  "en": {
+   "Freq Nasty": 1
+  }
+ },
+ {
+  "key": "en:einstzendeneubauten",
+  "n": 1,
+  "ja": {
+   "アインシュテュルツェンデ・ノイバウテン": 1
+  },
+  "en": {
+   "Einst Zende Neubauten": 1
+  }
+ },
+ {
+  "key": "en:rickastley",
+  "n": 1,
+  "ja": {
+   "リック・アストリー": 1
+  },
+  "en": {
+   "Rick Astley": 1
+  }
+ },
+ {
+  "key": "en:ozone",
+  "n": 1,
+  "ja": {
+   "オゾン": 1
+  },
+  "en": {
+   "O-Zone": 1
+  }
+ },
+ {
+  "key": "en:buzzcocks",
+  "n": 1,
+  "ja": {
+   "バズ・コックス": 1
+  },
+  "en": {
+   "Buzzcocks": 1
+  }
+ },
+ {
+  "key": "en:banboleo",
+  "n": 1,
+  "ja": {
+   "バンボレオ": 1
+  },
+  "en": {
+   "Banboleo": 1
+  }
+ },
+ {
+  "key": "en:lisaekdahl",
+  "n": 1,
+  "ja": {
+   "リサ・エクダール": 1
+  },
+  "en": {
+   "Lisa Ekdahl": 1
+  }
+ },
+ {
+  "key": "en:detroitcobras",
+  "n": 1,
+  "ja": {
+   "ザ・デトロイト・ コブラス": 1
+  },
+  "en": {
+   "The Detroit Cobras": 1
+  }
+ },
+ {
+  "key": "en:marvingayeandtammiterrell",
+  "n": 1,
+  "ja": {
+   "マーヴィン・ゲイ＆ タミー・テレル": 1
+  },
+  "en": {
+   "Marvin Gaye & Tammi Terrell": 1
+  }
+ },
+ {
+  "key": "en:nineinchnails",
+  "n": 1,
+  "ja": {
+   "ナイン・インチ・ ネイルズ": 1
+  },
+  "en": {
+   "Nine Inch Nails": 1
+  }
+ },
+ {
+  "key": "en:tobiassammet",
+  "n": 1,
+  "ja": {
+   "トビアス・サメット": 1
+  },
+  "en": {
+   "Tobias Sammet": 1
+  }
+ },
+ {
+  "key": "ja:ジプシキングス",
+  "n": 1,
+  "ja": {
+   "ジプシー・キングス": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:datsuns",
+  "n": 1,
+  "ja": {
+   "ザ・ダットサンズ": 1
+  },
+  "en": {
+   "The Datsuns": 1
+  }
+ },
+ {
+  "key": "en:michelfeateldoctorwebb",
+  "n": 1,
+  "ja": {
+   "ミチェル＆エル・ ドクター・ウェッブ": 1
+  },
+  "en": {
+   "Michel Feat. El Doctor Webb": 1
+  }
+ },
+ {
+  "key": "en:atribecalledquest",
+  "n": 1,
+  "ja": {
+   "ア・トライブ・コールド・クエスト": 1
+  },
+  "en": {
+   "A Tribe Called Quest": 1
+  }
+ },
+ {
+  "key": "en:messerfurfraumuller",
+  "n": 1,
+  "ja": {
+   "メッサー・ファー・ フラウ・ミューラー": 1
+  },
+  "en": {
+   "Messer Fur Frau Muller": 1
+  }
+ },
+ {
+  "key": "en:tonyrichproject",
+  "n": 1,
+  "ja": {
+   "ザ・トニー・リッチ・ プロジェクト": 1
+  },
+  "en": {
+   "The Tony Rich Project": 1
+  }
+ },
+ {
+  "key": "en:gigliolacinqetti",
+  "n": 1,
+  "ja": {
+   "ジリオラ・チンクェッティ": 1
+  },
+  "en": {
+   "Gigliola Cinqetti": 1
+  }
+ },
+ {
+  "key": "en:marsvolta",
+  "n": 1,
+  "ja": {
+   "マース・ヴォルタ": 1
+  },
+  "en": {
+   "The Mars Volta": 1
+  }
+ },
+ {
+  "key": "en:monica",
+  "n": 1,
+  "ja": {
+   "モニカ": 1
+  },
+  "en": {
+   "Monica": 1
+  }
+ },
+ {
+  "key": "en:briansetzerorchestra",
+  "n": 1,
+  "ja": {
+   "ブライアン・セッツァー・オーケストラ": 1
+  },
+  "en": {
+   "The Brian Setzer Orchestra": 1
+  }
+ },
+ {
+  "key": "en:phantomplanet",
+  "n": 1,
+  "ja": {
+   "ファントム・プラネット": 1
+  },
+  "en": {
+   "Phantom Planet": 1
+  }
+ },
+ {
+  "key": "en:beenieman",
+  "n": 1,
+  "ja": {
+   "ビーニ・マン": 1
+  },
+  "en": {
+   "Beenie Man": 1
+  }
+ },
+ {
+  "key": "en:jamesblunt",
+  "n": 1,
+  "ja": {
+   "ジェイムス・ブラント": 1
+  },
+  "en": {
+   "James Blunt": 1
+  }
+ },
+ {
+  "key": "en:vhaldemar",
+  "n": 1,
+  "ja": {
+   "ヴァルデマール": 1
+  },
+  "en": {
+   "Vhaldemar": 1
+  }
+ },
+ {
+  "key": "en:vandals",
+  "n": 1,
+  "ja": {
+   "ザ・ヴァンダルズ": 1
+  },
+  "en": {
+   "The Vandals": 1
+  }
+ },
+ {
+  "key": "en:ghostfacekillahandelephantman",
+  "n": 1,
+  "ja": {
+   "ゴーストフェイス・ キラ＆ エレファント・マン": 1
+  },
+  "en": {
+   "Ghostface Killah & Elephant Man": 1
+  }
+ },
+ {
+  "key": "ja:mia",
+  "n": 1,
+  "ja": {
+   "M.I.A.": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ジョンフルシアンテ(johnfrusciante)※レッチリのギタリスト",
+  "n": 1,
+  "ja": {
+   "ジョン・フルシアンテ (John Frusciante) ※レッチリのギタリスト": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:fionaapple",
+  "n": 1,
+  "ja": {
+   "フィオナ・アップル": 1
+  },
+  "en": {
+   "Fiona Apple": 1
+  }
+ },
+ {
+  "key": "en:bahsamba",
+  "n": 1,
+  "ja": {
+   "バー・サンバ": 1
+  },
+  "en": {
+   "Bah Samba": 1
+  }
+ },
+ {
+  "key": "en:lostprophets",
+  "n": 1,
+  "ja": {
+   "ロストプロフェッツ": 1
+  },
+  "en": {
+   "Lostprophets": 1
+  }
+ },
+ {
+  "key": "en:cinderella",
+  "n": 1,
+  "ja": {
+   "シンデレラ": 1
+  },
+  "en": {
+   "Cinderella": 1
+  }
+ },
+ {
+  "key": "en:leannrimes",
+  "n": 1,
+  "ja": {
+   "リアン・ライムス": 1
+  },
+  "en": {
+   "LeAnn Rimes": 1
+  }
+ },
+ {
+  "key": "en:stevienicks",
+  "n": 1,
+  "ja": {
+   "スティーヴィー・ ニックス": 1
+  },
+  "en": {
+   "Stevie Nicks": 1
+  }
+ },
+ {
+  "key": "en:elvispresly",
+  "n": 1,
+  "ja": {
+   "エルビス・プレスリー": 1
+  },
+  "en": {
+   "Elvis Presly": 1
+  }
+ },
+ {
+  "key": "en:gorillabiscuits",
+  "n": 1,
+  "ja": {
+   "ゴリラ・ビスケッツ": 1
+  },
+  "en": {
+   "Gorilla Biscuits": 1
+  }
+ },
+ {
+  "key": "en:miucha",
+  "n": 1,
+  "ja": {
+   "ミウシャ": 1
+  },
+  "en": {
+   "Miucha": 1
+  }
+ },
+ {
+  "key": "en:anekdoten",
+  "n": 1,
+  "ja": {
+   "アネクドテン": 1
+  },
+  "en": {
+   "Anekdoten": 1
+  }
+ },
+ {
+  "key": "en:jacquesbrel",
+  "n": 1,
+  "ja": {
+   "ジャック・ブレル": 1
+  },
+  "en": {
+   "Jacques Brel": 1
+  }
+ },
+ {
+  "key": "en:motorettes",
+  "n": 1,
+  "ja": {
+   "モータレッツ": 1
+  },
+  "en": {
+   "Motorettes": 1
+  }
+ },
+ {
+  "key": "en:gigliolacinquett",
+  "n": 1,
+  "ja": {
+   "ジリオラ・ チンクエッティ": 1
+  },
+  "en": {
+   "Gigliola Cinquett": 1
+  }
+ },
+ {
+  "key": "en:cramps",
+  "n": 1,
+  "ja": {
+   "ザ・クランプス": 1
+  },
+  "en": {
+   "The Cramps": 1
+  }
+ },
+ {
+  "key": "en:coral",
+  "n": 1,
+  "ja": {
+   "ザ・コーラル": 1
+  },
+  "en": {
+   "The Coral": 1
+  }
+ },
+ {
+  "key": "en:nujabes",
+  "n": 1,
+  "ja": {
+   "ヌジャベス": 1
+  },
+  "en": {
+   "Nujabes": 1
+  }
+ },
+ {
+  "key": "en:chubbychecker",
+  "n": 1,
+  "ja": {
+   "チャビー・チェッカー": 1
+  },
+  "en": {
+   "Chubby Checker": 1
+  }
+ },
+ {
+  "key": "en:buggles",
+  "n": 1,
+  "ja": {
+   "バグルス": 1
+  },
+  "en": {
+   "The Buggles": 1
+  }
+ },
+ {
+  "key": "en:cars",
+  "n": 1,
+  "ja": {
+   "カーズ": 1
+  },
+  "en": {
+   "The Cars": 1
+  }
+ },
+ {
+  "key": "en:view",
+  "n": 1,
+  "ja": {
+   "ザ・ビュー": 1
+  },
+  "en": {
+   "The View": 1
+  }
+ },
+ {
+  "key": "en:domenicomodugno",
+  "n": 1,
+  "ja": {
+   "ドメニコ・モドゥーニョ": 1
+  },
+  "en": {
+   "Domenico Modugno": 1
+  }
+ },
+ {
+  "key": "en:jamesmorrison",
+  "n": 1,
+  "ja": {
+   "ジェームス・モリソン": 1
+  },
+  "en": {
+   "James Morrison": 1
+  }
+ },
+ {
+  "key": "en:typeonegative",
+  "n": 1,
+  "ja": {
+   "タイプ・オー・ ネガティヴ": 1
+  },
+  "en": {
+   "Type O Negative": 1
+  }
+ },
+ {
+  "key": "en:mychemicalromance",
+  "n": 1,
+  "ja": {
+   "マイ・ケミカル・ ロマンス": 1
+  },
+  "en": {
+   "My Chemical Romance": 1
+  }
+ },
+ {
+  "key": "en:killswitchengage",
+  "n": 1,
+  "ja": {
+   "キルスウィッチ・ エンゲイジ": 1
+  },
+  "en": {
+   "Killswitch Engage": 1
+  }
+ },
+ {
+  "key": "en:beckbogertandappice",
+  "n": 1,
+  "ja": {
+   "ベック・ボガート＆ アピス": 1
+  },
+  "en": {
+   "Beck, Bogert & Appice": 1
+  }
+ },
+ {
+  "key": "en:royayersubiquity",
+  "n": 1,
+  "ja": {
+   "ロイ・エアーズ・ ユビクティー": 1
+  },
+  "en": {
+   "Roy Ayers Ubiquity": 1
+  }
+ },
+ {
+  "key": "en:laurapausini",
+  "n": 1,
+  "ja": {
+   "ラウラ・パウジーニ": 1
+  },
+  "en": {
+   "Laura Pausini": 1
+  }
+ },
+ {
+  "key": "en:stereolab",
+  "n": 1,
+  "ja": {
+   "ステレオラブ": 1
+  },
+  "en": {
+   "Stereolab": 1
+  }
+ },
+ {
+  "key": "en:brothersfour",
+  "n": 1,
+  "ja": {
+   "ブラザーズ・フォー": 1
+  },
+  "en": {
+   "The Brothers Four": 1
+  }
+ },
+ {
+  "key": "en:murphyslaw",
+  "n": 1,
+  "ja": {
+   "マーフィーズ・ロウ": 1
+  },
+  "en": {
+   "Murphy's Law": 1
+  }
+ },
+ {
+  "key": "en:dianarossandmarvingaye",
+  "n": 1,
+  "ja": {
+   "ダイアナ・ロス＆ マービン・ゲイ": 1
+  },
+  "en": {
+   "Diana Ross & Marvin Gaye": 1
+  }
+ },
+ {
+  "key": "ja:pfm",
+  "n": 1,
+  "ja": {
+   "PFM": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:alightershadeofbrown",
+  "n": 1,
+  "ja": {
+   "ライター・シェイド・ オブ・ブラウン": 1
+  },
+  "en": {
+   "A Lighter Shade Of Brown": 1
+  }
+ },
+ {
+  "key": "en:shellac",
+  "n": 1,
+  "ja": {
+   "シェラック": 1
+  },
+  "en": {
+   "Shellac": 1
+  }
+ },
+ {
+  "key": "en:lucaturilli",
+  "n": 1,
+  "ja": {
+   "ルカ・トゥリッリ": 1
+  },
+  "en": {
+   "Luca Turilli": 1
+  }
+ },
+ {
+  "key": "en:westlife",
+  "n": 1,
+  "ja": {
+   "ウエストライフ": 1
+  },
+  "en": {
+   "Westlife": 1
+  }
+ },
+ {
+  "key": "en:kcandthesunshineband",
+  "n": 1,
+  "ja": {
+   "KC＆サンシャイン・バンド": 1
+  },
+  "en": {
+   "K.C. & The Sunshine Band": 1
+  }
+ },
+ {
+  "key": "en:stereophonics",
+  "n": 1,
+  "ja": {
+   "ステレオフォニックス": 1
+  },
+  "en": {
+   "Stereophonics": 1
+  }
+ },
+ {
+  "key": "en:double",
+  "n": 1,
+  "ja": {
+   "ドゥーブル": 1
+  },
+  "en": {
+   "Double": 1
+  }
+ },
+ {
+  "key": "en:rubettes",
+  "n": 1,
+  "ja": {
+   "ルベッツ": 1
+  },
+  "en": {
+   "The Rubettes": 1
+  }
+ },
+ {
+  "key": "en:gracejones",
+  "n": 1,
+  "ja": {
+   "グレース・ジョーンズ": 1
+  },
+  "en": {
+   "Grace Jones": 1
+  }
+ },
+ {
+  "key": "ja:kiss",
+  "n": 1,
+  "ja": {
+   "KISS": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:larafabian",
+  "n": 1,
+  "ja": {
+   "ララ・ファビアン": 1
+  },
+  "en": {
+   "Lara Fabian": 1
+  }
+ },
+ {
+  "key": "en:mrbungle",
+  "n": 1,
+  "ja": {
+   "Mr. バングル": 1
+  },
+  "en": {
+   "Mr. Bungle": 1
+  }
+ },
+ {
+  "key": "en:insaneclownposse",
+  "n": 1,
+  "ja": {
+   "インセイン・ クラウン・ポッシー": 1
+  },
+  "en": {
+   "Insane Clown Posse": 1
+  }
+ },
+ {
+  "key": "en:montypython",
+  "n": 1,
+  "ja": {
+   "モンティ・パイソン": 1
+  },
+  "en": {
+   "Monty Python": 1
+  }
+ },
+ {
+  "key": "en:quantic",
+  "n": 1,
+  "ja": {
+   "クアンティック": 1
+  },
+  "en": {
+   "Quantic": 1
+  }
+ },
+ {
+  "key": "en:menswear",
+  "n": 1,
+  "ja": {
+   "メンズウェア": 1
+  },
+  "en": {
+   "Menswear": 1
+  }
+ },
+ {
+  "key": "en:keithrichards",
+  "n": 1,
+  "ja": {
+   "キース・リチャーズ": 1
+  },
+  "en": {
+   "Keith Richards": 1
+  }
+ },
+ {
+  "key": "en:quintetoternura",
+  "n": 1,
+  "ja": {
+   "キンテート・ テルヌーラ": 1
+  },
+  "en": {
+   "Quinteto Ternura": 1
+  }
+ },
+ {
+  "key": "en:beneking",
+  "n": 1,
+  "ja": {
+   "ベン・E・キング": 1
+  },
+  "en": {
+   "Ben E. King": 1
+  }
+ },
+ {
+  "key": "en:tuomo",
+  "n": 1,
+  "ja": {
+   "トゥオモ": 1
+  },
+  "en": {
+   "Tuomo": 1
+  }
+ },
+ {
+  "key": "en:lostprophet",
+  "n": 1,
+  "ja": {
+   "ロスト・プロフェッツ": 1
+  },
+  "en": {
+   "Lostprophet": 1
+  }
+ },
+ {
+  "key": "en:soundproviders",
+  "n": 1,
+  "ja": {
+   "サウンド・ プロヴァイダーズ": 1
+  },
+  "en": {
+   "Sound Providers": 1
+  }
+ },
+ {
+  "key": "en:janetkay",
+  "n": 1,
+  "ja": {
+   "ジャネット・ケイ": 1
+  },
+  "en": {
+   "Janet Kay": 1
+  }
+ },
+ {
+  "key": "en:miuchaandantoniocarlosjobim",
+  "n": 1,
+  "ja": {
+   "ミウシャ＆ アントニオ・ カルロス・ジョビン": 1
+  },
+  "en": {
+   "Miucha & Antonio Carlos Jobim": 1
+  }
+ },
+ {
+  "key": "en:roots",
+  "n": 1,
+  "ja": {
+   "ザ・ルーツ": 1
+  },
+  "en": {
+   "The Roots": 1
+  }
+ },
+ {
+  "key": "en:cultureclub",
+  "n": 1,
+  "ja": {
+   "カルチャー・クラブ": 1
+  },
+  "en": {
+   "Culture Club": 1
+  }
+ },
+ {
+  "key": "en:andreabocelli",
+  "n": 1,
+  "ja": {
+   "アンドレア・ ボチェッリ": 1
+  },
+  "en": {
+   "Andrea Bocelli": 1
+  }
+ },
+ {
+  "key": "en:cardigans",
+  "n": 1,
+  "ja": {
+   "カーディガンズ": 1
+  },
+  "en": {
+   "Cardigans": 1
+  }
+ },
+ {
+  "key": "en:jasonmraz",
+  "n": 1,
+  "ja": {
+   "ジェイソン・ムラーズ": 1
+  },
+  "en": {
+   "Jason Mraz": 1
+  }
+ },
+ {
+  "key": "en:incubus",
+  "n": 1,
+  "ja": {
+   "インキュバス": 1
+  },
+  "en": {
+   "Incubus": 1
+  }
+ },
+ {
+  "key": "en:silviatelles",
+  "n": 1,
+  "ja": {
+   "シルヴィア・テリス": 1
+  },
+  "en": {
+   "Silvia Telles": 1
+  }
+ },
+ {
+  "key": "en:yello",
+  "n": 1,
+  "ja": {
+   "イエロー": 1
+  },
+  "en": {
+   "Yello": 1
+  }
+ },
+ {
+  "key": "en:cajundanceparty",
+  "n": 1,
+  "ja": {
+   "ケイジャン・ダンス・ パーティー": 1
+  },
+  "en": {
+   "Cajun Dance Party": 1
+  }
+ },
+ {
+  "key": "en:walkerbrothers",
+  "n": 1,
+  "ja": {
+   "ザ・ウォーカー・ ブラザーズ": 1
+  },
+  "en": {
+   "The Walker Brothers": 1
+  }
+ },
+ {
+  "key": "en:mims",
+  "n": 1,
+  "ja": {
+   "ミムズ": 1
+  },
+  "en": {
+   "Mims": 1
+  }
+ },
+ {
+  "key": "en:softcell",
+  "n": 1,
+  "ja": {
+   "ソフト・セル": 1
+  },
+  "en": {
+   "Soft Cell": 1
+  }
+ },
+ {
+  "key": "en:beyoncefeatjayz",
+  "n": 1,
+  "ja": {
+   "ビヨンセ": 1
+  },
+  "en": {
+   "Beyonce feat. Jay-Z": 1
+  }
+ },
+ {
+  "key": "en:rentost",
+  "n": 1,
+  "ja": {
+   "「RENT」オリジナルサウンドトラック": 1
+  },
+  "en": {
+   "Rent OST": 1
+  }
+ },
+ {
+  "key": "ja:スリップノット(slipknot)",
+  "n": 1,
+  "ja": {
+   "スリップノット(Slipknot).": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:ramstein",
+  "n": 1,
+  "ja": {
+   "ラムシュタイン": 1
+  },
+  "en": {
+   "Ramstein": 1
+  }
+ },
+ {
+  "key": "en:darylhall",
+  "n": 1,
+  "ja": {
+   "ダリル・ホール": 1
+  },
+  "en": {
+   "Daryl Hall": 1
+  }
+ },
+ {
+  "key": "en:carmenmcrae",
+  "n": 1,
+  "ja": {
+   "カーメン・マクレエ": 1
+  },
+  "en": {
+   "Carmen McRae": 1
+  }
+ },
+ {
+  "key": "en:paulanka",
+  "n": 1,
+  "ja": {
+   "ポール・アンカ": 1
+  },
+  "en": {
+   "Paul Anka": 1
+  }
+ },
+ {
+  "key": "en:genemcdaniels",
+  "n": 1,
+  "ja": {
+   "ジーン・ マクダニエルズ": 1
+  },
+  "en": {
+   "Gene McDaniels": 1
+  }
+ },
+ {
+  "key": "en:jimmyeatworld",
+  "n": 1,
+  "ja": {
+   "ジミー・イート・ ワールド": 1
+  },
+  "en": {
+   "Jimmy Eat World": 1
+  }
+ },
+ {
+  "key": "en:jorgeben",
+  "n": 1,
+  "ja": {
+   "ジョルジ・ベン": 1
+  },
+  "en": {
+   "Jorge Ben": 1
+  }
+ },
+ {
+  "key": "en:stars",
+  "n": 1,
+  "ja": {
+   "スターズ": 1
+  },
+  "en": {
+   "Stars": 1
+  }
+ },
+ {
+  "key": "en:ulijonrothandtheelectricsun",
+  "n": 1,
+  "ja": {
+   "ウリ・ジョン・ロート＆エレクトリック・サン": 1
+  },
+  "en": {
+   "Uli Jon Roth & The Electric Sun": 1
+  }
+ },
+ {
+  "key": "en:dustyspringfield",
+  "n": 1,
+  "ja": {
+   "ダスティ・ スプリングフィールド": 1
+  },
+  "en": {
+   "Dusty Springfield": 1
+  }
+ },
+ {
+  "key": "en:manicstreetpreachers",
+  "n": 1,
+  "ja": {
+   "マニック・ストリート・ プリーチャーズ": 1
+  },
+  "en": {
+   "Manic Street Preachers": 1
+  }
+ },
+ {
+  "key": "ja:jbs",
+  "n": 1,
+  "ja": {
+   "JB'S": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:raspberries",
+  "n": 1,
+  "ja": {
+   "ラズベリーズ": 1
+  },
+  "en": {
+   "The Raspberries": 1
+  }
+ },
+ {
+  "key": "en:johnnyhatesjazz",
+  "n": 1,
+  "ja": {
+   "ジョニー・ヘイツ・ジャズ": 1
+  },
+  "en": {
+   "Johnny Hates Jazz": 1
+  }
+ },
+ {
+  "key": "en:paulamorelenbaum",
+  "n": 1,
+  "ja": {
+   "パウラ・ モレレンバウム": 1
+  },
+  "en": {
+   "Paula Morelenbaum": 1
+  }
+ },
+ {
+  "key": "en:libertines",
+  "n": 1,
+  "ja": {
+   "ザ・リバティーンズ": 1
+  },
+  "en": {
+   "The Libertines": 1
+  }
+ },
+ {
+  "key": "en:timbaland",
+  "n": 1,
+  "ja": {
+   "ティンバランド": 1
+  },
+  "en": {
+   "Timbaland": 1
+  }
+ },
+ {
+  "key": "en:ricardovillalobos",
+  "n": 1,
+  "ja": {
+   "リカルド・ ヴィラロボス": 1
+  },
+  "en": {
+   "Ricardo Villalobos": 1
+  }
+ },
+ {
+  "key": "en:mnk",
+  "n": 1,
+  "ja": {
+   "ミンク": 1
+  },
+  "en": {
+   "M!nk": 1
+  }
+ },
+ {
+  "key": "en:dextergordon",
+  "n": 1,
+  "ja": {
+   "デクスター・ゴードン": 1
+  },
+  "en": {
+   "Dexter Gordon": 1
+  }
+ },
+ {
+  "key": "en:fivecornersquintet",
+  "n": 1,
+  "ja": {
+   "ザ・ファイブ・ コーナーズ・ クインテット": 1
+  },
+  "en": {
+   "The Five Corners Quintet": 1
+  }
+ },
+ {
+  "key": "en:johnnywinter",
+  "n": 1,
+  "ja": {
+   "ジョニー・ウィンター": 1
+  },
+  "en": {
+   "Johnny Winter": 1
+  }
+ },
+ {
+  "key": "en:protestthehero",
+  "n": 1,
+  "ja": {
+   "プロテスト・ザ・ ヒーロー": 1
+  },
+  "en": {
+   "Protest The Hero": 1
+  }
+ },
+ {
+  "key": "en:bluefoundation",
+  "n": 1,
+  "ja": {
+   "ブルー・ ファンデーション": 1
+  },
+  "en": {
+   "Blue Foundation": 1
+  }
+ },
+ {
+  "key": "en:prideandglory",
+  "n": 1,
+  "ja": {
+   "プライド・アンド・ グローリー": 1
+  },
+  "en": {
+   "Pride & Glory": 1
+  }
+ },
+ {
+  "key": "en:dianakrall",
+  "n": 1,
+  "ja": {
+   "ダイアナ・クラール": 1
+  },
+  "en": {
+   "Diana Krall": 1
+  }
+ },
+ {
+  "key": "en:richardanthony",
+  "n": 1,
+  "ja": {
+   "リシャール・ アントニー": 1
+  },
+  "en": {
+   "Richard Anthony": 1
+  }
+ },
+ {
+  "key": "en:davemeniketti",
+  "n": 1,
+  "ja": {
+   "デイヴ・メニケッティ": 1
+  },
+  "en": {
+   "Dave Meniketti": 1
+  }
+ },
+ {
+  "key": "en:ivanlins",
+  "n": 1,
+  "ja": {
+   "イヴァン・リンス": 1
+  },
+  "en": {
+   "Ivan Lins": 1
+  }
+ },
+ {
+  "key": "en:jorgearagao",
+  "n": 1,
+  "ja": {
+   "ジョルジ・アラガォン": 1
+  },
+  "en": {
+   "Jorge Aragao": 1
+  }
+ },
+ {
+  "key": "en:vader",
+  "n": 1,
+  "ja": {
+   "ヴェイダー": 1
+  },
+  "en": {
+   "Vader": 1
+  }
+ },
+ {
+  "key": "en:vanmccoyandthesoulcitysymphony",
+  "n": 1,
+  "ja": {
+   "ヴァン・マッコイ＆ザ・ソウル・シティ・ シンフォニー": 1
+  },
+  "en": {
+   "Van Mccoy & The Soul City Symphony": 1
+  }
+ },
+ {
+  "key": "en:foofighters",
+  "n": 1,
+  "ja": {
+   "フー・ファイターズ": 1
+  },
+  "en": {
+   "Foo Fighters": 1
+  }
+ },
+ {
+  "key": "en:lupefiasco",
+  "n": 1,
+  "ja": {
+   "ルーペ・フィアスコ": 1
+  },
+  "en": {
+   "Lupe Fiasco": 1
+  }
+ },
+ {
+  "key": "en:stryper",
+  "n": 1,
+  "ja": {
+   "ストライパー": 1
+  },
+  "en": {
+   "Stryper": 1
+  }
+ },
+ {
+  "key": "en:paramore",
+  "n": 1,
+  "ja": {
+   "パラモア": 1
+  },
+  "en": {
+   "Paramore": 1
+  }
+ },
+ {
+  "key": "en:marcosvalle",
+  "n": 1,
+  "ja": {
+   "マルコス・ヴァーリ": 1
+  },
+  "en": {
+   "Marcos Valle": 1
+  }
+ },
+ {
+  "key": "en:elipaperboyreed",
+  "n": 1,
+  "ja": {
+   "イーライ・ペーパー・ボーイ・リード": 1
+  },
+  "en": {
+   "Eli Paperboy Reed": 1
+  }
+ },
+ {
+  "key": "en:habibkoiteandbamada",
+  "n": 1,
+  "ja": {
+   "アビブ・コワテ ＆ハマダ": 1
+  },
+  "en": {
+   "Habib Koite & Bamada": 1
+  }
+ },
+ {
+  "key": "en:3rdbass",
+  "n": 1,
+  "ja": {
+   "サード・ベース": 1
+  },
+  "en": {
+   "3rd Bass": 1
+  }
+ },
+ {
+  "key": "en:direstraits",
+  "n": 1,
+  "ja": {
+   "ダイアー・ストレイツ": 1
+  },
+  "en": {
+   "Dire Straits": 1
+  }
+ },
+ {
+  "key": "ja:abc",
+  "n": 1,
+  "ja": {
+   "ABC": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:skeeterdavis",
+  "n": 1,
+  "ja": {
+   "スキーター・ デイヴィス": 1
+  },
+  "en": {
+   "Skeeter Davis": 1
+  }
+ },
+ {
+  "key": "en:raconteurs",
+  "n": 1,
+  "ja": {
+   "ザ・ラカンターズ": 1
+  },
+  "en": {
+   "The Raconteurs": 1
+  }
+ },
+ {
+  "key": "en:cainsoffering",
+  "n": 1,
+  "ja": {
+   "ケインズ・ オファリング": 1
+  },
+  "en": {
+   "Cain's Offering": 1
+  }
+ },
+ {
+  "key": "en:berlin",
+  "n": 1,
+  "ja": {
+   "ベルリン": 1
+  },
+  "en": {
+   "Berlin": 1
+  }
+ },
+ {
+  "key": "en:ateens",
+  "n": 1,
+  "ja": {
+   "エー・ティーンズ": 1
+  },
+  "en": {
+   "ATeens": 1
+  }
+ },
+ {
+  "key": "en:valeria",
+  "n": 1,
+  "ja": {
+   "ヴァレリア": 1
+  },
+  "en": {
+   "Valeria": 1
+  }
+ },
+ {
+  "key": "en:everlast",
+  "n": 1,
+  "ja": {
+   "エヴァーラスト": 1
+  },
+  "en": {
+   "Everlast": 1
+  }
+ },
+ {
+  "key": "en:puddleofmudd",
+  "n": 1,
+  "ja": {
+   "パドル・オブ・マッド": 1
+  },
+  "en": {
+   "Puddle Of Mudd": 1
+  }
+ },
+ {
+  "key": "en:eighthwonder",
+  "n": 1,
+  "ja": {
+   "エース・ワンダー": 1
+  },
+  "en": {
+   "Eighth Wonder": 1
+  }
+ },
+ {
+  "key": "en:nevillebrothers",
+  "n": 1,
+  "ja": {
+   "ネヴィル・ ブラザーズ": 1
+  },
+  "en": {
+   "The Neville Brothers": 1
+  }
+ },
+ {
+  "key": "en:ultravox",
+  "n": 1,
+  "ja": {
+   "ウルトラヴォックス": 1
+  },
+  "en": {
+   "Ultravox": 1
+  }
+ },
+ {
+  "key": "en:kerihilson",
+  "n": 1,
+  "ja": {
+   "ケリー・ヒルソン": 1
+  },
+  "en": {
+   "Keri Hilson": 1
+  }
+ },
+ {
+  "key": "en:allamericanrejects",
+  "n": 1,
+  "ja": {
+   "オール・アメリカン・ リジェクツ": 1
+  },
+  "en": {
+   "The All-American Rejects": 1
+  }
+ },
+ {
+  "key": "en:lynyrdskynyrd",
+  "n": 1,
+  "ja": {
+   "レーナード・ スキナード": 1
+  },
+  "en": {
+   "Lynyrd Skynyrd": 1
+  }
+ },
+ {
+  "key": "en:arabesque",
+  "n": 1,
+  "ja": {
+   "アラベスク": 1
+  },
+  "en": {
+   "Arabesque": 1
+  }
+ },
+ {
+  "key": "en:elizethcardosoecyromonteiro",
+  "n": 1,
+  "ja": {
+   "エルゼッチ・ カルドーゾ＆ シロ・モンテイロ": 1
+  },
+  "en": {
+   "Elizeth Cardoso E Cyro Monteiro": 1
+  }
+ },
+ {
+  "key": "en:billysheehan",
+  "n": 1,
+  "ja": {
+   "ビリー・シーン": 1
+  },
+  "en": {
+   "Billy Sheehan": 1
+  }
+ },
+ {
+  "key": "en:riprigandpanic",
+  "n": 1,
+  "ja": {
+   "リップ・リグ＆ パニック": 1
+  },
+  "en": {
+   "Rip Rig & Panic": 1
+  }
+ },
+ {
+  "key": "en:elishalaverne",
+  "n": 1,
+  "ja": {
+   "エリーシャ・ ラヴァーン": 1
+  },
+  "en": {
+   "Elisha La'Verne": 1
+  }
+ },
+ {
+  "key": "en:dropkickmurphys",
+  "n": 1,
+  "ja": {
+   "ドロップキック・ マーフィーズ": 1
+  },
+  "en": {
+   "Dropkick Murphys": 1
+  }
+ },
+ {
+  "key": "en:mikeandthemechanics",
+  "n": 1,
+  "ja": {
+   "マイク＆ザ・メカニックス": 1
+  },
+  "en": {
+   "Mike+The Mechanics": 1
+  }
+ },
+ {
+  "key": "en:anvil",
+  "n": 1,
+  "ja": {
+   "アンヴィル": 1
+  },
+  "en": {
+   "Anvil": 1
+  }
+ },
+ {
+  "key": "en:loverboy",
+  "n": 1,
+  "ja": {
+   "ラヴァー・ボーイ": 1
+  },
+  "en": {
+   "Lover Boy": 1
+  }
+ },
+ {
+  "key": "en:trioesperanca",
+  "n": 1,
+  "ja": {
+   "トリオ・エスペランサ": 1
+  },
+  "en": {
+   "Trio Esperanca": 1
+  }
+ },
+ {
+  "key": "en:deviants",
+  "n": 1,
+  "ja": {
+   "ザ・デヴィアンツ": 1
+  },
+  "en": {
+   "The Deviants": 1
+  }
+ },
+ {
+  "key": "en:hieroglyphics",
+  "n": 1,
+  "ja": {
+   "ハイエログリフィクス": 1
+  },
+  "en": {
+   "Hieroglyphics": 1
+  }
+ },
+ {
+  "key": "en:tita",
+  "n": 1,
+  "ja": {
+   "チタ": 1
+  },
+  "en": {
+   "Tita": 1
+  }
+ },
+ {
+  "key": "en:jeffbeckgroup",
+  "n": 1,
+  "ja": {
+   "ジェフ・ベック・ グループ": 1
+  },
+  "en": {
+   "Jeff Beck Group": 1
+  }
+ },
+ {
+  "key": "en:paulweller",
+  "n": 1,
+  "ja": {
+   "ポール・ウェラー": 1
+  },
+  "en": {
+   "Paul Weller": 1
+  }
+ },
+ {
+  "key": "ja:mc5",
+  "n": 1,
+  "ja": {
+   "MC5": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:trivium",
+  "n": 1,
+  "ja": {
+   "トリヴィアム": 1
+  },
+  "en": {
+   "Trivium": 1
+  }
+ },
+ {
+  "key": "en:cameo",
+  "n": 1,
+  "ja": {
+   "キャメオ": 1
+  },
+  "en": {
+   "Cameo": 1
+  }
+ },
+ {
+  "key": "en:andypartridge",
+  "n": 1,
+  "ja": {
+   "アンディ・パートリッジ": 1
+  },
+  "en": {
+   "Andy Partridge": 1
+  }
+ },
+ {
+  "key": "en:maxipriest",
+  "n": 1,
+  "ja": {
+   "マキシ・プリースト": 1
+  },
+  "en": {
+   "Maxi Priest": 1
+  }
+ },
+ {
+  "key": "en:minnieriperton",
+  "n": 1,
+  "ja": {
+   "ミニー・リパートン": 1
+  },
+  "en": {
+   "Minnie Riperton": 1
+  }
+ },
+ {
+  "key": "en:justinbieberandseankingston",
+  "n": 1,
+  "ja": {
+   "ジャスティン・ ビーバー＆ ショーン・ キングストン": 1
+  },
+  "en": {
+   "Justin Bieber & Sean Kingston": 1
+  }
+ },
+ {
+  "key": "en:kellykeagy",
+  "n": 1,
+  "ja": {
+   "ケリー・ケイギー": 1
+  },
+  "en": {
+   "Kelly Keagy": 1
+  }
+ },
+ {
+  "key": "en:lordi",
+  "n": 1,
+  "ja": {
+   "ローディー": 1
+  },
+  "en": {
+   "Lordi": 1
+  }
+ },
+ {
+  "key": "en:andywilliams",
+  "n": 1,
+  "ja": {
+   "アンディ・ ウィリアムス": 1
+  },
+  "en": {
+   "Andy Williams": 1
+  }
+ },
+ {
+  "key": "en:neyo",
+  "n": 1,
+  "ja": {
+   "ニーヨ": 1
+  },
+  "en": {
+   "Ne-Yo": 1
+  }
+ },
+ {
+  "key": "en:crowdedhouse",
+  "n": 1,
+  "ja": {
+   "クラウデッド・ハウス": 1
+  },
+  "en": {
+   "Crowded House": 1
+  }
+ },
+ {
+  "key": "en:herbiehancock",
+  "n": 1,
+  "ja": {
+   "ハービー・ハンコック": 1
+  },
+  "en": {
+   "Herbie Hancock": 1
+  }
+ },
+ {
+  "key": "en:vonbondies",
+  "n": 1,
+  "ja": {
+   "ザ・ヴォン・ ボンディーズ": 1
+  },
+  "en": {
+   "The Von Bondies": 1
+  }
+ },
+ {
+  "key": "en:domenica",
+  "n": 1,
+  "ja": {
+   "ドメニカ": 1
+  },
+  "en": {
+   "Domenica": 1
+  }
+ },
+ {
+  "key": "en:snoopdoggydogg",
+  "n": 1,
+  "ja": {
+   "スヌープ・ドギー・ ドッグ": 1
+  },
+  "en": {
+   "Snoop Doggy Dogg": 1
+  }
+ },
+ {
+  "key": "en:bjorkandtriogudmundar",
+  "n": 1,
+  "ja": {
+   "ビョーク＆トリオ・ グズムンダル": 1
+  },
+  "en": {
+   "Bjork and Trio Gudmundar": 1
+  }
+ },
+ {
+  "key": "en:vandergraafgenerator",
+  "n": 1,
+  "ja": {
+   "ヴァンダーグラフ ジェネレイター": 1
+  },
+  "en": {
+   "Van Der Graaf Generator": 1
+  }
+ },
+ {
+  "key": "en:wildhearts",
+  "n": 1,
+  "ja": {
+   "ザ・ワイルドハーツ": 1
+  },
+  "en": {
+   "The Wildhearts": 1
+  }
+ },
+ {
+  "key": "en:toninhohorta",
+  "n": 1,
+  "ja": {
+   "トニーニョ・オルタ": 1
+  },
+  "en": {
+   "Toninho Horta": 1
+  }
+ },
+ {
+  "key": "en:grassroots",
+  "n": 1,
+  "ja": {
+   "グラス・ルーツ": 1
+  },
+  "en": {
+   "The Grass Roots": 1
+  }
+ },
+ {
+  "key": "en:mariarita",
+  "n": 1,
+  "ja": {
+   "マリア・ヒタ": 1
+  },
+  "en": {
+   "Maria Rita": 1
+  }
+ },
+ {
+  "key": "ja:クレモンティヌ(clementine)",
+  "n": 1,
+  "ja": {
+   "クレモンティーヌ(Clementine),": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:davidbisbal",
+  "n": 1,
+  "ja": {
+   "ダビッド・ビスバル": 1
+  },
+  "en": {
+   "David Bisbal": 1
+  }
+ },
+ {
+  "key": "en:herbiehancockfeaturingjonnylangandjossstone",
+  "n": 1,
+  "ja": {
+   "ハービー・ ハンコック feat. . ジョニー・ラング＆ジョス・ストーン": 1
+  },
+  "en": {
+   "Herbie Hancock featuring Jonny Lang&Joss Stone": 1
+  }
+ },
+ {
+  "key": "en:arsonistsgetallthegirls",
+  "n": 1,
+  "ja": {
+   "アーソニスツ・ゲット・ オール・ザ・ガールズ": 1
+  },
+  "en": {
+   "Arsonists Get All The Girls": 1
+  }
+ },
+ {
+  "key": "en:zuco103",
+  "n": 1,
+  "ja": {
+   "スーコ１０３": 1
+  },
+  "en": {
+   "Zuco 103": 1
+  }
+ },
+ {
+  "key": "en:wayneshorter",
+  "n": 1,
+  "ja": {
+   "ウェイン・ショーター": 1
+  },
+  "en": {
+   "Wayne Shorter": 1
+  }
+ },
+ {
+  "key": "en:petshopboys",
+  "n": 1,
+  "ja": {
+   "ペット・ショップ・ボーイズ": 1
+  },
+  "en": {
+   "Pet Shop Boys": 1
+  }
+ },
+ {
+  "key": "en:averagewhiteband",
+  "n": 1,
+  "ja": {
+   "アヴェレイジ・ ホワイト・バンド": 1
+  },
+  "en": {
+   "Average White Band": 1
+  }
+ },
+ {
+  "key": "en:mew",
+  "n": 1,
+  "ja": {
+   "ミュー": 1
+  },
+  "en": {
+   "Mew": 1
+  }
+ },
+ {
+  "key": "en:burningspear",
+  "n": 1,
+  "ja": {
+   "バーニング・スピアー": 1
+  },
+  "en": {
+   "Burning Spear": 1
+  }
+ },
+ {
+  "key": "en:masterplan",
+  "n": 1,
+  "ja": {
+   "マスター・プラン": 1
+  },
+  "en": {
+   "Masterplan": 1
+  }
+ },
+ {
+  "key": "en:bobbywomack",
+  "n": 1,
+  "ja": {
+   "ボビー・ウーマック": 1
+  },
+  "en": {
+   "Bobby Womack": 1
+  }
+ },
+ {
+  "key": "en:hocuspocus",
+  "n": 1,
+  "ja": {
+   "ホーカス・ポーカス": 1
+  },
+  "en": {
+   "Hocus Pocus": 1
+  }
+ },
+ {
+  "key": "en:littlefeat",
+  "n": 1,
+  "ja": {
+   "リトル・フィート": 1
+  },
+  "en": {
+   "Little Feat": 1
+  }
+ },
+ {
+  "key": "ja:ガンズアンドロゼズ(gunsnroses)",
+  "n": 1,
+  "ja": {
+   "ガンズ・アンド・ ローゼズ (Guns N' Roses),": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:amen",
+  "n": 1,
+  "ja": {
+   "エイメン": 1
+  },
+  "en": {
+   "Amen": 1
+  }
+ },
+ {
+  "key": "en:davidbenoit",
+  "n": 1,
+  "ja": {
+   "デビッド・ベノワ": 1
+  },
+  "en": {
+   "David Benoit": 1
+  }
+ },
+ {
+  "key": "en:bennymore",
+  "n": 1,
+  "ja": {
+   "ベニー・モレー": 1
+  },
+  "en": {
+   "Benny More": 1
+  }
+ },
+ {
+  "key": "en:zeno",
+  "n": 1,
+  "ja": {
+   "ジーノ": 1
+  },
+  "en": {
+   "Zeno": 1
+  }
+ },
+ {
+  "key": "en:delshannon",
+  "n": 1,
+  "ja": {
+   "デル・シャノン": 1
+  },
+  "en": {
+   "Del Shannon": 1
+  }
+ },
+ {
+  "key": "en:erykahbadu",
+  "n": 1,
+  "ja": {
+   "エリカ・バドゥ": 1
+  },
+  "en": {
+   "Erykah Badu": 1
+  }
+ },
+ {
+  "key": "en:metronomy",
+  "n": 1,
+  "ja": {
+   "メトロノミー": 1
+  },
+  "en": {
+   "Metronomy": 1
+  }
+ },
+ {
+  "key": "en:bobmarley",
+  "n": 1,
+  "ja": {
+   "ボブ・マーリー": 1
+  },
+  "en": {
+   "Bob Marley": 1
+  }
+ },
+ {
+  "key": "en:oakenfold",
+  "n": 1,
+  "ja": {
+   "オークンフォールド": 1
+  },
+  "en": {
+   "Oakenfold": 1
+  }
+ },
+ {
+  "key": "en:villagepeople",
+  "n": 1,
+  "ja": {
+   "ヴィレッジ・ピープル": 1
+  },
+  "en": {
+   "Village People": 1
+  }
+ },
+ {
+  "key": "en:professorlonghair",
+  "n": 1,
+  "ja": {
+   "プロフェッサー・ ロング・ヘア": 1
+  },
+  "en": {
+   "Professor Longhair": 1
+  }
+ },
+ {
+  "key": "en:rollingstone",
+  "n": 1,
+  "ja": {
+   "ザ・ローリング・ ストーンズ": 1
+  },
+  "en": {
+   "The Rolling Stone": 1
+  }
+ },
+ {
+  "key": "en:cows",
+  "n": 1,
+  "ja": {
+   "カウズ": 1
+  },
+  "en": {
+   "Cows": 1
+  }
+ },
+ {
+  "key": "en:ultramagneticmcs",
+  "n": 1,
+  "ja": {
+   "ウルトラマグネ ティック・MCズ": 1
+  },
+  "en": {
+   "Ultramagnetic Mc's": 1
+  }
+ },
+ {
+  "key": "en:colinblunstone",
+  "n": 1,
+  "ja": {
+   "コリン・ ブランストーン": 1
+  },
+  "en": {
+   "Colin Blunstone": 1
+  }
+ },
+ {
+  "key": "en:crash",
+  "n": 1,
+  "ja": {
+   "ザ・クラッシュ": 1
+  },
+  "en": {
+   "The Crash": 1
+  }
+ },
+ {
+  "key": "en:athena",
+  "n": 1,
+  "ja": {
+   "アテナ": 1
+  },
+  "en": {
+   "Athena": 1
+  }
+ },
+ {
+  "key": "en:matiabazar",
+  "n": 1,
+  "ja": {
+   "マティア・バザール": 1
+  },
+  "en": {
+   "Matia Bazar": 1
+  }
+ },
+ {
+  "key": "en:bobbysolo",
+  "n": 1,
+  "ja": {
+   "ボビー・ソロ": 1
+  },
+  "en": {
+   "Bobby Solo": 1
+  }
+ },
+ {
+  "key": "en:samanddave",
+  "n": 1,
+  "ja": {
+   "サム＆デイブ": 1
+  },
+  "en": {
+   "Sam&Dave": 1
+  }
+ },
+ {
+  "key": "en:asiandubfoundation",
+  "n": 1,
+  "ja": {
+   "エイジアン・ダヴ・ ファウンデイション": 1
+  },
+  "en": {
+   "Asian Dub Foundation": 1
+  }
+ },
+ {
+  "key": "en:sydbarrett",
+  "n": 1,
+  "ja": {
+   "シド・バレット": 1
+  },
+  "en": {
+   "Syd Barrett": 1
+  }
+ },
+ {
+  "key": "ja:レディオヘッドradiohead",
+  "n": 1,
+  "ja": {
+   "レディオヘッドRadiohead": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:stephenbishop",
+  "n": 1,
+  "ja": {
+   "スティーブン・ ビショップ": 1
+  },
+  "en": {
+   "Stephen Bishop": 1
+  }
+ },
+ {
+  "key": "en:shampoo",
+  "n": 1,
+  "ja": {
+   "シャンプー": 1
+  },
+  "en": {
+   "Shampoo": 1
+  }
+ },
+ {
+  "key": "en:leonware",
+  "n": 1,
+  "ja": {
+   "リオン・ウェア": 1
+  },
+  "en": {
+   "Leon Ware": 1
+  }
+ },
+ {
+  "key": "en:deftones",
+  "n": 1,
+  "ja": {
+   "デフトーンズ": 1
+  },
+  "en": {
+   "Deftones": 1
+  }
+ },
+ {
+  "key": "en:rundmc",
+  "n": 1,
+  "ja": {
+   "ラン・ＤＭＣ": 1
+  },
+  "en": {
+   "Run D.M.C.": 1
+  }
+ },
+ {
+  "key": "en:teenamarie",
+  "n": 1,
+  "ja": {
+   "ティーナ・マリー": 1
+  },
+  "en": {
+   "Teena Marie": 1
+  }
+ },
+ {
+  "key": "en:savagecircus",
+  "n": 1,
+  "ja": {
+   "サヴェージ・サーカス": 1
+  },
+  "en": {
+   "Savage Circus": 1
+  }
+ },
+ {
+  "key": "en:claudinelonget",
+  "n": 1,
+  "ja": {
+   "クロディーヌ・ ロンジェ": 1
+  },
+  "en": {
+   "Claudine Longet": 1
+  }
+ },
+ {
+  "key": "en:peterockandclsmooth",
+  "n": 1,
+  "ja": {
+   "ピート・ロック＆ CLスムース": 1
+  },
+  "en": {
+   "Pete Rock & CL Smooth": 1
+  }
+ },
+ {
+  "key": "en:juniormurvin",
+  "n": 1,
+  "ja": {
+   "ジュニア・マーヴィン": 1
+  },
+  "en": {
+   "Junior Murvin": 1
+  }
+ },
+ {
+  "key": "en:youthoftoday",
+  "n": 1,
+  "ja": {
+   "ユース・オブ・トゥデイ": 1
+  },
+  "en": {
+   "Youth Of Today": 1
+  }
+ },
+ {
+  "key": "en:dizzymizzlizzy",
+  "n": 1,
+  "ja": {
+   "ディジー・ミズ・リジー": 1
+  },
+  "en": {
+   "Dizzy Mizz Lizzy": 1
+  }
+ },
+ {
+  "key": "en:hives",
+  "n": 1,
+  "ja": {
+   "ハイヴス": 1
+  },
+  "en": {
+   "The Hives": 1
+  }
+ },
+ {
+  "key": "en:kasabian",
+  "n": 1,
+  "ja": {
+   "カサビアン": 1
+  },
+  "en": {
+   "Kasabian": 1
+  }
+ },
+ {
+  "key": "en:angel",
+  "n": 1,
+  "ja": {
+   "エンジェル": 1
+  },
+  "en": {
+   "Angel": 1
+  }
+ },
+ {
+  "key": "en:softmachine",
+  "n": 1,
+  "ja": {
+   "ソフト・マシーン": 1
+  },
+  "en": {
+   "Soft Machine": 1
+  }
+ },
+ {
+  "key": "en:coheedandcambria",
+  "n": 1,
+  "ja": {
+   "コヒード・アンド・ カンブリア": 1
+  },
+  "en": {
+   "Coheed & Cambria": 1
+  }
+ },
+ {
+  "key": "en:fairwarning",
+  "n": 1,
+  "ja": {
+   "フェア・ウォーニング": 1
+  },
+  "en": {
+   "Fair Warning": 1
+  }
+ },
+ {
+  "key": "en:bobbyvinton",
+  "n": 1,
+  "ja": {
+   "ボビー・ヴィントン": 1
+  },
+  "en": {
+   "Bobby Vinton": 1
+  }
+ },
+ {
+  "key": "en:donmclean",
+  "n": 1,
+  "ja": {
+   "ドン・マクリーン": 1
+  },
+  "en": {
+   "Don McLean": 1
+  }
+ },
+ {
+  "key": "en:jayzandlinkinpark",
+  "n": 1,
+  "ja": {
+   "ジェイ・Z／リンキン・パーク": 1
+  },
+  "en": {
+   "Jay-Z And Linkin Park": 1
+  }
+ },
+ {
+  "key": "en:ludacris",
+  "n": 1,
+  "ja": {
+   "リュダクリス": 1
+  },
+  "en": {
+   "Ludacris": 1
+  }
+ },
+ {
+  "key": "en:badcompany",
+  "n": 1,
+  "ja": {
+   "バッド・カンパニー": 1
+  },
+  "en": {
+   "Bad Company": 1
+  }
+ },
+ {
+  "key": "en:tool",
+  "n": 1,
+  "ja": {
+   "トゥール": 1
+  },
+  "en": {
+   "Tool": 1
+  }
+ },
+ {
+  "key": "en:kaoma",
+  "n": 1,
+  "ja": {
+   "カオマ": 1
+  },
+  "en": {
+   "Kaoma": 1
+  }
+ },
+ {
+  "key": "en:micaparis",
+  "n": 1,
+  "ja": {
+   "ミーシャ・パリス": 1
+  },
+  "en": {
+   "Mica Paris": 1
+  }
+ },
+ {
+  "key": "en:jamestaylor",
+  "n": 1,
+  "ja": {
+   "ジェイムス・テイラー": 1
+  },
+  "en": {
+   "James Taylor": 1
+  }
+ },
+ {
+  "key": "en:pogues",
+  "n": 1,
+  "ja": {
+   "ザ・ポーグス": 1
+  },
+  "en": {
+   "The Pogues": 1
+  }
+ },
+ {
+  "key": "en:sonnyj",
+  "n": 1,
+  "ja": {
+   "サニー・Ｊ": 1
+  },
+  "en": {
+   "Sonny J": 1
+  }
+ },
+ {
+  "key": "en:reelbigfish",
+  "n": 1,
+  "ja": {
+   "リール・ビッグ・ フィッシュ": 1
+  },
+  "en": {
+   "Reel Big Fish": 1
+  }
+ },
+ {
+  "key": "en:carolina",
+  "n": 1,
+  "ja": {
+   "カロリナ": 1
+  },
+  "en": {
+   "Carolina": 1
+  }
+ },
+ {
+  "key": "en:astrudgilbertoandwalterwanderley",
+  "n": 1,
+  "ja": {
+   "アストラッド・ ジルベルト＆ ワルター・ワンダレイ": 1
+  },
+  "en": {
+   "Astrud Gilberto & Walter Wanderley": 1
+  }
+ },
+ {
+  "key": "en:scissorsisters",
+  "n": 1,
+  "ja": {
+   "シザー・シスターズ": 1
+  },
+  "en": {
+   "Scissor Sisters": 1
+  }
+ },
+ {
+  "key": "en:prettymaids",
+  "n": 1,
+  "ja": {
+   "プリティ・メイズ": 1
+  },
+  "en": {
+   "Pretty Maids": 1
+  }
+ },
+ {
+  "key": "ja:fun",
+  "n": 1,
+  "ja": {
+   "ＦＵＮ．": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:iangillanband",
+  "n": 1,
+  "ja": {
+   "イアン・ギラン・バンド": 1
+  },
+  "en": {
+   "Ian Gillan Band": 1
+  }
+ },
+ {
+  "key": "ja:ロリンヒル",
+  "n": 1,
+  "ja": {
+   "ローリン・ヒル": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:ジミヘンドリックスエクスペリエンス",
+  "n": 1,
+  "ja": {
+   "ジミ・ヘンドリックス・ エクスペリエンス": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:kansas",
+  "n": 1,
+  "ja": {
+   "カンサス": 1
+  },
+  "en": {
+   "Kansas": 1
+  }
+ },
+ {
+  "key": "en:13joursenfranceoriginalsoundtrack",
+  "n": 1,
+  "ja": {
+   "『白い恋人たち』OST": 1
+  },
+  "en": {
+   "13 Jours En France Original Soundtrack": 1
+  }
+ },
+ {
+  "key": "en:verve",
+  "n": 1,
+  "ja": {
+   "ザ・ヴァーヴ": 1
+  },
+  "en": {
+   "The Verve": 1
+  }
+ },
+ {
+  "key": "en:urbanspecies",
+  "n": 1,
+  "ja": {
+   "アーバン・ スピーシーズ": 1
+  },
+  "en": {
+   "Urban Species": 1
+  }
+ },
+ {
+  "key": "en:lenamachado",
+  "n": 1,
+  "ja": {
+   "レナ・マーシャド": 1
+  },
+  "en": {
+   "Lena Machado": 1
+  }
+ },
+ {
+  "key": "en:mightysparrow",
+  "n": 1,
+  "ja": {
+   "マイティー・スパロウ": 1
+  },
+  "en": {
+   "Mighty Sparrow": 1
+  }
+ },
+ {
+  "key": "en:unitedsupportofartistsforafrica",
+  "n": 1,
+  "ja": {
+   "USAフォー・アフリカ": 1
+  },
+  "en": {
+   "United Support Of Artists For Africa": 1
+  }
+ },
+ {
+  "key": "en:bangles",
+  "n": 1,
+  "ja": {
+   "バングルス": 1
+  },
+  "en": {
+   "Bangles": 1
+  }
+ },
+ {
+  "key": "en:paparoach",
+  "n": 1,
+  "ja": {
+   "パパ・ローチ": 1
+  },
+  "en": {
+   "Papa Roach": 1
+  }
+ },
+ {
+  "key": "en:carlinhosbrown",
+  "n": 1,
+  "ja": {
+   "カルリーニョス・ ブラウン": 1
+  },
+  "en": {
+   "Carlinhos Brown": 1
+  }
+ },
+ {
+  "key": "en:delfonics",
+  "n": 1,
+  "ja": {
+   "ザ・デルフォニックス": 1
+  },
+  "en": {
+   "The Delfonics": 1
+  }
+ },
+ {
+  "key": "en:hurts",
+  "n": 1,
+  "ja": {
+   "ハーツ": 1
+  },
+  "en": {
+   "Hurts": 1
+  }
+ },
+ {
+  "key": "en:leosayer",
+  "n": 1,
+  "ja": {
+   "レオ・セイヤー": 1
+  },
+  "en": {
+   "Leo Sayer": 1
+  }
+ },
+ {
+  "key": "en:pierrebarouhetfrancislai",
+  "n": 1,
+  "ja": {
+   "ピエール・バルー＆フランシス・レイ": 1
+  },
+  "en": {
+   "Pierre Barouh et Francis Lai": 1
+  }
+ },
+ {
+  "key": "en:johnnietaylor",
+  "n": 1,
+  "ja": {
+   "ジョニー・テイラー": 1
+  },
+  "en": {
+   "Johnnie Taylor": 1
+  }
+ },
+ {
+  "key": "en:starbuck",
+  "n": 1,
+  "ja": {
+   "スターバック": 1
+  },
+  "en": {
+   "Starbuck": 1
+  }
+ },
+ {
+  "key": "en:jellyfish",
+  "n": 1,
+  "ja": {
+   "ジェリー・フィッシュ": 1
+  },
+  "en": {
+   "Jellyfish": 1
+  }
+ },
+ {
+  "key": "en:samanthafox",
+  "n": 1,
+  "ja": {
+   "サマンサ・フォックス": 1
+  },
+  "en": {
+   "Samantha Fox": 1
+  }
+ },
+ {
+  "key": "en:deutschamerikanischefreundschaft",
+  "n": 1,
+  "ja": {
+   "ドイチュ= アメリカニシェ・ フロイントシャフト": 1
+  },
+  "en": {
+   "Deutsch Amerikanische Freundschaft": 1
+  }
+ },
+ {
+  "key": "en:vanessaparadis",
+  "n": 1,
+  "ja": {
+   "ヴァネッサ・パラディ": 1
+  },
+  "en": {
+   "Vanessa Paradis": 1
+  }
+ },
+ {
+  "key": "en:elisreginaandantoniocarlosjobin",
+  "n": 1,
+  "ja": {
+   "エリス・レジーナ＆ アントニオ・カルロス・ジョビン": 1
+  },
+  "en": {
+   "Elis Regina & Antonio Carlos Jobin": 1
+  }
+ },
+ {
+  "key": "en:mumfordandsons",
+  "n": 1,
+  "ja": {
+   "マムフォート＆ サンズ": 1
+  },
+  "en": {
+   "Mumford & Sons": 1
+  }
+ },
+ {
+  "key": "en:stylistics",
+  "n": 1,
+  "ja": {
+   "スタイリスティックス": 1
+  },
+  "en": {
+   "The Stylistics": 1
+  }
+ },
+ {
+  "key": "en:fosterthepeople",
+  "n": 1,
+  "ja": {
+   "フォスター・ザ・ ピープル": 1
+  },
+  "en": {
+   "Foster The People": 1
+  }
+ },
+ {
+  "key": "en:blo",
+  "n": 1,
+  "ja": {
+   "ブロー": 1
+  },
+  "en": {
+   "Blo": 1
+  }
+ },
+ {
+  "key": "en:compaysegundo",
+  "n": 1,
+  "ja": {
+   "コンパイ・セグンド": 1
+  },
+  "en": {
+   "Compay Segundo": 1
+  }
+ },
+ {
+  "key": "en:bobmarleyandthewailers",
+  "n": 1,
+  "ja": {
+   "ボブ・マーリィ・アンド・ザ・ウェイラーズ": 1
+  },
+  "en": {
+   "Bob Marley & The Wailers": 1
+  }
+ },
+ {
+  "key": "en:knack",
+  "n": 1,
+  "ja": {
+   "ザ・ナック": 1
+  },
+  "en": {
+   "The Knack": 1
+  }
+ },
+ {
+  "key": "en:weatherreport",
+  "n": 1,
+  "ja": {
+   "ウェザー・リポート": 1
+  },
+  "en": {
+   "Weather Report": 1
+  }
+ },
+ {
+  "key": "en:anthonyhamilton",
+  "n": 1,
+  "ja": {
+   "アンソニー・ ハミルトン": 1
+  },
+  "en": {
+   "Anthony Hamilton": 1
+  }
+ },
+ {
+  "key": "en:frankievalli",
+  "n": 1,
+  "ja": {
+   "フランキー・ヴァリ": 1
+  },
+  "en": {
+   "Frankie Valli": 1
+  }
+ },
+ {
+  "key": "en:alcatrazz",
+  "n": 1,
+  "ja": {
+   "アルカトラス": 1
+  },
+  "en": {
+   "Alcatrazz": 1
+  }
+ },
+ {
+  "key": "en:wanted",
+  "n": 1,
+  "ja": {
+   "ザ・ウォンテッド": 1
+  },
+  "en": {
+   "The Wanted": 1
+  }
+ },
+ {
+  "key": "en:jacquelinetaieb",
+  "n": 1,
+  "ja": {
+   "ジャクリーヌ・ タイエブ": 1
+  },
+  "en": {
+   "Jacqueline Taieb": 1
+  }
+ },
+ {
+  "key": "en:belleandsebastian",
+  "n": 1,
+  "ja": {
+   "ベル・アンド・ セバスチャン": 1
+  },
+  "en": {
+   "Belle And Sebastian": 1
+  }
+ },
+ {
+  "key": "en:peggylee",
+  "n": 1,
+  "ja": {
+   "ペギー・リー": 1
+  },
+  "en": {
+   "Peggy Lee": 1
+  }
+ },
+ {
+  "key": "en:henrykaiseranddavidlindley",
+  "n": 1,
+  "ja": {
+   "ヘンリー・カイザー ＆ デヴィッド・リンドレー": 1
+  },
+  "en": {
+   "Henry Kaiser & David Lindley": 1
+  }
+ },
+ {
+  "key": "en:lilyallen",
+  "n": 1,
+  "ja": {
+   "リリー・アレン": 1
+  },
+  "en": {
+   "Lily Allen": 1
+  }
+ },
+ {
+  "key": "en:michellegrand",
+  "n": 1,
+  "ja": {
+   "ミシェル・ルグラン": 1
+  },
+  "en": {
+   "Michel Legrand": 1
+  }
+ },
+ {
+  "key": "en:mercedessosa",
+  "n": 1,
+  "ja": {
+   "メルセデス・ソーサ": 1
+  },
+  "en": {
+   "Mercedes Sosa": 1
+  }
+ },
+ {
+  "key": "en:stonetemplepilots",
+  "n": 1,
+  "ja": {
+   "ストーン・テンプル・パイロッツ": 1
+  },
+  "en": {
+   "Stone Temple Pilots": 1
+  }
+ },
+ {
+  "key": "en:barbrastreisand",
+  "n": 1,
+  "ja": {
+   "バーブラ・ ストライザンド": 1
+  },
+  "en": {
+   "Barbra Streisand": 1
+  }
+ },
+ {
+  "key": "en:elviscostello",
+  "n": 1,
+  "ja": {
+   "エルヴィス・コステロ": 1
+  },
+  "en": {
+   "Elvis Costello": 1
+  }
+ },
+ {
+  "key": "en:michaelnesmithandthefirstnationalband",
+  "n": 1,
+  "ja": {
+   "マイケル・ネスミス＆ザ・ファースト・ ナショナル・バンド": 1
+  },
+  "en": {
+   "Michael Nesmith & The First National Band": 1
+  }
+ },
+ {
+  "key": "ja:リッキマティン",
+  "n": 1,
+  "ja": {
+   "リッキー・マーティン": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:bjorkandtriogumundaringolfssonar",
+  "n": 1,
+  "ja": {
+   "ビョーク＆トリオ・ グズマンダル・ イングロフソナール": 1
+  },
+  "en": {
+   "Bjork And Tríó Guðmundar Ingólfssonar": 1
+  }
+ },
+ {
+  "key": "en:danielevidal",
+  "n": 1,
+  "ja": {
+   "ダニエル・ビダル": 1
+  },
+  "en": {
+   "Daniele Vidal": 1
+  }
+ },
+ {
+  "key": "en:georgiasatellites",
+  "n": 1,
+  "ja": {
+   "ザ・ジョージア・ サテライツ": 1
+  },
+  "en": {
+   "The Georgia Satellites": 1
+  }
+ },
+ {
+  "key": "en:nickiminaj",
+  "n": 1,
+  "ja": {
+   "ニッキー・ミナージュ": 1
+  },
+  "en": {
+   "Nicki Minaj": 1
+  }
+ },
+ {
+  "key": "ja:mew",
+  "n": 1,
+  "ja": {
+   "MEW": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:ironsavior",
+  "n": 1,
+  "ja": {
+   "アイアン・ セイヴィアー": 1
+  },
+  "en": {
+   "Iron Savior": 1
+  }
+ },
+ {
+  "key": "en:mosdef",
+  "n": 1,
+  "ja": {
+   "モス・デフ": 1
+  },
+  "en": {
+   "Mos Def": 1
+  }
+ },
+ {
+  "key": "en:eternal",
+  "n": 1,
+  "ja": {
+   "エターナル": 1
+  },
+  "en": {
+   "Eternal": 1
+  }
+ },
+ {
+  "key": "en:dio",
+  "n": 1,
+  "ja": {
+   "ディオ": 1
+  },
+  "en": {
+   "Dio": 1
+  }
+ },
+ {
+  "key": "en:galcosta",
+  "n": 1,
+  "ja": {
+   "ガル・コスタ": 1
+  },
+  "en": {
+   "Gal Costa": 1
+  }
+ },
+ {
+  "key": "en:gulliver",
+  "n": 1,
+  "ja": {
+   "ガリヴァー": 1
+  },
+  "en": {
+   "Gulliver": 1
+  }
+ },
+ {
+  "key": "en:taylorswift",
+  "n": 1,
+  "ja": {
+   "テイラー・スウィフト": 1
+  },
+  "en": {
+   "Taylor Swift": 1
+  }
+ },
+ {
+  "key": "en:cartola",
+  "n": 1,
+  "ja": {
+   "カルトーラ": 1
+  },
+  "en": {
+   "Cartola": 1
+  }
+ },
+ {
+  "key": "en:bassekoukouyateandngoniba",
+  "n": 1,
+  "ja": {
+   "バセク・クヤーテ＆ ンゴーニ・バ": 1
+  },
+  "en": {
+   "Bassekou Kouyate And Ngoni Ba": 1
+  }
+ },
+ {
+  "key": "en:trashcansinatras",
+  "n": 1,
+  "ja": {
+   "トラッシュキャン・ シナトラズ": 1
+  },
+  "en": {
+   "Trashcan Sinatras": 1
+  }
+ },
+ {
+  "key": "en:chase",
+  "n": 1,
+  "ja": {
+   "チェイス": 1
+  },
+  "en": {
+   "Chase": 1
+  }
+ },
+ {
+  "key": "en:pitbullfeattpainandseanpaul",
+  "n": 1,
+  "ja": {
+   "ピットブル feat T-Pain ショーン・ ポール": 1
+  },
+  "en": {
+   "Pitbull feat. T-Pain & Sean Paul": 1
+  }
+ },
+ {
+  "key": "en:us3",
+  "n": 1,
+  "ja": {
+   "アススリー": 1
+  },
+  "en": {
+   "Us3": 1
+  }
+ },
+ {
+  "key": "en:dreadzeppelin",
+  "n": 1,
+  "ja": {
+   "ドレッド・ツェッペリン": 1
+  },
+  "en": {
+   "Dread Zeppelin": 1
+  }
+ },
+ {
+  "key": "en:louane",
+  "n": 1,
+  "ja": {
+   "ルアンヌ": 1
+  },
+  "en": {
+   "Louane": 1
+  }
+ },
+ {
+  "key": "en:pitbull",
+  "n": 1,
+  "ja": {
+   "ピットブル": 1
+  },
+  "en": {
+   "Pitbull": 1
+  }
+ },
+ {
+  "key": "en:candeia",
+  "n": 1,
+  "ja": {
+   "カンデイア": 1
+  },
+  "en": {
+   "Candeia": 1
+  }
+ },
+ {
+  "key": "en:lasonoramatancera",
+  "n": 1,
+  "ja": {
+   "ラ・ソノラ・ マタンセーラ": 1
+  },
+  "en": {
+   "La Sonora Matancera": 1
+  }
+ },
+ {
+  "key": "en:papawemba",
+  "n": 1,
+  "ja": {
+   "パパ・ウェンバ": 1
+  },
+  "en": {
+   "Papa Wemba": 1
+  }
+ },
+ {
+  "key": "en:eminemfeatrbxandstickyfingaz",
+  "n": 1,
+  "ja": {
+   "エミネム フィーチャリング・RBX・アンド・ スティッキー・ フィンガーズ": 1
+  },
+  "en": {
+   "Eminem feat. RBX & Sticky Fingaz": 1
+  }
+ },
+ {
+  "key": "en:aura",
+  "n": 1,
+  "ja": {
+   "オラ": 1
+  },
+  "en": {
+   "Aura": 1
+  }
+ },
+ {
+  "key": "en:vaughanmasonandcrew",
+  "n": 1,
+  "ja": {
+   "ヴォーン・メイソン ＆クルー": 1
+  },
+  "en": {
+   "Vaughan Mason ＆Crew": 1
+  }
+ },
+ {
+  "key": "en:avaluna",
+  "n": 1,
+  "ja": {
+   "アヴァ・ルナ": 1
+  },
+  "en": {
+   "Ava Luna": 1
+  }
+ },
+ {
+  "key": "ja:デングフィヴァ",
+  "n": 1,
+  "ja": {
+   "デング・フィーヴァー": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "ja:スタイミング",
+  "n": 1,
+  "ja": {
+   "スタイミング": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:geniusgza",
+  "n": 1,
+  "ja": {
+   "ジニアス/GZA": 1
+  },
+  "en": {
+   "Genius/Gza": 1
+  }
+ },
+ {
+  "key": "en:superfurryanimals",
+  "n": 1,
+  "ja": {
+   "スーパー・ ファーリー・ アニマルズ": 1
+  },
+  "en": {
+   "Super Furry Animals": 1
+  }
+ },
+ {
+  "key": "en:bread",
+  "n": 1,
+  "ja": {
+   "ブレッド": 1
+  },
+  "en": {
+   "Bread": 1
+  }
+ },
+ {
+  "key": "en:taniamaria",
+  "n": 1,
+  "ja": {
+   "タニア・マニア": 1
+  },
+  "en": {
+   "Tania Maria": 1
+  }
+ },
+ {
+  "key": "en:chicoscienceandnacaozumbi",
+  "n": 1,
+  "ja": {
+   "シコ・サイエンス＆ナサォン・ズンビ": 1
+  },
+  "en": {
+   "Chico Science & Nação Zumbi": 1
+  }
+ },
+ {
+  "key": "en:newcoolcollectivebigband",
+  "n": 1,
+  "ja": {
+   "ニュー・クール・ コレクティヴ・ ビッグバンド": 1
+  },
+  "en": {
+   "New Cool Collective Big Band": 1
+  }
+ },
+ {
+  "key": "en:lipps",
+  "n": 1,
+  "ja": {
+   "リップス": 1
+  },
+  "en": {
+   "Lipps": 1
+  }
+ },
+ {
+  "key": "en:rootsftmosdefandstylesp",
+  "n": 1,
+  "ja": {
+   "ザ・ルーツfeat. モス・デフ＆ スタイルズ": 1
+  },
+  "en": {
+   "The Roots Ft. Mos Def & Styles P": 1
+  }
+ },
+ {
+  "key": "en:neilyoung",
+  "n": 1,
+  "ja": {
+   "ニール・ヤング": 1
+  },
+  "en": {
+   "Neil Young": 1
+  }
+ },
+ {
+  "key": "en:loleattaholloway",
+  "n": 1,
+  "ja": {
+   "ロレッタ・ハロウェイ": 1
+  },
+  "en": {
+   "Loleatta Holloway": 1
+  }
+ },
+ {
+  "key": "en:heavy",
+  "n": 1,
+  "ja": {
+   "ザ・ヘヴィー": 1
+  },
+  "en": {
+   "The Heavy": 1
+  }
+ },
+ {
+  "key": "en:killers",
+  "n": 1,
+  "ja": {
+   "ザ・キラーズ": 1
+  },
+  "en": {
+   "The Killers": 1
+  }
+ },
+ {
+  "key": "en:faces",
+  "n": 1,
+  "ja": {
+   "フェイセズ": 1
+  },
+  "en": {
+   "Faces": 1
+  }
+ },
+ {
+  "key": "en:pierrevallet",
+  "n": 1,
+  "ja": {
+   "ピエール・バルー": 1
+  },
+  "en": {
+   "Pierre Vallet": 1
+  }
+ },
+ {
+  "key": "en:qemists",
+  "n": 1,
+  "ja": {
+   "ザ・ケミスツ": 1
+  },
+  "en": {
+   "The Qemists": 1
+  }
+ },
+ {
+  "key": "ja:ccr",
+  "n": 1,
+  "ja": {
+   "CCR": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:koolgrap",
+  "n": 1,
+  "ja": {
+   "クール・Ｇ・ラップ": 1
+  },
+  "en": {
+   "Kool G Rap": 1
+  }
+ },
+ {
+  "key": "en:heart",
+  "n": 1,
+  "ja": {
+   "ハート": 1
+  },
+  "en": {
+   "Heart": 1
+  }
+ },
+ {
+  "key": "en:reginaspektor",
+  "n": 1,
+  "ja": {
+   "レジーナ・スペクター": 1
+  },
+  "en": {
+   "Regina Spektor": 1
+  }
+ },
+ {
+  "key": "en:burzum",
+  "n": 1,
+  "ja": {
+   "バーズム": 1
+  },
+  "en": {
+   "Burzum": 1
+  }
+ },
+ {
+  "key": "en:akon",
+  "n": 1,
+  "ja": {
+   "エイコン": 1
+  },
+  "en": {
+   "Akon": 1
+  }
+ },
+ {
+  "key": "en:movingpictures",
+  "n": 1,
+  "ja": {
+   "ムーヴィング・ ピクチャーズ": 1
+  },
+  "en": {
+   "Moving Pictures": 1
+  }
+ },
+ {
+  "key": "ja:アガペ(agepê)※放送ではラスカマゥン",
+  "n": 1,
+  "ja": {
+   "アガペ (Agepê) ※放送では 「ラスカマゥン」": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:avalanches",
+  "n": 1,
+  "ja": {
+   "アヴァランチーズ": 1
+  },
+  "en": {
+   "The Avalanches": 1
+  }
+ },
+ {
+  "key": "en:exodus",
+  "n": 1,
+  "ja": {
+   "エクソダス": 1
+  },
+  "en": {
+   "Exodus": 1
+  }
+ },
+ {
+  "key": "en:kealiireichel",
+  "n": 1,
+  "ja": {
+   "ケアリイ・レイジェル": 1
+  },
+  "en": {
+   "Keali'i Reichel": 1
+  }
+ },
+ {
+  "key": "en:justinbieber",
+  "n": 1,
+  "ja": {
+   "ジャスティン・ ビーバー": 1
+  },
+  "en": {
+   "Justin Bieber": 1
+  }
+ },
+ {
+  "key": "en:sergiomendesandbrasil66",
+  "n": 1,
+  "ja": {
+   "セルジオ・メンデスとブラジル'66": 1
+  },
+  "en": {
+   "Sergio Mendes & Brasil '66": 1
+  }
+ },
+ {
+  "key": "en:blindfaith",
+  "n": 1,
+  "ja": {
+   "ブラインド・フェイス": 1
+  },
+  "en": {
+   "Blind Faith": 1
+  }
+ },
+ {
+  "key": "en:pjharvey",
+  "n": 1,
+  "ja": {
+   "PJハーヴェイ": 1
+  },
+  "en": {
+   "PJ Harvey": 1
+  }
+ },
+ {
+  "key": "en:femikuti",
+  "n": 1,
+  "ja": {
+   "フェミ・クティ": 1
+  },
+  "en": {
+   "Femi Kuti": 1
+  }
+ },
+ {
+  "key": "en:karynwhite",
+  "n": 1,
+  "ja": {
+   "キャリン・ホワイト": 1
+  },
+  "en": {
+   "Karyn White": 1
+  }
+ },
+ {
+  "key": "en:milesdavisandrobertglasper",
+  "n": 1,
+  "ja": {
+   "マイルス・デイビス ＆ ロバート・グラスパー": 1
+  },
+  "en": {
+   "Miles Davis ＆ Robert Glasper": 1
+  }
+ },
+ {
+  "key": "en:entombed",
+  "n": 1,
+  "ja": {
+   "エントゥームド": 1
+  },
+  "en": {
+   "Entombed": 1
+  }
+ },
+ {
+  "key": "en:creedenceclearwaterrevival",
+  "n": 1,
+  "ja": {
+   "CCR": 1
+  },
+  "en": {
+   "Creedence Clearwater Revival": 1
+  }
+ },
+ {
+  "key": "en:vintagetrouble",
+  "n": 1,
+  "ja": {
+   "ヴィンテージ・ トラブル": 1
+  },
+  "en": {
+   "Vintage Trouble": 1
+  }
+ },
+ {
+  "key": "en:city",
+  "n": 1,
+  "ja": {
+   "シティ": 1
+  },
+  "en": {
+   "The City": 1
+  }
+ },
+ {
+  "key": "ja:arラフマン(allahrakkharahman)※ムトゥ踊るマハラジャost",
+  "n": 1,
+  "ja": {
+   "Ａ．Ｒ．ラフマーン (Allah Rakkha Rahman) ※「ムトゥ踊るマハラジャ」OST": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:funkybureau",
+  "n": 1,
+  "ja": {
+   "ファンキー・ ビューロー": 1
+  },
+  "en": {
+   "Funky Bureau": 1
+  }
+ },
+ {
+  "key": "en:sandpipers",
+  "n": 1,
+  "ja": {
+   "サンドパイパーズ": 1
+  },
+  "en": {
+   "The Sandpipers": 1
+  }
+ },
+ {
+  "key": "en:guru",
+  "n": 1,
+  "ja": {
+   "グールー": 1
+  },
+  "en": {
+   "Guru": 1
+  }
+ },
+ {
+  "key": "en:heartbeats",
+  "n": 1,
+  "ja": {
+   "ハートビーツ": 1
+  },
+  "en": {
+   "The Heartbeats": 1
+  }
+ },
+ {
+  "key": "en:juanamolina",
+  "n": 1,
+  "ja": {
+   "フアナ・モリーナ": 1
+  },
+  "en": {
+   "Juana Molina": 1
+  }
+ },
+ {
+  "key": "en:ministry",
+  "n": 1,
+  "ja": {
+   "ミニストリー": 1
+  },
+  "en": {
+   "Ministry": 1
+  }
+ },
+ {
+  "key": "en:haim",
+  "n": 1,
+  "ja": {
+   "ハイム": 1
+  },
+  "en": {
+   "Haim": 1
+  }
+ },
+ {
+  "key": "en:meghantrainor",
+  "n": 1,
+  "ja": {
+   "メーガン・トレイナー": 1
+  },
+  "en": {
+   "Meghan Trainor": 1
+  }
+ },
+ {
+  "key": "en:leedorsey",
+  "n": 1,
+  "ja": {
+   "リー・ドーシー": 1
+  },
+  "en": {
+   "Lee Dorsey": 1
+  }
+ },
+ {
+  "key": "en:jeanette",
+  "n": 1,
+  "ja": {
+   "ジャネット": 1
+  },
+  "en": {
+   "Jeanette": 1
+  }
+ },
+ {
+  "key": "en:mikeoldfield",
+  "n": 1,
+  "ja": {
+   "マイク・ オールドフィールド": 1
+  },
+  "en": {
+   "Mike Oldfield": 1
+  }
+ },
+ {
+  "key": "en:seekers",
+  "n": 1,
+  "ja": {
+   "シーカーズ": 1
+  },
+  "en": {
+   "The Seekers": 1
+  }
+ },
+ {
+  "key": "en:velvets",
+  "n": 1,
+  "ja": {
+   "ヴェルヴェッツ": 1
+  },
+  "en": {
+   "The Velvets": 1
+  }
+ },
+ {
+  "key": "en:ibrahimferrer",
+  "n": 1,
+  "ja": {
+   "イブライム・ フェレール": 1
+  },
+  "en": {
+   "Ibrahim Ferrer": 1
+  }
+ },
+ {
+  "key": "en:panicatthedisco",
+  "n": 1,
+  "ja": {
+   "パニック!アット・ザ・ディスコ": 1
+  },
+  "en": {
+   "Panic! At The Disco": 1
+  }
+ },
+ {
+  "key": "en:robzombie",
+  "n": 1,
+  "ja": {
+   "ロブ・ゾンビ": 1
+  },
+  "en": {
+   "Rob Zombie": 1
+  }
+ },
+ {
+  "key": "en:marvelettes",
+  "n": 1,
+  "ja": {
+   "マーヴェレッツ": 1
+  },
+  "en": {
+   "The Marvelettes": 1
+  }
+ },
+ {
+  "key": "en:jefflynne",
+  "n": 1,
+  "ja": {
+   "ジェフ・リン": 1
+  },
+  "en": {
+   "Jeff Lynne": 1
+  }
+ },
+ {
+  "key": "ja:ドゥビブラザズ(doobiebrotherss",
+  "n": 1,
+  "ja": {
+   "ドゥービー・ブラザーズ (Doobie Brothers s": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:ash",
+  "n": 1,
+  "ja": {
+   "アッシュ": 1
+  },
+  "en": {
+   "Ash": 1
+  }
+ },
+ {
+  "key": "en:cavaleraconspiracy",
+  "n": 1,
+  "ja": {
+   "カヴァレラ・ コンスピラシー": 1
+  },
+  "en": {
+   "Cavalera Conspiracy": 1
+  }
+ },
+ {
+  "key": "en:soweco",
+  "n": 1,
+  "ja": {
+   "ソウェコ": 1
+  },
+  "en": {
+   "Soweco": 1
+  }
+ },
+ {
+  "key": "en:klaxons",
+  "n": 1,
+  "ja": {
+   "クラクソンズ": 1
+  },
+  "en": {
+   "Klaxons": 1
+  }
+ },
+ {
+  "key": "en:speedsoulbrothers",
+  "n": 1,
+  "ja": {
+   "ザ・スピード・ソウル・ブラザーズ": 1
+  },
+  "en": {
+   "The Speed Soul Brothers": 1
+  }
+ },
+ {
+  "key": "en:kendricklamar",
+  "n": 1,
+  "ja": {
+   "ケンドリック・ラマー": 1
+  },
+  "en": {
+   "Kendrick Lamar": 1
+  }
+ },
+ {
+  "key": "en:kingtubby",
+  "n": 1,
+  "ja": {
+   "キング・タビー": 1
+  },
+  "en": {
+   "King Tubby": 1
+  }
+ },
+ {
+  "key": "en:madcobra",
+  "n": 1,
+  "ja": {
+   "マッド・コブラ": 1
+  },
+  "en": {
+   "Mad Cobra": 1
+  }
+ },
+ {
+  "key": "en:caillou",
+  "n": 1,
+  "ja": {
+   "カイユ": 1
+  },
+  "en": {
+   "Caillou": 1
+  }
+ },
+ {
+  "key": "en:dulcepontes",
+  "n": 1,
+  "ja": {
+   "ドゥルス・ポンテス": 1
+  },
+  "en": {
+   "Dulce Pontes": 1
+  }
+ },
+ {
+  "key": "en:chayanne",
+  "n": 1,
+  "ja": {
+   "チャヤン": 1
+  },
+  "en": {
+   "Chayanne": 1
+  }
+ },
+ {
+  "key": "en:avicii",
+  "n": 1,
+  "ja": {
+   "アヴィーチー": 1
+  },
+  "en": {
+   "Avicii": 1
+  }
+ },
+ {
+  "key": "en:pierreetdominiquebarouh",
+  "n": 1,
+  "ja": {
+   "ピエール・エ・ ドミニク・バルー": 1
+  },
+  "en": {
+   "Pierre Et Dominique Barouh": 1
+  }
+ },
+ {
+  "key": "en:banyenrakkaen",
+  "n": 1,
+  "ja": {
+   "バーンイェン・ ラーケン": 1
+  },
+  "en": {
+   "Banyen Rakkaen": 1
+  }
+ },
+ {
+  "key": "en:jaiwolf",
+  "n": 1,
+  "ja": {
+   "ジャイ・ウルフ": 1
+  },
+  "en": {
+   "Jai Wolf": 1
+  }
+ },
+ {
+  "key": "en:leonbridges",
+  "n": 1,
+  "ja": {
+   "レオン・ブリッジズ": 1
+  },
+  "en": {
+   "Leon Bridges": 1
+  }
+ },
+ {
+  "key": "en:tompettyandtheheartbreakers",
+  "n": 1,
+  "ja": {
+   "トム・ペティ＆ザ・ ハートブレイカーズ": 1
+  },
+  "en": {
+   "Tom Petty And The Heartbreakers": 1
+  }
+ },
+ {
+  "key": "en:bibio",
+  "n": 1,
+  "ja": {
+   "ビビオ": 1
+  },
+  "en": {
+   "Bibio": 1
+  }
+ },
+ {
+  "key": "en:elephantman",
+  "n": 1,
+  "ja": {
+   "エレファントマン": 1
+  },
+  "en": {
+   "Elephant Man": 1
+  }
+ },
+ {
+  "key": "en:serialkillaz",
+  "n": 1,
+  "ja": {
+   "シリアル・キラーズ": 1
+  },
+  "en": {
+   "Serial Killaz": 1
+  }
+ },
+ {
+  "key": "en:manfredmann",
+  "n": 1,
+  "ja": {
+   "マンフレッド・マン": 1
+  },
+  "en": {
+   "Manfred Mann": 1
+  }
+ },
+ {
+  "key": "en:dragibus",
+  "n": 1,
+  "ja": {
+   "ドラジビュス": 1
+  },
+  "en": {
+   "Dragibus": 1
+  }
+ },
+ {
+  "key": "en:helicon",
+  "n": 1,
+  "ja": {
+   "ヘリコン": 1
+  },
+  "en": {
+   "Helicon": 1
+  }
+ },
+ {
+  "key": "en:helenesegara",
+  "n": 1,
+  "ja": {
+   "エレーヌ・セガラ": 1
+  },
+  "en": {
+   "Helene Segara": 1
+  }
+ },
+ {
+  "key": "en:seunanikulapokutiandegypt80",
+  "n": 1,
+  "ja": {
+   "シェウン・ アニクラポ・ クティ＆ エジプト80": 1
+  },
+  "en": {
+   "Seun Anikulapo Kuti & Egypt 80": 1
+  }
+ },
+ {
+  "key": "en:aliceinchains",
+  "n": 1,
+  "ja": {
+   "アリス・イン・ チェインズ": 1
+  },
+  "en": {
+   "Alice In Chains": 1
+  }
+ },
+ {
+  "key": "en:nanamouskouri",
+  "n": 1,
+  "ja": {
+   "ナナ・ムスクーリ": 1
+  },
+  "en": {
+   "Nana Mouskouri": 1
+  }
+ },
+ {
+  "key": "en:barrymann",
+  "n": 1,
+  "ja": {
+   "バリー・マン": 1
+  },
+  "en": {
+   "Barry Mann": 1
+  }
+ },
+ {
+  "key": "en:dennisbovell",
+  "n": 1,
+  "ja": {
+   "デニス・ボヴェル": 1
+  },
+  "en": {
+   "Dennis Bovell": 1
+  }
+ },
+ {
+  "key": "en:donnyosmond",
+  "n": 1,
+  "ja": {
+   "ダニー・オズモンド": 1
+  },
+  "en": {
+   "Donny Osmond": 1
+  }
+ },
+ {
+  "key": "en:williamftmickjaggerjenniferlopez",
+  "n": 1,
+  "ja": {
+   "ウィル・アイ・アムfeat. ミック・ジャガー＆ ジェニファー・ロペス": 1
+  },
+  "en": {
+   "will.i.am ft. Mick Jagger, Jennifer Lopez": 1
+  }
+ },
+ {
+  "key": "en:selecter",
+  "n": 1,
+  "ja": {
+   "セレクター": 1
+  },
+  "en": {
+   "The Selecter": 1
+  }
+ },
+ {
+  "key": "en:vainglory",
+  "n": 1,
+  "ja": {
+   "ヴェイングローリー": 1
+  },
+  "en": {
+   "Vainglory": 1
+  }
+ },
+ {
+  "key": "ja:glay",
+  "n": 1,
+  "ja": {
+   "GLAY": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:saxon",
+  "n": 1,
+  "ja": {
+   "サクソン": 1
+  },
+  "en": {
+   "Saxon": 1
+  }
+ },
+ {
+  "key": "en:manfredmannsearthband",
+  "n": 1,
+  "ja": {
+   "マンフレッド・マンズ・アースバンド": 1
+  },
+  "en": {
+   "Manfred Mann's Earth Band": 1
+  }
+ },
+ {
+  "key": "en:arcadefire",
+  "n": 1,
+  "ja": {
+   "アーケイド・ファイア": 1
+  },
+  "en": {
+   "Arcade Fire": 1
+  }
+ },
+ {
+  "key": "en:kehlani",
+  "n": 1,
+  "ja": {
+   "ケラーニ": 1
+  },
+  "en": {
+   "Kehlani": 1
+  }
+ },
+ {
+  "key": "en:sylosis",
+  "n": 1,
+  "ja": {
+   "サイロシス": 1
+  },
+  "en": {
+   "Sylosis": 1
+  }
+ },
+ {
+  "key": "en:manhattans",
+  "n": 1,
+  "ja": {
+   "マンハッタンズ": 1
+  },
+  "en": {
+   "The Manhattans": 1
+  }
+ },
+ {
+  "key": "en:irakere",
+  "n": 1,
+  "ja": {
+   "イラケレ": 1
+  },
+  "en": {
+   "Irakere": 1
+  }
+ },
+ {
+  "key": "en:wyclefjean",
+  "n": 1,
+  "ja": {
+   "ワイクリフ・ジョン": 1
+  },
+  "en": {
+   "Wyclef Jean": 1
+  }
+ },
+ {
+  "key": "en:desmonddekker",
+  "n": 1,
+  "ja": {
+   "デスモンド・デッカー": 1
+  },
+  "en": {
+   "Desmond Dekker": 1
+  }
+ },
+ {
+  "key": "en:lennywilliams",
+  "n": 1,
+  "ja": {
+   "レニー・ウィリアムズ": 1
+  },
+  "en": {
+   "Lenny Williams": 1
+  }
+ },
+ {
+  "key": "en:cassie",
+  "n": 1,
+  "ja": {
+   "キャシー": 1
+  },
+  "en": {
+   "Cassie": 1
+  }
+ },
+ {
+  "key": "en:municipalwaste",
+  "n": 1,
+  "ja": {
+   "ミュニシパル・ ウェイスト": 1
+  },
+  "en": {
+   "Municipal Waste": 1
+  }
+ },
+ {
+  "key": "en:sarcofago",
+  "n": 1,
+  "ja": {
+   "サルコファーゴ": 1
+  },
+  "en": {
+   "Sarcófago": 1
+  }
+ },
+ {
+  "key": "en:halestorm",
+  "n": 1,
+  "ja": {
+   "ヘイルストーム": 1
+  },
+  "en": {
+   "Halestorm": 1
+  }
+ },
+ {
+  "key": "en:morbidangel",
+  "n": 1,
+  "ja": {
+   "モービッド・ エンジェル": 1
+  },
+  "en": {
+   "Morbid Angel": 1
+  }
+ },
+ {
+  "key": "en:thomasandfriends",
+  "n": 1,
+  "ja": {
+   "トーマス＆フレンズ": 1
+  },
+  "en": {
+   "Thomas And Friends": 1
+  }
+ },
+ {
+  "key": "en:cocteautwins",
+  "n": 1,
+  "ja": {
+   "コクトー・ツインズ": 1
+  },
+  "en": {
+   "Cocteau Twins": 1
+  }
+ },
+ {
+  "key": "en:againstthecurrent",
+  "n": 1,
+  "ja": {
+   "アゲインスト・ ザ・カレント": 1
+  },
+  "en": {
+   "Against The Current": 1
+  }
+ },
+ {
+  "key": "en:dreamtale",
+  "n": 1,
+  "ja": {
+   "ドリーム・テイル": 1
+  },
+  "en": {
+   "Dreamtale": 1
+  }
+ },
+ {
+  "key": "en:inthismoment",
+  "n": 1,
+  "ja": {
+   "イン・ディス・ モーメント": 1
+  },
+  "en": {
+   "In This Moment": 1
+  }
+ },
+ {
+  "key": "en:drake",
+  "n": 1,
+  "ja": {
+   "ドレイク": 1
+  },
+  "en": {
+   "Drake": 1
+  }
+ },
+ {
+  "key": "en:onedayasalion",
+  "n": 1,
+  "ja": {
+   "ワン・デイ・アズ・ ア・ライオン": 1
+  },
+  "en": {
+   "One Day As A Lion": 1
+  }
+ },
+ {
+  "key": "en:palaisschaumburg",
+  "n": 1,
+  "ja": {
+   "パレ・シャンブルグ": 1
+  },
+  "en": {
+   "Palais Schaumburg": 1
+  }
+ },
+ {
+  "key": "en:falloutboy",
+  "n": 1,
+  "ja": {
+   "フォール・アウト・ ボーイ": 1
+  },
+  "en": {
+   "Fall Out Boy": 1
+  }
+ },
+ {
+  "key": "en:skillet",
+  "n": 1,
+  "ja": {
+   "スキレット": 1
+  },
+  "en": {
+   "Skillet": 1
+  }
+ },
+ {
+  "key": "en:gabbypahinui",
+  "n": 1,
+  "ja": {
+   "ギャビー・パヒヌイ": 1
+  },
+  "en": {
+   "Gabby Pahinui": 1
+  }
+ },
+ {
+  "key": "en:cristinayhugo",
+  "n": 1,
+  "ja": {
+   "クリスティーナと ウーゴ": 1
+  },
+  "en": {
+   "Cristina Y Hugo": 1
+  }
+ },
+ {
+  "key": "en:billieeilish",
+  "n": 1,
+  "ja": {
+   "ビリー・アイリッシュ": 1
+  },
+  "en": {
+   "Billie Eilish": 1
+  }
+ },
+ {
+  "key": "en:beatallica",
+  "n": 1,
+  "ja": {
+   "ビータリカ": 1
+  },
+  "en": {
+   "Beatallica": 1
+  }
+ },
+ {
+  "key": "en:olympics",
+  "n": 1,
+  "ja": {
+   "ジ・オリンピックス": 1
+  },
+  "en": {
+   "The Olympics": 1
+  }
+ },
+ {
+  "key": "en:imaginedragons",
+  "n": 1,
+  "ja": {
+   "イマジン・ドラゴンズ": 1
+  },
+  "en": {
+   "Imagine Dragons": 1
+  }
+ },
+ {
+  "key": "en:donomarftlucenzo",
+  "n": 1,
+  "ja": {
+   "ドン・オマール feat.ルセンゾ": 1
+  },
+  "en": {
+   "Don Omar ft. Lucenzo": 1
+  }
+ },
+ {
+  "key": "en:jessglynne",
+  "n": 1,
+  "ja": {
+   "ジェス・グリン": 1
+  },
+  "en": {
+   "Jess Glynne": 1
+  }
+ },
+ {
+  "key": "ja:arラフマン(alrakkharahman)※ムトゥ踊るマハラジャオリジナルサウンドドラック",
+  "n": 1,
+  "ja": {
+   "Ａ．Ｒ．ラフマーン (Al Rakkha Rahman) ※ムトゥ踊るマハラジャ オリジナルサウンドドラック": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:amaliarodrigues",
+  "n": 1,
+  "ja": {
+   "アマリア・ロドリゲス": 1
+  },
+  "en": {
+   "Amália Rodrigues": 1
+  }
+ },
+ {
+  "key": "en:zaz",
+  "n": 1,
+  "ja": {
+   "ザーズ": 1
+  },
+  "en": {
+   "Zaz": 1
+  }
+ },
+ {
+  "key": "en:philipbaileyandphilcollins",
+  "n": 1,
+  "ja": {
+   "フィリップ・ベイリー デュエット フィル・コリンズ": 1
+  },
+  "en": {
+   "Philip Bailey & Phil Collins": 1
+  }
+ },
+ {
+  "key": "en:iggyazalea",
+  "n": 1,
+  "ja": {
+   "イギー・アゼリア": 1
+  },
+  "en": {
+   "Iggy Azalea": 1
+  }
+ },
+ {
+  "key": "en:rob",
+  "n": 1,
+  "ja": {
+   "ロブ": 1
+  },
+  "en": {
+   "Rob": 1
+  }
+ },
+ {
+  "key": "en:scotthelman",
+  "n": 1,
+  "ja": {
+   "スコット・ヘルマン": 1
+  },
+  "en": {
+   "Scott Helman": 1
+  }
+ },
+ {
+  "key": "en:natashastpier",
+  "n": 1,
+  "ja": {
+   "ナターシャ・ サン＝ピエール": 1
+  },
+  "en": {
+   "Natasha St-Pier": 1
+  }
+ },
+ {
+  "key": "en:eleventyseven",
+  "n": 1,
+  "ja": {
+   "イレブンティセブン": 1
+  },
+  "en": {
+   "Eleventyseven": 1
+  }
+ },
+ {
+  "key": "en:paulmccartneyandwings",
+  "n": 1,
+  "ja": {
+   "ポール・ マッカートニー＆ ウィングス": 1
+  },
+  "en": {
+   "Paul McCartney & Wings": 1
+  }
+ },
+ {
+  "key": "en:francoisehardy",
+  "n": 1,
+  "ja": {
+   "フランソワーズ・ アルディ": 1
+  },
+  "en": {
+   "Françoise Hardy": 1
+  }
+ },
+ {
+  "key": "en:artbrut",
+  "n": 1,
+  "ja": {
+   "アート・ブルート": 1
+  },
+  "en": {
+   "Art Brut": 1
+  }
+ },
+ {
+  "key": "en:iconforhire",
+  "n": 1,
+  "ja": {
+   "アイコン・フォー・ ハイアー": 1
+  },
+  "en": {
+   "Icon For Hire": 1
+  }
+ },
+ {
+  "key": "en:buttholesurfers",
+  "n": 1,
+  "ja": {
+   "バッドホール・ サーファーズ": 1
+  },
+  "en": {
+   "Butthole Surfers": 1
+  }
+ },
+ {
+  "key": "en:placidodomingoandpablosainzvillegas",
+  "n": 1,
+  "ja": {
+   "プラシド・ドミンゴ＆パブロ・サインス・ビジェガス": 1
+  },
+  "en": {
+   "Plácido Domingo & Pablo Sáinz Villegas": 1
+  }
+ },
+ {
+  "key": "en:mercyfulfate",
+  "n": 1,
+  "ja": {
+   "マーシフル・フェイト": 1
+  },
+  "en": {
+   "Mercyful Fate": 1
+  }
+ },
+ {
+  "key": "en:grimes",
+  "n": 1,
+  "ja": {
+   "グライムス": 1
+  },
+  "en": {
+   "Grimes": 1
+  }
+ },
+ {
+  "key": "en:karolgnickiminaj",
+  "n": 1,
+  "ja": {
+   "カロルG ニッキー・ミナージュ": 1
+  },
+  "en": {
+   "KAROL G Nicki Minaj": 1
+  }
+ },
+ {
+  "key": "en:mattmonro",
+  "n": 1,
+  "ja": {
+   "マット・モンロー": 1
+  },
+  "en": {
+   "Matt Monro": 1
+  }
+ },
+ {
+  "key": "en:roccohunt",
+  "n": 1,
+  "ja": {
+   "ロッコ・ハント": 1
+  },
+  "en": {
+   "Rocco Hunt": 1
+  }
+ },
+ {
+  "key": "en:quaranteseptter",
+  "n": 1,
+  "ja": {
+   "キャラントセッテール": 1
+  },
+  "en": {
+   "Quarante Sept Ter": 1
+  }
+ },
+ {
+  "key": "en:ellebrijano",
+  "n": 1,
+  "ja": {
+   "エル・レブリアーノ": 1
+  },
+  "en": {
+   "El Lebrijano": 1
+  }
+ },
+ {
+  "key": "en:roseroyce",
+  "n": 1,
+  "ja": {
+   "ローズ・ロイス": 1
+  },
+  "en": {
+   "Rose Royce": 1
+  }
+ },
+ {
+  "key": "en:oreja",
+  "n": 1,
+  "ja": {
+   "オレハ": 1
+  },
+  "en": {
+   "Oreja": 1
+  }
+ },
+ {
+  "key": "en:camilacabello",
+  "n": 1,
+  "ja": {
+   "カミラ・カベロ": 1
+  },
+  "en": {
+   "Camila Cabello": 1
+  }
+ },
+ {
+  "key": "en:shaed",
+  "n": 1,
+  "ja": {
+   "シェイド": 1
+  },
+  "en": {
+   "Shaed": 1
+  }
+ },
+ {
+  "key": "en:lesnegressesvertes",
+  "n": 1,
+  "ja": {
+   "レ・ネグレス・ ヴェルト": 1
+  },
+  "en": {
+   "Les Négresses Vertes": 1
+  }
+ },
+ {
+  "key": "en:shame",
+  "n": 1,
+  "ja": {
+   "シェイム": 1
+  },
+  "en": {
+   "Shame": 1
+  }
+ },
+ {
+  "key": "en:chumbawamba",
+  "n": 1,
+  "ja": {
+   "チャンバワンバ": 1
+  },
+  "en": {
+   "Chumbawamba": 1
+  }
+ },
+ {
+  "key": "en:music",
+  "n": 1,
+  "ja": {
+   "ザ・ミュージック": 1
+  },
+  "en": {
+   "The Music": 1
+  }
+ },
+ {
+  "key": "en:adele",
+  "n": 1,
+  "ja": {
+   "アデル": 1
+  },
+  "en": {
+   "Adele": 1
+  }
+ },
+ {
+  "key": "en:lalupe",
+  "n": 1,
+  "ja": {
+   "ラ・ルペ": 1
+  },
+  "en": {
+   "La Lupe": 1
+  }
+ },
+ {
+  "key": "en:markusgrosskopfsbassinvaders",
+  "n": 1,
+  "ja": {
+   "マーカス・ グロスコフズ・ ベースインヴェイダーズ": 1
+  },
+  "en": {
+   "Markus Grosskopf's Bassinvaders": 1
+  }
+ },
+ {
+  "key": "en:ozomatli",
+  "n": 1,
+  "ja": {
+   "オゾマトリ": 1
+  },
+  "en": {
+   "Ozomatli": 1
+  }
+ },
+ {
+  "key": "en:rauwalejandroandanuelaa",
+  "n": 1,
+  "ja": {
+   "アウ・アレハンドロ＆アヌエルAA": 1
+  },
+  "en": {
+   "Rauw Alejandro & Anuel AA": 1
+  }
+ },
+ {
+  "key": "en:protector",
+  "n": 1,
+  "ja": {
+   "プロテクター": 1
+  },
+  "en": {
+   "Protector": 1
+  }
+ },
+ {
+  "key": "en:kevynlettau",
+  "n": 1,
+  "ja": {
+   "ケヴィン・レトー": 1
+  },
+  "en": {
+   "Kevyn Lettau": 1
+  }
+ },
+ {
+  "key": "en:dionysos",
+  "n": 1,
+  "ja": {
+   "ディオニソス": 1
+  },
+  "en": {
+   "Dionysos": 1
+  }
+ },
+ {
+  "key": "ja:ナパムデスnapalmdeath",
+  "n": 1,
+  "ja": {
+   "ナパーム・デスNapalm Death": 1
+  },
+  "en": {}
+ },
+ {
+  "key": "en:buckethead",
+  "n": 1,
+  "ja": {
+   "バケット・ヘッド": 1
+  },
+  "en": {
+   "Buckethead": 1
+  }
+ },
+ {
+  "key": "en:ritaoraandimanbek",
+  "n": 1,
+  "ja": {
+   "リタ・オラ＆ イマンベク": 1
+  },
+  "en": {
+   "Rita Ora ＆ Imanbek": 1
+  }
+ },
+ {
+  "key": "en:oliviachaney",
+  "n": 1,
+  "ja": {
+   "オリヴィア・ チェイニー": 1
+  },
+  "en": {
+   "Olivia Chaney": 1
+  }
+ },
+ {
+  "key": "en:atk",
+  "n": 1,
+  "ja": {
+   "アテキャ": 1
+  },
+  "en": {
+   "ATK": 1
+  }
+ },
+ {
+  "key": "en:todrickhall",
+  "n": 1,
+  "ja": {
+   "トドリック・ホール": 1
+  },
+  "en": {
+   "Todrick Hall": 1
+  }
+ },
+ {
+  "key": "en:meters",
+  "n": 1,
+  "ja": {
+   "ミーターズ": 1
+  },
+  "en": {
+   "Meters": 1
+  }
+ },
+ {
+  "key": "en:robbierobertson",
+  "n": 1,
+  "ja": {
+   "ロビー・ロバートソン": 1
+  },
+  "en": {
+   "Robbie Robertson": 1
+  }
+ },
+ {
+  "key": "en:jenniferhudson",
+  "n": 1,
+  "ja": {
+   "ジェニファー・ ハドソン": 1
+  },
+  "en": {
+   "Jennifer Hudson": 1
+  }
+ },
+ {
+  "key": "en:tibbs",
+  "n": 1,
+  "ja": {
+   "ザ・ティブズ": 1
+  },
+  "en": {
+   "Tibbs": 1
+  }
+ },
+ {
+  "key": "en:arca",
+  "n": 1,
+  "ja": {
+   "アルカ": 1
+  },
+  "en": {
+   "Arca": 1
+  }
+ },
+ {
+  "key": "en:goldensounds",
+  "n": 1,
+  "ja": {
+   "ゴールデン・ サウンズ": 1
+  },
+  "en": {
+   "Golden Sounds": 1
+  }
+ },
+ {
+  "key": "en:organizedkonfusion",
+  "n": 1,
+  "ja": {
+   "オーガナイズド・ コンフュージョン": 1
+  },
+  "en": {
+   "Organized Konfusion": 1
+  }
+ },
+ {
+  "key": "en:zro",
+  "n": 1,
+  "ja": {
+   "ズィー・ロー": 1
+  },
+  "en": {
+   "Z-Ro": 1
+  }
+ },
+ {
+  "key": "en:vowwow",
+  "n": 1,
+  "ja": {
+   "ヴァウワウ": 1
+  },
+  "en": {
+   "Vow Wow": 1
+  }
+ },
+ {
+  "key": "en:ivanlinsmarcosvalleandjoycemoreno",
+  "n": 1,
+  "ja": {
+   "イヴァン・リンス、 マルコス・ヴァーリ、 ジョイス・モレーノ": 1
+  },
+  "en": {
+   "Ivan Lins, Marcos Valle & Joyce Moreno": 1
+  }
+ },
+ {
+  "key": "en:davemason",
+  "n": 1,
+  "ja": {
+   "デイヴ・メイスン": 1
+  },
+  "en": {
+   "Dave Mason": 1
+  }
+ },
+ {
+  "key": "en:norlans",
+  "n": 1,
+  "ja": {
+   "ノーランズ": 1
+  },
+  "en": {
+   "Norlans": 1
+  }
+ },
+ {
+  "key": "en:jararaca",
+  "n": 1,
+  "ja": {
+   "ジャララッカ": 1
+  },
+  "en": {
+   "Jararaca": 1
+  }
+ },
+ {
+  "key": "en:jocelyne",
+  "n": 1,
+  "ja": {
+   "ジョスリーヌ": 1
+  },
+  "en": {
+   "Jocelyne": 1
+  }
+ }
+]
